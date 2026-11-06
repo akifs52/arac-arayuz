@@ -1,0 +1,456 @@
+﻿# design-spec.draft.json: design [1672, 941] @1.0x  profile desktop  nodes 105  text 245  icons 62
+## tokens
+color   c1=#000F1F  c2=#000C1A  c3=#000B17  c4=#010F21  c5=#091729  c6=#0A1B2E  c7=#072F60  c8=#000813  c9=#112031  c10=#0A1828  c11=#051D29  c12=#000000  c13=#0D2235  c14=#000003  c15=#0C76FC  c16=#00101E  c17=#12CD7B  c18=#061422  c19=#010309  c20=#021923  c21=#102237  c22=#000A1A  c23=#051C25  c24=#051425  c25=#101F32  c26=#7EABD4  c27=#30425A  c28=#8AB3D8  c29=#091C2E  c30=#92B8DA  c31=#000816  c32=#A1C2DF  c33=#00142E  c34=#011226  c35=#35475F  c36=#98BCDC  c37=#00060F  c38=#11263A  c39=#2D3E56  c40=#84AFD6  c41=#394B63  c42=#011622  c43=#79A7D2  c44=#011421  c45=#091F34  c46=#000512  c47=#0B1927  c48=#041D25  c49=#01152B  c50=#ADC9E0  c51=#07192E  c52=#0A1A23  c53=#0D1D32  c54=#011833  c55=#0A2531  text1=#FFFFFF  text2=#0BD57E  text3=#0979F7  text4=#B8C4D9  text5=#A6BBD0  text6=#8495A9  text7=#0DC779  text8=#C8D1DC  text9=#859B9F  text10=#648C97  text11=#80959D  text12=#C4CDDA  text13=#D4C8CE  text14=#E1E5EB  text15=#0B1F30  text16=#9CA3B0  text17=#91A0A8  text18=#8B99A1  text19=#01CAFC  text20=#98AB81  text21=#8E9A9D  text22=#40546E  text23=#9CBEDA  text24=#788341  text25=#DCE1E9  text26=#050F18  text27=#899397  text28=#646C46  text29=#8A959D  text30=#9DA85C  text31=#5B7A86  text32=#62788F  text33=#D5D9E1  text34=#A0A861  text35=#91A054  text36=#97A744  text37=#A6B444  text38=#738594  text39=#9FB043  text40=#1E3148  text41=#3F5169  text42=#8C9C40  text43=#BCCCDF  text44=#A0A788  text45=#858274  text46=#D0D7E3  text47=#010404  text48=#8C9F34  text49=#4B5A70  text50=#68788E  text51=#22446A  text52=#93AFB1  text53=#95A763  text54=#A9B6AB  text55=#9DA853  text56=#9FA19B  text57=#30445B  text58=#A4B079  text59=#7F8D4D  text60=#81945D  text61=#A6BA7F  text62=#ADB179  text63=#7D8186  text64=#ECFDF7  text65=#9CAD5F  text66=#D6DCE6  text67=#8C8F9E  text68=#64738D  text69=#7A8182  text70=#748141  text71=#A0A2AC  text72=#FEFBFB  text73=#7E8975  text74=#676F45  text75=#A29C8A  text76=#8E9C37  text77=#B145FF  text78=#36495F  text79=#F3DEC1  text80=#828B4C  text81=#8D949E  text82=#D0BAC8  text83=#8C9194  text84=#7A877E  text85=#D5CBC7  text86=#8C8FA5  text87=#516E86  text88=#7E9298  text89=#455871  text90=#677C92  text91=#EC3D3C  text92=#A09590  text93=#70859D  text94=#697D95  text95=#1190D4  text96=#394860  text97=#C4AEA8  text98=#3A465A  text99=#14273F  text100=#BFA89D  text101=#BA3CEC  text102=#7A6F72  text103=#C8D1E0  text104=#979DAF  text105=#7D90A5  text106=#4F566A  text107=#8496AC  text108=#8493A8  text109=#29374C  text110=#4B5467  text111=#84838B  text112=#634C64  text113=#687F9D  text114=#73A3CF  text115=#9F9FA2  text116=#6B8197  text117=#8F8FA0  text118=#7A8FA5  text119=#747B8B  text120=#8B9BB4  text121=#394F69  text122=#576D75  text123=#5B6E7D  text124=#191642  text125=#E9861C  text126=#21548B  text127=#9B9BA8  text128=#798EA4  text129=#68665C  text130=#B6CBDE  text131=#C0CCDA  text132=#BFCADD
+space   1=2  2=4  3=6  4=7  5=8  6=14  7=15  8=16  9=17  10=18  11=19  12=20  13=22  14=34  15=40  16=41  17=43  18=61
+radius  r2=2  r4=4  r6=6  r7=7  r8=8  r9=9  r10=10  r11=11  r12=12  r13=13  r14=14  r15=15  r16=16  r17=17  r18=18  r19=19  r20=20  r21=21  r23=23  r24=24  r25=25  r26=26  r28=28  r29=29  r32=32  r36=36  r41=41  r45=45  r47=47  r91=91  r97=97
+type    #0: ? px49 w400
+type    #1: ? px46 w400
+type    #2: ? px40 w400
+type    #3: ? px35 w400
+type    #4: ? px34 w400
+type    #5: ? px33 w400
+type    #6: ? px32 w400
+type    #7: ? px31 w400
+type    #8: ? px30 w400
+type    #9: ? px29 w400
+type    #10: ? px28 w400
+type    #11: ? px27 w400
+type    #12: ? px26 w400
+type    #13: ? px24 w400
+type    #14: ? px23 w400
+type    #15: ? px22 w400
+type    #16: ? px21 w400
+type    #17: ? px20 w400
+type    #18: ? px19 w400
+type    #19: ? px18 w400
+type    #20: ? px17 w400
+type    #21: ? px16 w400
+type    #22: ? px15 w400
+type    #23: ? px14 w400
+type    #24: ? px13 w400
+type    #25: ? px12 w400
+type    #26: ? px11 w400
+type    #27: ? px10 w400
+type    #28: ? px9 w400
+type    #29: ? px8 w400
+type    #30: ? px7 w400
+type    #31: ? px6 w400
+type    #32: ? px5 w400
+type    #33: ? px4 w400
+type    #34: ? px3 w400
+type    #35: ? px2 w400
+## nodes
+s0        -             278,67 1394×874  fill=c2  r=1.5
+s1        -             278,68 1394×873  fill=c8  r=14.3  parent=s0
+s2        -             0,67 276×874  fill=c2  r=97.0
+s3        -             0,67 275×874  fill=c16  r=90.7  parent=s2
+s4        -             296,672 401×235  fill=c1  r=10.1  parent=s1
+s5        -             297,672 400×235  fill=c2  r=9.0  parent=s4
+s6        -             297,672 400×234  fill=c18  r=24.5  parent=s5
+s7        -             277,0 1395×66  fill=c16  r=6.1
+s8        -             278,0 1394×66  fill=c2  parent=s7
+s9        -             1281,671 372×238  fill=c24  r=45.0  parent=s1
+s10       -             1282,672 370×235  fill=c1  r=10.5  parent=s9
+s11       -             1282,671 370×235  fill=c24  r=32.3  parent=s10
+s12       -             1282,672 370×234  fill=c18  r=19.8  parent=s11
+s13       -             1282,82 371×209  fill=c24  r=35.8  parent=s1
+s14       -             1282,83 370×207  fill=c1  r=6.5  parent=s13
+s15       -             715,672 289×235  fill=c1  r=8.1  parent=s1
+s16       -             716,672 288×235  fill=c2  r=6.3  parent=s15
+s17       -             19,662 250×236  fill=c4  r=29.0  parent=s3
+s18       -             19,662 249×236  fill=c18  r=32.3  parent=s17
+s19       -             19,663 248×233  fill=c1  r=7.8  parent=s18
+s20       -             20,663 247×233  fill=c2  r=7.3  parent=s19
+s21       -             1022,671 241×236  fill=c24  r=40.6  parent=s1
+s22       -             1023,672 240×235  fill=c1  r=7.1  parent=s21
+s23       -             1023,671 239×235  fill=c24  r=29.4  parent=s22
+s24       -             1023,672 239×234  fill=c18  r=19.3  parent=s23
+s25       -             1282,307 370×134  fill=c18  r=21.2  parent=s1
+s26       -             1282,307 370×133  fill=c1  r=5.9  parent=s25
+s27       -             1282,457 371×94  fill=c24  r=20.6  parent=s1
+s28       -             1282,457 370×94  fill=c1  r=6.3  parent=s27
+s29       -             1283,457 369×94  fill=c2  r=47.0  parent=s28
+s30       -             1282,457 370×93  fill=c24  r=12.0  parent=s29
+s31       -             1281,567 371×88  fill=c24  r=22.6  parent=s1
+s32       -             1282,567 370×87  fill=c34  r=20.0  parent=s31
+s33       -             1282,568 371×86  fill=c18  r=15.4  parent=s32
+s34       -             1282,568 370×86  fill=c1  r=7.2  parent=s33
+s35       -             0,0 276×66  fill=c2
+s36       -             4,87 264×51  fill=c7  r=10.7  parent=s3
+s37       -             1290,712 176×73  fill=c49  r=25.8  parent=s12
+s38       -             1291,713 173×70  fill=c33  r=23.4  parent=s37
+s39       -             431,82 297×39  fill=c45  r=19.5  parent=s1
+s40       -             1293,715 170×66  fill=c54  r=18.1  parent=s38
+s41       -             340,826 263×40  fill=c42  r=13.6  parent=s6
+s42       -             340,827 263×38  fill=c44  r=13.3  parent=s41
+s43       -             1298,794 103×91  fill=c23  r=17.3  border=2 #0A2531  parent=s12
+s44       -             1534,795 103×91  fill=c5  r=17.6  border=2 #0C1D31  parent=s12
+s45       -             1298,795 103×90  fill=c23  r=11.1  border=2 #0A2632  parent=s43
+s46       -             1535,795 103×90  fill=c6  r=16.0  border=2 #0F2036  parent=s44
+s47       -             1535,795 102×90  fill=c5  r=8.7  border=2 #0F2036  parent=s46
+s48       -             1535,796 101×88  fill=c6  r=21.4  parent=s47
+s49       -             1299,796 101×88  fill=c29  r=24.5  parent=s45
+s50       -             1417,796 101×88  fill=c6  r=24.9  parent=s12
+s51       -             1299,796 100×88  fill=c11  r=18.2  parent=s49
+s52       -             1476,720 159×55  fill=c5  r=8.5  border=2 #102337  parent=s12
+s53       -             1418,796 99×88  fill=c51  r=24.4  parent=s50
+s54       -             1299,796 100×87  fill=c6  r=20.9  parent=s51
+s55       -             1418,796 99×87  fill=c5  r=15.5  parent=s53
+s56       -             1299,797 100×86  fill=c29  r=17.3  parent=s54
+s57       -             1476,720 159×54  fill=c53  r=17.3  parent=s52
+s58       -             1419,796 98×87  fill=c6  r=19.7  parent=s55
+s59       -             1419,797 98×86  fill=c5  r=6.6  parent=s58
+s60       -             1301,797 98×86  fill=c10  r=13.5  parent=s56
+s61       -             1537,797 98×85  fill=c48  r=18.6  parent=s48
+s62       -             1478,721 157×53  fill=c29  r=14.3  parent=s57
+s63       -             1299,721 156×53  fill=c15  r=8.2  parent=s40
+s64       -             1478,721 156×53  fill=c6  r=12.1  parent=s62
+s65       -             1301,798 98×84  fill=c47  r=13.0  parent=s60
+s66       -             1478,721 156×52  fill=c29  r=7.2  parent=s64
+s67       -             1478,721 155×52  fill=c51  r=7.2  parent=s66
+s68       -             1298,346 214×29  fill=c17  r=12.6  parent=s26
+s69       -             1288,655 362×16  fill=c37  r=8.0  parent=s1
+s70       -             469,834 134×32  fill=c34  r=16.0  parent=s42
+s71       -             1172,582 73×56  fill=c4  r=28.0  parent=s1
+s72       -             1172,582 73×55  fill=c44  r=27.5  parent=s71
+s73       -             313,608 117×30  fill=c4  r=13.6  parent=s1
+s74       -             313,608 118×29  fill=c18  r=13.0  parent=s73
+s75       -             313,608 117×29  fill=c44  r=13.2  parent=s74
+s76       -             338,825 69×40  fill=c20  r=20.0  parent=s6
+s77       -             278,441 17×158  fill=c46  r=8.5  parent=s1
+s78       -             278,69 18×146  fill=c16  r=9.0  parent=s1
+s79       -             603,837 88×28  fill=c34  r=14.0  parent=s6
+s80       -             1509,344 67×33  fill=c13  r=13.2  parent=s26
+s81       -             338,825 68×32  fill=c23  r=16.0  parent=s76
+s82       -             1510,345 66×32  fill=c38  r=12.1  parent=s80
+s83       -             1510,346 66×31  fill=c9  r=15.5  parent=s82
+s84       -             338,825 68×30  fill=c48  r=15.0  parent=s81
+s85       -             537,733 65×31  fill=c2  r=11.0  parent=s6
+s86       -             340,733 65×29  fill=c2  r=8.5  parent=s6
+s87       -             406,733 64×29  fill=c2  r=3.7  parent=s6
+s88       -             603,842 65×23  fill=c16  r=10.4  parent=s79
+s89       -             1040,851 34×35  fill=c38  r=16.5  parent=s24
+s90       -             1603,606 34×34  fill=c21  r=7.0  parent=s34
+s91       -             1604,607 31×32  fill=c34  r=5.9  parent=s90
+s92       -             339,806 66×15  fill=c23  r=7.3  parent=s6
+s93       -             1604,608 31×31  fill=c18  r=5.7  parent=s91
+s94       -             444,401 68×13  fill=c14  r=6.5  parent=s1
+s95       -             353,805 52×15  fill=c18  r=7.5  parent=s92
+s96       -             353,806 52×14  fill=c24  r=7.0  parent=s95
+s97       -             1077,335 20×28  fill=c37  r=9.8  parent=s1
+s98       -             857,188 13×31  fill=c50  r=6.5  parent=s1
+s99       -             406,808 31×12  fill=c24  r=6.0  parent=s6
+s100      -             669,804 14×23  fill=c52  r=7.0  parent=s6
+s101      -             669,808 14×18  fill=c10  r=7.0  parent=s100
+g0        Gradient?     296,82 969×41  parent=s1  [verify]
+g1        Gradient?     538,796 130×32  parent=s6  [verify]
+g2        Gradient?     472,733 196×30  parent=s85  [verify]
+## text
+t0        "AutoPilot Pro"  89,18 126×16.5  px22  #FFFFFF  [verify]
+t1        "Sistem Aktif"  342.5,18 86.5×12.5  px17  #FFFFFF
+t2        "18°C"  909,18.5 31.5×12  px17  #FFFFFF  [verify]
+t3        "14:37"  1038.5,18.5 37.5×12  px17  #FFFFFF  [verify]
+t4        "GPS"  1228,18.5 25.5×10.5  px15  #FFFFFF
+t5        "all"  1319.5,20 27.5×24  px32  #0BD57E  [verify]
+t6        "Sms"  22,22.5 53×24.5  px34  #0979F7  [verify]
+t7        "fe)"  310,24.5 14.5×15.5  px21  #0BD57E  [verify]
+t8        "O"  1596,25 14×14  px19  #B8C4D9
+t9        "xX"  1638.5,25.5 12.5×13  px18  #A6BBD0  [verify]
+t10       "Otonom Sürüş Sistemi"  89.5,41.5 134.5×13.5  px14  #A6BBD0
+t11       "Otonom Sürüş Modu"  342,39 108×11.5  px12  #8495A9
+t12       "İstanbul"  909,37.5 42×10.5  px12  #7EABD4
+t13       "25 Nisan 2025"  1038,39 77.5×9  px12  #79A7D2  [verify]
+t14       "10/10"  1228,39 31×9.5  px13  #0DC779  [verify]
+t15       "N"  260.5,87 7.5×7.5  px10  #072F60
+t16       "Ön Kamera - Canlı Görüntü"  335.5,93.5 172.5×14  px16  #FFFFFF
+t17       "@Hiz"  1297.5,95.5 34.5×11.5  px16  #FFFFFF  [verify]
+t18       "ft"  31.5,102.5 23.5×22  px30  #FFFFFF  [verify]
+t19       "Ana Panel"  79.5,107 69.5×12.5  px17  #FFFFFF
+t20       "rete KANI"  379.5,121.5 33×12  px16  #C8D1DC  [verify]
+t21       "ye"  1160,122 19×9.5  px13  #859B9F  [verify]
+t22       "Ni"  325,125 15×6.5  px9  #C8D1DC  [verify]
+t23       "4“,"  1030,129.5 15.5×4.5  px5  #648C97  [verify]
+t24       "Fi"  1090.5,126.5 19.5×9.5  px13  #A6BBD0  [verify]
+t25       "4"  1127,124 7.5×12  px17  #A6BBD0  [verify]
+t26       "VA"  1141,132 7×4.5  px6  #80959D  [verify]
+t27       "SS"  325,135 19.5×10.5  px15  #C4CDDA  [verify]
+t28       "\\g"  423.5,134 21×22.5  px31  #D4C8CE  [verify]
+t29       "Wi"  870,138 25×12  px17  #E1E5EB
+t30       "“iv"  918,146 7.5×9.5  px13  #0B1F30  [verify]
+t31       "CAĞ"  301,154.5 22.5×12.5  px14  #9CA3B0  [verify]
+t32       "4"  865,154.5 15×33  px46  #FFFFFF  [verify]
+t33       "VE DA"  1102,148.5 22.5×10.5  px15  #91A0A8  [verify]
+t34       "4"  1151,152 21×19.5  px27  #8B99A1  [verify]
+t35       "is"  1340,151 14.5×14.5  px20  #01CAFC  [verify]
+t36       "SN"  386.5,156.5 12.5×11  px15  #98AB81  [verify]
+t37       "YE"  1092,156.5 27×10  px14  #8E9A9D  [verify]
+t38       "Kamera Görüntüsü"  80,170 129.5×12  px16  #E1E5EB
+t39       "Aa"  343.5,170.5 12.5×9.5  px13  #A6BBD0  [verify]
+t40       "e"  456,171.5 3.5×5.5  px11  #40546E  [verify]
+t41       "A"  1010,164.5 9×8  px11  #9CBEDA  [verify]
+t42       "ağ"  1235.5,170.5 11×5  px7  #788341  [verify]
+t43       "fs"  1332,171.5 10×9.5  px13  #01CAFC  [verify]
+t44       "RA"  319.5,178 12×10  px14  #B8C4D9  [verify]
+t45       "KA"  416,174 19.5×8.5  px12  #DCE1E9  [verify]
+t46       "La"  876.5,173.5 19×10  px14  #050F18  [verify]
+t47       "/9"  1102.5,179 8.5×7.5  px10  #A6BBD0  [verify]
+t48       "Le"  1146.5,179.5 23.5×16  px22  #899397  [verify]
+t49       "VA"  1226.5,173 10×5.5  px8  #646C46  [verify]
+t50       "68"  1379.5,176 50×35.5  px49  #FFFFFF  [verify]
+t51       "BAS"  348,181 25.5×7.5  px10  #8A959D  [verify]
+t52       "YA"  1239,180.5 19×15  px21  #9DA85C
+t53       "re."  1052.5,194 8×3  px6  #5B7A86  [verify]
+t54       "Güncel Hız"  1525,195.5 57.5×9.5  px13  #62788F
+t55       "Ke"  304,199.5 4.5×5  px7  #A6BBD0  [verify]
+t56       "İN"  490,201 10.5×16.5  px18  #D5D9E1  [verify]
+t57       "p> J Ae"  939,200.5 46×32.5  px35  #A0A861  [verify]
+t58       "Oe"  1059,203.5 9.5×6.5  px9  #91A054  [verify]
+t59       "a>"  1104.5,206.5 10×5.5  px11  #A6BBD0  [verify]
+t60       "68 km/s"  1525,212 58.5×13.5  px18  #FFFFFF  [verify]
+t61       "ve"  1184.5,217 10×4  px8  #97A744  [verify]
+t62       "Gi,"  1238,216.5 12.5×8.5  px9  #A6B444  [verify]
+t63       "Pee"  1078.5,227.5 16.5×6.5  px9  #738594  [verify]
+t64       "Sx"  1235.5,221.5 17.5×7  px10  #9FB043  [verify]
+t65       "Harita ve Navigasyon"  80,232 146×15  px16  #DCE1E9
+t66       "ae can"  572,234.5 41×7.5  px14  #1E3148  [verify]
+t67       "öm"  828.5,229.5 13.5×3.5  px5  #3F5169  [verify]
+t68       "i"  860,235.5 14×29  px40  #E1E5EB  [verify]
+t69       "YAŞA"  1205.5,231.5 22.5×8  px9  #8C9C40  [verify]
+t70       "km/s"  1386.5,231 34.5×12.5  px17  #BCCCDF
+t71       "“3S"  340,236 17×8.5  px12  #A0A788  [verify]
+t72       "it"  458,243 3×5.5  px7  #858274  [verify]
+t73       "|"  814,237 7×6.5  px9  #D0D7E3  [verify]
+t74       "om"  833,239 9×5  px10  #07192E  [verify]
+t75       "eye"  874.5,243 30×12  px16  #A6BBD0  [verify]
+t76       "NA"  1045,239.5 19.5×13  px18  #010404  [verify]
+t77       "5"  1247.5,240.5 9.5×6  px8  #8C9F34  [verify]
+t78       "Py"  1464,238 4×2.5  px3  #4B5A70  [verify]
+t79       "Hedef Hız"  1525,243 53×10  px14  #68788E
+t80       "9"  663,249.5 10×9  px12  #22446A  [verify]
+t81       "A"  874.5,251.5 6×8  px11  #79A7D2  [verify]
+t82       "ye,"  885.5,250.5 12×13  px18  #93AFB1  [verify]
+t83       "hee"  913.5,249.5 17.5×5.5  px7  #95A763  [verify]
+t84       "KN"  364.5,253 10×7  px10  #A9B6AB  [verify]
+t85       "KAN"  999,253.5 15.5×11.5  px16  #9DA853  [verify]
+t86       "70 km/s"  1525,260 58.5×14  px19  #FFFFFF  [verify]
+t87       "feu"  299,267 58×22.5  px30  #9FA19B  [verify]
+t88       "jh"  661.5,260.5 7.5×6  px6  #30445B  [verify]
+t89       "Ça"  903.5,265 10×9.5  px10  #A4B079  [verify]
+t90       "Ix"  992,267.5 8.5×10.5  px15  #7F8D4D  [verify]
+t91       "TL"  1014.5,264.5 22×13  px18  #010404  [verify]
+t92       "W"  800.5,269.5 10×11  px15  #1E3148
+t93       "ae"  818.5,268.5 14×4.5  px9  #0B1F30  [verify]
+t94       "an"  860,270.5 12.5×6.5  px12  #81945D  [verify]
+t95       "4"  1169.5,271.5 11×5.5  px8  #A6BA7F  [verify]
+t96       "Ba"  1163,280.5 38×12  px17  #ADB179  [verify]
+t97       "be"  1198.5,280 10.5×4.5  px6  #7D8186  [verify]
+t98       "Re"  619,287 10.5×7.5  px10  #D0D7E3  [verify]
+t99       "Otobüs 32.6 m"  814,288 77×9.5  px13  #ECFDF7  [verify]
+t100      "fi,"  973.5,288.5 10.5×8  px8  #9CAD5F  [verify]
+t101      "Sürüş Asistanı"  80,294 98×15  px16  #D6DCE6
+t102      "NY"  320.5,306 15.5×8.5  px12  #8C8F9E  [verify]
+t103      "at"  318.5,313 24×8.5  px11  #64738D  [verify]
+t104      "'s"  402.5,315.5 12×6  px12  #7A8182  [verify]
+t105      "7)"  598.5,310.5 15.5×6  px8  #748141  [verify]
+t106      "ça"  652,312 14.5×5.5  px8  #A0A2AC  [verify]
+t107      "Yaya 24.8"  1161.5,309 50×11.5  px12  #FEFBFB  [verify]
+t108      "he"  295,316 24.5×11.5  px16  #7E8975  [verify]
+t109      "Araç 18.7"  449.5,324 51×28  px30  #E1E5EB  [verify]
+t110      "a."  455.5,316 4×3.5  px7  #676F45  [verify]
+t111      "Dİ"  653,316.5 6×10.5  px12  #A29C8A  [verify]
+t112      "ee"  1056,317 10×9  px17  #8E9C37  [verify]
+t113      "A"  1192,323.5 39.5×5.5  px8  #B145FF  [verify]
+t114      "Batarya Durumu"  1312,319.5 102.5×14  px15  #FFFFFF
+t115      "Araç 12.4m"  631,331 70×27  px29  #DCE1E9  [verify]
+t116      "jue"  831,325.5 34.5×31  px33  #36495F  [verify]
+t117      "a"  927.5,324.5 6×7.5  px14  #0BD57E  [verify]
+t118      "16.8"  1001,328.5 18.5×8.5  px12  #F3DEC1  [verify]
+t119      "Ve"  296.5,334.5 11×5  px7  #828B4C  [verify]
+t120      "WI"  339,344 14.5×16.5  px23  #8D949E  [verify]
+t121      "İL"  403,347.5 11×7  px8  #D0BAC8  [verify]
+t122      "Hs"  519.5,343 22×7  px10  #0979F7  [verify]
+t123      "Gi"  551,341.5 10×15.5  px22  #8C9194  [verify]
+t124      "Araç Durumu"  79.5,356 88×15  px16  #D6DCE6
+t125      "Li"  566.5,349 18.5×14  px19  #7A877E  [verify]
+t126      "vo"  619.5,353.5 11×17  px33  #D5D9E1  [verify]
+t127      "78%"  1601.5,351.5 34×14  px19  #FFFFFF  [verify]
+t128      "vaz"  341.5,359 12×5.5  px11  #B8C4D9  [verify]
+t129      "BİZ"  546.5,359.5 35.5×21  px23  #D5CBC7  [verify]
+t130      "NE"  711,363.5 18×21  px29  #B8C4D9  [verify]
+t131      "ore |"  827,361.5 8×5  px7  #8C8FA5  [verify]
+t132      "cone"  901.5,358.5 13.5×4.5  px9  #516E86  [verify]
+t133      "ba"  827,371.5 18.5×13.5  px18  #7E9298  [verify]
+t134      "ASS"  1087.5,372 10×6.5  px9  #010404  [verify]
+t135      "şa"  1251,374 11×5  px7  #455871  [verify]
+t136      "hi"  825,382.5 11.5×16  px22  #677C92  [verify]
+t137      "uh"  973,385 13×9.5  px13  #4B5A70  [verify]
+t138      "-3"  706.5,388.5 17.5×7.5  px10  #EC3D3C  [verify]
+t139      "we"  1126,389 15×5.5  px11  #A09590  [verify]
+t140      "Kalan Menzil"  1298,395 68.5×9.5  px13  #70859D
+t141      "Tahmini Süre"  1551.5,395 70.5×9.5  px13  #697D95
+t142      "Zo"  609,403 24.5×17  px24  #1190D4  [verify]
+t143      "e"  780.5,396.5 26×7  px13  #394860  [verify]
+t144      "jae"  963,400.5 20.5×13.5  px15  #C4AEA8  [verify]
+t145      "2"  299,411.5 15.5×6.5  px9  #3A465A  [verify]
+t146      "=a"  422.5,406 13×4  px8  #14273F  [verify]
+t147      "Ce"  755.5,405 9×5.5  px8  #D5D9E1  [verify]
+t148      "YA"  963.5,410 22×10  px14  #BFA89D  [verify]
+t149      "Enerji Yönetimi"  80,418 104×15  px16  #FFFFFF
+t150      "ke"  1228.5,417.5 3×21  px28  #BA3CEC  [verify]
+t151      "362 km"  1298,412.5 52×12.5  px17  #FFFFFF  [verify]
+t152      "2 dk"  1619.5,412 16.5×13  px18  #FFFFFF  [verify]
+t153      "AE"  775.5,420.5 41×22.5  px31  #C4CDDA  [verify]
+t154      "gr"  1070,420.5 38×12.5  px17  #D5D9E1  [verify]
+t155      "A"  891.5,431.5 19×7  px10  #D5D9E1  [verify]
+t156      "EK"  968,433.5 31×18.5  px26  #010309  [verify]
+t157      "eee"  298,440.5 99.5×16.5  px32  #B8C4D9  [verify]
+t158      "A"  978.5,449.5 12×5  px7  #7A6F72  [verify]
+t159      "|—"  1239,449.5 25.5×16  px22  #C4CDDA  [verify]
+t160      "Motor Sıcaklıkları"  1312,469.5 111.5×11.5  px16  #FFFFFF
+t161      "Veri Kayıtları"  79.5,480 85.5×15  px16  #C8D1E0
+t162      "=S"  1235.5,478 27.5×8.5  px12  #979DAF  [verify]
+t163      "Ön Motor"  1341.5,500 49.5×10  px11  #7D90A5
+t164      "ar"  908.5,506.5 23.5×8.5  px16  #4F566A  [verify]
+t165      "Arka Motor"  1465,501 59×9  px12  #8496AC
+t166      "Batarya"  1588.5,501.5 40×11.5  px12  #8493A8
+t167      "42°C"  1341,521.5 33×12  px17  #E1E5EB  [verify]
+t168      "38°C"  1465,521.5 32.5×12  px17  #E1E5EB  [verify]
+t169      "35°C"  1588.5,521.5 32.5×12  px17  #E1E5EB  [verify]
+t170      "I"  825,527.5 13.5×5  px7  #29374C  [verify]
+t171      "Ayarlar"  79.5,541.5 49×15.5  px16  #E1E5EB
+t172      "CE"  986.5,544 29.5×8  px11  #4B5467  [verify]
+t173      "Sa"  916,554.5 1.5×1.5  px2  #4B5A70  [verify]
+t174      "Sees"  956.5,550 14×4  px6  #4B5A70  [verify]
+t175      "çep"  327.5,568 25×8  px11  #4F566A  [verify]
+t176      "YAN"  930.5,567.5 7×7  px10  #A6BBD0  [verify]
+t177      "SA"  940.5,574 23×8  px11  #B8C4D9  [verify]
+t178      "yar"  361.5,585.5 13.5×6.5  px9  #84838B  [verify]
+t179      "AM"  527,581.5 22.5×8  px11  #0979F7  [verify]
+t180      "=e"  710.5,581 15×1  px2  #22446A  [verify]
+t181      "Krag Konumu"  1298,581 92×13.5  px15  #FFFFFF  [verify]
+t182      "RM"  815,592 5×2  px3  #40546E  [verify]
+t183      "ır"  631,598.5 11×3  px4  #634C64  [verify]
+t184      "aA"  520,606 11.5×7.5  px10  #687F9D  [verify]
+t185      "eT"  740,608.5 55.5×10  px14  #B8C4D9  [verify]
+t186      "41.0082°N 28.9784°E"  1341,609 140.5×10.5  px15  #E1E5EB  [verify]
+t187      "| 1080p - 30 FPS"  339,617.5 80.5×11  px12  #73A3CF  [verify]
+t188      "wr 7"  488,618 23×9.5  px13  #9F9FA2  [verify]
+t189      "re"  908,617 57×6.5  px12  #6B8197  [verify]
+t190      "_—_*"  502.5,622.5 4.5×5  px10  #8F8FA0  [verify]
+t191      "İstanbul, Türkiye"  1341.5,627 94×15  px14  #7A8FA5
+t192      "ee — — — —"  829.5,646.5 111×6.5  px12  #747B8B  [verify]
+t193      "Sürüş Verileri"  308.5,689 86×15  px16  #FFFFFF
+t194      "Hiz"  530.5,692 16.5×9  px12  #8B9BB4
+t195      "© RPM"  568,692 37.5×8.5  px12  #C8D1DC
+t196      ") Batarya"  640,692 39.5×11  px12  #A6BBD0
+t197      "Kamera Derinlik Haritası"  731,687 130×9.5  px13  #FFFFFF
+t198      "x"  981,687.5 8.5×8.5  px16  #394F69
+t199      "Nesne Sayıları"  1038.5,687.5 75×11.5  px12  #E1E5EB
+t200      "Sürüş Kontrolleri"  1298,687.5 89.5×11.5  px12  #E1E5EB
+t201      "A"  148.5,706 19.5×15.5  px22  #73A3CF
+t202      "Araç"  1084,721.5 24.5×11.5  px12  #A6BBD0
+t203      "12"  1226,722 17.5×13  px18  #FFFFFF  [verify]
+t204      "Va"  1297.5,720 11.5×11  px15  #0979F7  [verify]
+t205      "Fy"  97.5,727 22.5×10.5  px11  #C8D1DC
+t206      "see"  163.5,731.5 33.5×11.5  px22  #455871  [verify]
+t207      "120"  307.5,725.5 18.5×9.5  px13  #D6DCE6  [verify]
+t208      "Uzak"  967,732 24×8.5  px11  #E1E5EB
+t209      "be"  135,742.5 6.5×6  px8  #576D75  [verify]
+t210      "Otonom Mod"  1358.5,743 68×9  px12  #E1E5EB
+t211      "Manuel Mod"  1537,743 65×9  px12  #A6BBD0
+t212      "“7"  127,750.5 15×10  px14  #5B6E7D  [verify]
+t213      "90"  313.5,757 12.5×9  px12  #D6DCE6  [verify]
+t214      "id"  723,762.5 12×11  px15  #191642  [verify]
+t215      "be"  912.5,757.5 12×9.5  px13  #191642  [verify]
+t216      "Yaya"  1084,767.5 25×11.5  px12  #A6BBD0
+t217      "|"  1445.5,764 11×10.5  px15  #0979F7  [verify]
+t218      "A="  459.5,783 23×17  px24  #E9861C  [verify]
+t219      "60 ©"  313.5,789 12.5×9  px12  #D0D7E3  [verify]
+t220      "Bt"  888,789.5 10.5×6.5  px9  #21548B  [verify]
+t221      "Tesla Model 3"  35.5,799.5 97×12.5  px17  #FFFFFF  [verify]
+t222      "RS Bisiklet"  1045.5,813 77.5×18  px24  #9B9BA8  [verify]
+t223      "2"  1235.5,814.5 8×13  px18  #FFFFFF  [verify]
+t224      "FAY"  1337,815 26×21.5  px30  #0BD57E  [verify]
+t225      "A"  1457,815.5 24×21  px29  #73A3CF
+t226      "VIN: SYJ3ETEA7NF123456"  36,824 156×10  px14  #798EA4  [verify]
+t227      "30"  314,821 12×9  px12  #D0D7E3  [verify]
+t228      "MA"  753.5,847 15×6  px8  #68665C  [verify]
+t229      "Şerit Takip"  1322.5,850.5 54.5×11.5  px12  #12CD7B
+t230      "Trafik Asistanı"  1431.5,850 73.5×10  px14  #E1E5EB
+t231      "Park Asistanı"  1553,851 67×9  px12  #B6CBDE
+t232      ") Bağlı"  58.5,858.5 30×14  px19  #0BD57E
+t233      "0"  320.5,853 5.5×9  px12  #C0CCDA  [verify]
+t234      "i"  338.5,865.5 1.5×4.5  px6  #455871  [verify]
+t235      "i"  667.5,865.5 1.5×5  px7  #4B5A70  [verify]
+t236      "ene"  1048.5,867 17×3.5  px7  #B8C4D9  [verify]
+t237      "Diğer"  1084.5,860 28×11.5  px16  #A6BBD0
+t238      "| Yakın"  967,870.5 26×9  px12  #DCE1E9
+t239      "14:32"  326.5,878.5 28×9  px12  #BFCADD  [verify]
+t240      "14:33"  392,878.5 28×9  px12  #BCCCDF  [verify]
+t241      "14:34"  457.5,878.5 28×9  px12  #BFCADD  [verify]
+t242      "14:35"  523.5,878.5 28.5×9  px12  #BCCCDF  [verify]
+t243      "14:36"  589.5,878.5 28×9  px12  #BCCCDF  [verify]
+t244      "14:37"  655,878.5 28×9  px12  #C0CCDA  [verify]
+## icons
+i0        ?  36,857 15×14.5  #0BD57E
+i1        ?  1297,319 11.5×12  #07FFE0
+i2        ?  1297,469.5 11.5×11.5  #07EBE5
+i3        ?  1326.5,737 20.5×21  #FFFFFF
+i4        ?  309.5,94.5 14.5×15  #FF403F
+i5        ?  515.5,692 9×9  #0979F7
+i6        ?  322.5,618 9×9  #0BD57E
+i7        ?  1001,21.5 22×21.5  #FFFFFF
+i8        ?  1201,35 5.5×7.5  #49FFCA
+i9        ?  950.5,732 11.5×9  #0B53EA
+i10       ?  1487.5,21.5 20.5×20.5  #FFFFFF
+i11       ?  1628.5,321 8.5×8.5  #36495F
+i12       ?  844,175 43×59.5  #132437
+i13       ?  1046.5,721.5 21×17.5  #02ACFF
+i14       ?  31,288.5 24×21.5  #FFFFFF
+i15       ?  1445,720 11.5×11  #0979F7
+i16       ?  625.5,692 8.5×8.5  #0BD57E
+i17       ?  1433.5,21.5 18.5×20.5  #FFFFFF
+i18       ?  458,609 11×14  #606F7D
+i19       ?  986.5,121.5 6.5×7  #73A3CF
+i20       ?  333.5,217.5 6×8.5  #C8D1DC
+i21       ?  677,609 8×8  #A6BBD0
+i22       ?  730,811 12×7.5  #072F60
+i23       ?  840,367 4.5×4.5  #FF4649
+i24       ?  1431,505.5 16×24  #01CAFC
+i25       ?  1023.5,331 7×5.5  #F6EEDD
+i26       ?  998,436.5 20×27.5  #EC9115
+i27       ?  1248,558.5 15.5×11.5  #1E3148
+i28       ?  1505.5,737.5 20.5×20  #A6BBD0
+i29       ?  890,28 5×5  #FFFFFF
+i30       ?  929.5,552.5 14×12  #B8C4D9
+i31       ?  480.5,397.5 22.5×10.5  #807679
+i32       ?  572,322.5 10.5×10  #5E703B
+i33       ?  1055.5,464.5 14×9  #8C8E9A
+i34       ?  616.5,243 7.5×10  #1E3148
+i35       ?  472,315.5 2.5×4  #6F7156
+i36       ?  392,787 24×7  #F48713
+i37       ?  1051,768.5 12×18  #BB5CFF
+i38       ?  799.5,264 6.5×7  #D5D9E1
+i39       ?  763,583 9×4.5  #21548B
+i40       ?  445,271.5 22.5×21.5  #8F9F39
+i41       ?  1093.5,611 33.5×28  #79A7D2
+i42       ?  883.5,156.5 12.5×22.5  #06121E
+i43       ?  889,195 6.5×13  #000B17
+i44       ?  951.5,870.5 8×9  #2A30FE
+i45       ?  1305,612.5 17×23.5  #0BD57E
+i46       ?  1575.5,814.5 22×22  #84AFD6
+i47       ?  411,571 7.5×6.5  #354053
+i48       ?  904,887 5×7  #6E101D
+i49       ?  1298,764 10.5×10.5  #0979F7
+i50       ?  296.5,212 34×32  #AEADA5
+i51       ?  1205,370.5 8×3.5  #767792
+i52       ?  986,207.5 7.5×11.5  #768F96
+i53       ?  1216,311.5 9×6.5  #F8E8FF
+i54       ?  725.5,725 13.5×14.5  #01107D
+i55       ?  818.5,277 7×5.5  #212D3E
+i56       ?  497.5,613 10×7.5  #9D9C9E
+i57       ?  589,283.5 5×11.5  #E1E5EB
+i58       ?  800.5,775.5 8.5×7  #41674C
+i59       ?  443.5,376.5 5.5×5.5  #B14D58
+i60       ?  909,368 16.5×15  #EC3023
+i61       ?  917,887 6.5×8  #781216

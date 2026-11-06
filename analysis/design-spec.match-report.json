@@ -1,0 +1,4540 @@
+{
+ "image": "input.png",
+ "spec": "analysis\\design-spec.json",
+ "skipped": [],
+ "fonts": {
+  "families": [
+   {
+    "family": "Roboto Condensed",
+    "category": "sans",
+    "runs": 40,
+    "wins": 13,
+    "meanScore": 0.648,
+    "agreement": -0.0506
+   }
+  ],
+  "runs": [
+   {
+    "string": "AutoPilot Pro",
+    "bbox": [
+     89.0,
+     18.0,
+     126.0,
+     16.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 22,
+    "measuredPx": 22.0,
+    "score": 0.8198,
+    "short": false
+   },
+   {
+    "string": "Sistem Aktif",
+    "bbox": [
+     342.5,
+     18.0,
+     86.5,
+     12.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 17,
+    "measuredPx": 17.0,
+    "score": 0.8437,
+    "short": false
+   },
+   {
+    "string": "18°C",
+    "bbox": [
+     909.0,
+     18.5,
+     31.5,
+     12.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 17,
+    "measuredPx": 18.4,
+    "score": 0.8715,
+    "short": false
+   },
+   {
+    "string": "14:37",
+    "bbox": [
+     1038.5,
+     18.5,
+     37.5,
+     12.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 17,
+    "measuredPx": 18.4,
+    "score": 0.9178,
+    "short": false
+   },
+   {
+    "string": "GPS",
+    "bbox": [
+     1228.0,
+     18.5,
+     25.5,
+     10.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 15,
+    "measuredPx": 16.4,
+    "score": 0.8178,
+    "short": false
+   },
+   {
+    "string": "all",
+    "bbox": [
+     1319.5,
+     20.0,
+     27.5,
+     24.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 32,
+    "measuredPx": 32.0,
+    "score": 0.7495,
+    "short": false
+   },
+   {
+    "string": "Sms",
+    "bbox": [
+     22.0,
+     22.5,
+     53.0,
+     24.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 900,
+    "px": 34,
+    "measuredPx": 35.4,
+    "score": 0.078,
+    "short": false
+   },
+   {
+    "string": "fe)",
+    "bbox": [
+     310.0,
+     24.5,
+     14.5,
+     15.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 900,
+    "px": 21,
+    "measuredPx": 16.0,
+    "score": 0.0769,
+    "short": false
+   },
+   {
+    "string": "O",
+    "bbox": [
+     1596.0,
+     25.0,
+     14.0,
+     14.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 19,
+    "measuredPx": 19.0,
+    "score": 0.3702,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "xX",
+    "bbox": [
+     1638.5,
+     25.5,
+     12.5,
+     13.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 18,
+    "measuredPx": 19.4,
+    "score": -0.2177,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Otonom Sürüş Sistemi",
+    "bbox": [
+     89.5,
+     41.5,
+     134.5,
+     13.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 14,
+    "measuredPx": 14.0,
+    "score": 0.7778,
+    "short": false
+   },
+   {
+    "string": "Otonom Sürüş Modu",
+    "bbox": [
+     342.0,
+     39.0,
+     108.0,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.0,
+    "score": 0.8675,
+    "short": false
+   },
+   {
+    "string": "İstanbul",
+    "bbox": [
+     909.0,
+     37.5,
+     42.0,
+     10.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 14.2,
+    "score": 0.8688,
+    "short": false
+   },
+   {
+    "string": "25 Nisan 2025",
+    "bbox": [
+     1038.0,
+     39.0,
+     77.5,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 14.7,
+    "score": 0.7518,
+    "short": false
+   },
+   {
+    "string": "10/10",
+    "bbox": [
+     1228.0,
+     39.0,
+     31.0,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 13,
+    "measuredPx": 14.3,
+    "score": 0.816,
+    "short": false
+   },
+   {
+    "string": "N",
+    "bbox": [
+     260.5,
+     87.0,
+     7.5,
+     7.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 10,
+    "measuredPx": 12.9,
+    "score": -0.1277,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Ön Kamera - Canlı Görüntü",
+    "bbox": [
+     335.5,
+     93.5,
+     172.5,
+     14.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.8295,
+    "short": false
+   },
+   {
+    "string": "Hız",
+    "bbox": [
+     1297.5,
+     95.5,
+     34.5,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": -0.5592,
+    "short": false
+   },
+   {
+    "string": "ft",
+    "bbox": [
+     31.5,
+     102.5,
+     23.5,
+     22.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 900,
+    "px": 30,
+    "measuredPx": 30.0,
+    "score": 0.2973,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Ana Panel",
+    "bbox": [
+     79.5,
+     107.0,
+     69.5,
+     12.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 17,
+    "measuredPx": 17.0,
+    "score": 0.8188,
+    "short": false
+   },
+   {
+    "string": "is",
+    "bbox": [
+     1340.0,
+     151.0,
+     14.5,
+     14.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 20,
+    "measuredPx": 22.7,
+    "score": -0.3421,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Kamera Görüntüsü",
+    "bbox": [
+     80.0,
+     170.0,
+     129.5,
+     12.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.75,
+    "short": false
+   },
+   {
+    "string": "fs",
+    "bbox": [
+     1332.0,
+     171.5,
+     10.0,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 13,
+    "measuredPx": 16.9,
+    "score": 0.2177,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "68",
+    "bbox": [
+     1379.5,
+     176.0,
+     50.0,
+     35.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 49,
+    "measuredPx": 51.8,
+    "score": 0.8451,
+    "short": true
+   },
+   {
+    "string": "Güncel Hız",
+    "bbox": [
+     1525.0,
+     195.5,
+     57.5,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 13,
+    "measuredPx": 13.0,
+    "score": 0.8107,
+    "short": false
+   },
+   {
+    "string": "68 km/s",
+    "bbox": [
+     1525.0,
+     212.0,
+     58.5,
+     13.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 18,
+    "measuredPx": 16.8,
+    "score": 0.817,
+    "short": false
+   },
+   {
+    "string": "Harita ve Navigasyon",
+    "bbox": [
+     80.0,
+     232.0,
+     146.0,
+     15.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.8019,
+    "short": false
+   },
+   {
+    "string": "km/s",
+    "bbox": [
+     1386.5,
+     231.0,
+     34.5,
+     12.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 17,
+    "measuredPx": 15.8,
+    "score": 0.7985,
+    "short": false
+   },
+   {
+    "string": "5",
+    "bbox": [
+     1247.5,
+     240.5,
+     9.5,
+     6.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 8,
+    "measuredPx": 10.7,
+    "score": -0.9139,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Py",
+    "bbox": [
+     1464.0,
+     238.0,
+     4.0,
+     2.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 700,
+    "px": 3,
+    "measuredPx": 3.8,
+    "score": 0.7367,
+    "short": true
+   },
+   {
+    "string": "Hedef Hız",
+    "bbox": [
+     1525.0,
+     243.0,
+     53.0,
+     10.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 14,
+    "measuredPx": 14.0,
+    "score": 0.788,
+    "short": false
+   },
+   {
+    "string": "70 km/s",
+    "bbox": [
+     1525.0,
+     260.0,
+     58.5,
+     14.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 19,
+    "measuredPx": 17.7,
+    "score": 0.8585,
+    "short": false
+   },
+   {
+    "string": "Otobüs 32.6 m",
+    "bbox": [
+     814.0,
+     288.0,
+     77.0,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 13,
+    "measuredPx": 13.0,
+    "score": 0.6316,
+    "short": false
+   },
+   {
+    "string": "Sürüş Asistanı",
+    "bbox": [
+     80.0,
+     294.0,
+     98.0,
+     15.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.7713,
+    "short": false
+   },
+   {
+    "string": "Yaya 24.8 m",
+    "bbox": [
+     1161.5,
+     309.0,
+     50.0,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 12,
+    "measuredPx": 13.1,
+    "score": 0.2399,
+    "short": false
+   },
+   {
+    "string": "Araç 18.9 m",
+    "bbox": [
+     449.5,
+     324.0,
+     51.0,
+     28.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 900,
+    "px": 30,
+    "measuredPx": 34.1,
+    "score": -0.6443,
+    "short": false
+   },
+   {
+    "string": "Batarya Durumu",
+    "bbox": [
+     1312.0,
+     319.5,
+     102.5,
+     14.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 15,
+    "measuredPx": 16.1,
+    "score": 0.8599,
+    "short": false
+   },
+   {
+    "string": "Araç 12.4 m",
+    "bbox": [
+     631.0,
+     331.0,
+     70.0,
+     27.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 29,
+    "measuredPx": 34.4,
+    "score": -0.6715,
+    "short": false
+   },
+   {
+    "string": "Araç Durumu",
+    "bbox": [
+     79.5,
+     356.0,
+     88.0,
+     15.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.8066,
+    "short": false
+   },
+   {
+    "string": "78%",
+    "bbox": [
+     1601.5,
+     351.5,
+     34.0,
+     14.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 19,
+    "measuredPx": 20.4,
+    "score": 0.779,
+    "short": false
+   },
+   {
+    "string": "şa",
+    "bbox": [
+     1251.0,
+     374.0,
+     11.0,
+     5.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 7,
+    "measuredPx": 11.2,
+    "score": 0.0851,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Kalan Menzil",
+    "bbox": [
+     1298.0,
+     395.0,
+     68.5,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 13,
+    "measuredPx": 13.0,
+    "score": 0.7248,
+    "short": false
+   },
+   {
+    "string": "Tahmini Süre",
+    "bbox": [
+     1551.5,
+     395.0,
+     70.5,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 13,
+    "measuredPx": 13.0,
+    "score": 0.7008,
+    "short": false
+   },
+   {
+    "string": "Enerji Yönetimi",
+    "bbox": [
+     80.0,
+     418.0,
+     104.0,
+     15.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.8433,
+    "short": false
+   },
+   {
+    "string": "362 km",
+    "bbox": [
+     1298.0,
+     412.5,
+     52.0,
+     12.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 17,
+    "measuredPx": 17.0,
+    "score": 0.8488,
+    "short": false
+   },
+   {
+    "string": "4 sa 12 dk",
+    "bbox": [
+     1619.5,
+     412.0,
+     16.5,
+     13.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 900,
+    "px": 18,
+    "measuredPx": 16.7,
+    "score": -1.1075,
+    "short": false
+   },
+   {
+    "string": "Motor Sıcaklıkları",
+    "bbox": [
+     1312.0,
+     469.5,
+     111.5,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.8617,
+    "short": false
+   },
+   {
+    "string": "Veri Kayıtları",
+    "bbox": [
+     79.5,
+     480.0,
+     85.5,
+     15.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 16.0,
+    "score": 0.9135,
+    "short": false
+   },
+   {
+    "string": "Ön Motor",
+    "bbox": [
+     1341.5,
+     500.0,
+     49.5,
+     10.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 11,
+    "measuredPx": 13.2,
+    "score": 0.8198,
+    "short": false
+   },
+   {
+    "string": "Arka Motor",
+    "bbox": [
+     1465.0,
+     501.0,
+     59.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.7635,
+    "short": false
+   },
+   {
+    "string": "Batarya",
+    "bbox": [
+     1588.5,
+     501.5,
+     40.0,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.1,
+    "score": 0.8415,
+    "short": false
+   },
+   {
+    "string": "42°C",
+    "bbox": [
+     1341.0,
+     521.5,
+     33.0,
+     12.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 17,
+    "measuredPx": 18.4,
+    "score": 0.8816,
+    "short": false
+   },
+   {
+    "string": "38°C",
+    "bbox": [
+     1465.0,
+     521.5,
+     32.5,
+     12.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 17,
+    "measuredPx": 18.4,
+    "score": 0.8564,
+    "short": false
+   },
+   {
+    "string": "35°C",
+    "bbox": [
+     1588.5,
+     521.5,
+     32.5,
+     12.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 17,
+    "measuredPx": 18.4,
+    "score": 0.8174,
+    "short": false
+   },
+   {
+    "string": "Ayarlar",
+    "bbox": [
+     79.5,
+     541.5,
+     49.0,
+     15.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 17.1,
+    "score": 0.9171,
+    "short": false
+   },
+   {
+    "string": "Araç Konumu",
+    "bbox": [
+     1298.0,
+     581.0,
+     92.0,
+     13.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 15,
+    "measuredPx": 15.0,
+    "score": 0.5424,
+    "short": false
+   },
+   {
+    "string": "41.0082° N  28.9784° E",
+    "bbox": [
+     1341.0,
+     609.0,
+     140.5,
+     10.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 15,
+    "measuredPx": 15.0,
+    "score": 0.3383,
+    "short": false
+   },
+   {
+    "string": "1080p - 30 FPS",
+    "bbox": [
+     339.0,
+     617.5,
+     80.5,
+     11.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 12,
+    "measuredPx": 13.1,
+    "score": 0.8033,
+    "short": false
+   },
+   {
+    "string": "İstanbul, Türkiye",
+    "bbox": [
+     1341.5,
+     627.0,
+     94.0,
+     15.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 14,
+    "measuredPx": 14.0,
+    "score": 0.8126,
+    "short": false
+   },
+   {
+    "string": "Sürüş Verileri",
+    "bbox": [
+     308.5,
+     689.0,
+     86.0,
+     15.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 16,
+    "measuredPx": 14.1,
+    "score": 0.8291,
+    "short": false
+   },
+   {
+    "string": "Hız",
+    "bbox": [
+     530.5,
+     692.0,
+     16.5,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.7673,
+    "short": false
+   },
+   {
+    "string": "RPM",
+    "bbox": [
+     568.0,
+     692.0,
+     37.5,
+     8.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": -0.2783,
+    "short": false
+   },
+   {
+    "string": "Batarya",
+    "bbox": [
+     640.0,
+     692.0,
+     39.5,
+     11.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 14.2,
+    "score": 0.7997,
+    "short": false
+   },
+   {
+    "string": "Kamera Derinlik Haritası",
+    "bbox": [
+     731.0,
+     687.0,
+     130.0,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 13,
+    "measuredPx": 13.0,
+    "score": 0.7831,
+    "short": false
+   },
+   {
+    "string": "x",
+    "bbox": [
+     981.0,
+     687.5,
+     8.5,
+     8.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 17.8,
+    "score": 0.3854,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Nesne Sayıları",
+    "bbox": [
+     1038.5,
+     687.5,
+     75.0,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 12,
+    "measuredPx": 13.1,
+    "score": 0.8062,
+    "short": false
+   },
+   {
+    "string": "Sürüş Kontrolleri",
+    "bbox": [
+     1298.0,
+     687.5,
+     89.5,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 600,
+    "px": 12,
+    "measuredPx": 11.1,
+    "score": 0.7129,
+    "short": false
+   },
+   {
+    "string": "A",
+    "bbox": [
+     148.5,
+     706.0,
+     19.5,
+     15.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 22,
+    "measuredPx": 24.8,
+    "score": -0.4644,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Araç",
+    "bbox": [
+     1084.0,
+     721.5,
+     24.5,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 12,
+    "measuredPx": 12.0,
+    "score": 0.6998,
+    "short": false
+   },
+   {
+    "string": "12",
+    "bbox": [
+     1226.0,
+     722.0,
+     17.5,
+     13.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 18,
+    "measuredPx": 18.0,
+    "score": 0.8201,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Va",
+    "bbox": [
+     1297.5,
+     720.0,
+     11.5,
+     11.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 15,
+    "measuredPx": 17.7,
+    "score": 0.0271,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Fy",
+    "bbox": [
+     97.5,
+     727.0,
+     22.5,
+     10.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 11,
+    "measuredPx": 14.3,
+    "score": -0.6339,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "see",
+    "bbox": [
+     163.5,
+     731.5,
+     33.5,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 200,
+    "px": 22,
+    "measuredPx": 25.7,
+    "score": 0.1161,
+    "short": false
+   },
+   {
+    "string": "120",
+    "bbox": [
+     307.5,
+     725.5,
+     18.5,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 13,
+    "measuredPx": 14.4,
+    "score": 0.8921,
+    "short": false
+   },
+   {
+    "string": "Uzak",
+    "bbox": [
+     967.0,
+     732.0,
+     24.0,
+     8.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 11,
+    "measuredPx": 12.2,
+    "score": 0.7223,
+    "short": false
+   },
+   {
+    "string": "be",
+    "bbox": [
+     135.0,
+     742.5,
+     6.5,
+     6.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 8,
+    "measuredPx": 12.0,
+    "score": -0.1504,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Otonom Mod",
+    "bbox": [
+     1358.5,
+     743.0,
+     68.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.9113,
+    "short": false
+   },
+   {
+    "string": "Manuel Mod",
+    "bbox": [
+     1537.0,
+     743.0,
+     65.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.872,
+    "short": false
+   },
+   {
+    "string": "“7",
+    "bbox": [
+     127.0,
+     750.5,
+     15.0,
+     10.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 14,
+    "measuredPx": 16.5,
+    "score": 0.0118,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "90",
+    "bbox": [
+     313.5,
+     757.0,
+     12.5,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 12.0,
+    "score": 0.7569,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "id",
+    "bbox": [
+     723.0,
+     762.5,
+     12.0,
+     11.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 15,
+    "measuredPx": 17.5,
+    "score": -0.2291,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "be",
+    "bbox": [
+     912.5,
+     757.5,
+     12.0,
+     9.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 13,
+    "measuredPx": 15.6,
+    "score": -0.2798,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Yaya",
+    "bbox": [
+     1084.0,
+     767.5,
+     25.0,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 14.2,
+    "score": 0.821,
+    "short": false
+   },
+   {
+    "string": "3",
+    "bbox": [
+     1445.5,
+     764.0,
+     11.0,
+     10.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 15,
+    "measuredPx": 16.4,
+    "score": -0.5318,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "A=",
+    "bbox": [
+     459.5,
+     783.0,
+     23.0,
+     17.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 24,
+    "measuredPx": 16.9,
+    "score": -0.5978,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "60",
+    "bbox": [
+     313.5,
+     789.0,
+     12.5,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 12.0,
+    "score": 0.7643,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Bt",
+    "bbox": [
+     888.0,
+     789.5,
+     10.5,
+     6.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 9,
+    "measuredPx": 11.6,
+    "score": -0.2088,
+    "short": true
+   },
+   {
+    "string": "Tesla Model 3",
+    "bbox": [
+     35.5,
+     799.5,
+     97.0,
+     12.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 17,
+    "measuredPx": 17.0,
+    "score": 0.7775,
+    "short": false
+   },
+   {
+    "string": "Bisikletçi",
+    "bbox": [
+     1045.5,
+     813.0,
+     77.5,
+     18.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 24,
+    "measuredPx": 20.9,
+    "score": 0.1306,
+    "short": false
+   },
+   {
+    "string": "2",
+    "bbox": [
+     1235.5,
+     814.5,
+     8.0,
+     13.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 18,
+    "measuredPx": 19.4,
+    "score": 0.9344,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "FAY",
+    "bbox": [
+     1337.0,
+     815.0,
+     26.0,
+     21.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 30,
+    "measuredPx": 30.0,
+    "score": -0.377,
+    "short": false
+   },
+   {
+    "string": "A",
+    "bbox": [
+     1457.0,
+     815.5,
+     24.0,
+     21.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 900,
+    "px": 29,
+    "measuredPx": 30.4,
+    "score": -0.1745,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "VIN: SYJ3ETEA7NF123456",
+    "bbox": [
+     36.0,
+     824.0,
+     156.0,
+     10.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 14,
+    "measuredPx": 15.4,
+    "score": 0.754,
+    "short": false
+   },
+   {
+    "string": "30",
+    "bbox": [
+     314.0,
+     821.0,
+     12.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.7181,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "MA",
+    "bbox": [
+     753.5,
+     847.0,
+     15.0,
+     6.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 8,
+    "measuredPx": 12.0,
+    "score": -0.0836,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "Şerit Takip",
+    "bbox": [
+     1322.5,
+     850.5,
+     54.5,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 600,
+    "px": 12,
+    "measuredPx": 11.1,
+    "score": 0.8554,
+    "short": false
+   },
+   {
+    "string": "Trafik Asistanı",
+    "bbox": [
+     1431.5,
+     850.0,
+     73.5,
+     10.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 14,
+    "measuredPx": 12.7,
+    "score": 0.8888,
+    "short": false
+   },
+   {
+    "string": "Park Asistanı",
+    "bbox": [
+     1553.0,
+     851.0,
+     67.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 12,
+    "measuredPx": 12.0,
+    "score": 0.8697,
+    "short": false
+   },
+   {
+    "string": "Bağlı",
+    "bbox": [
+     58.5,
+     858.5,
+     30.0,
+     14.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 19,
+    "measuredPx": 15.8,
+    "score": 0.7929,
+    "short": false
+   },
+   {
+    "string": "0",
+    "bbox": [
+     320.5,
+     853.0,
+     5.5,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 12.0,
+    "score": 0.7434,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "i",
+    "bbox": [
+     338.5,
+     865.5,
+     1.5,
+     4.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 6,
+    "measuredPx": 9.0,
+    "score": 0.1069,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "i",
+    "bbox": [
+     667.5,
+     865.5,
+     1.5,
+     5.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 7,
+    "measuredPx": 8.4,
+    "score": 0.5545,
+    "short": true,
+    "fromPeers": true
+   },
+   {
+    "string": "ene",
+    "bbox": [
+     1048.5,
+     867.0,
+     17.0,
+     3.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 300,
+    "px": 7,
+    "measuredPx": 7.0,
+    "score": -0.7139,
+    "short": false
+   },
+   {
+    "string": "Diğer",
+    "bbox": [
+     1084.5,
+     860.0,
+     28.0,
+     11.5
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 16,
+    "measuredPx": 13.9,
+    "score": 0.8279,
+    "short": false
+   },
+   {
+    "string": "Yakın",
+    "bbox": [
+     967.0,
+     870.5,
+     26.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 500,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.8188,
+    "short": false
+   },
+   {
+    "string": "14:32",
+    "bbox": [
+     326.5,
+     878.5,
+     28.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.8791,
+    "short": false
+   },
+   {
+    "string": "14:33",
+    "bbox": [
+     392.0,
+     878.5,
+     28.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.7433,
+    "short": false
+   },
+   {
+    "string": "14:34",
+    "bbox": [
+     457.5,
+     878.5,
+     28.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.9188,
+    "short": false
+   },
+   {
+    "string": "14:35",
+    "bbox": [
+     523.5,
+     878.5,
+     28.5,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.9091,
+    "short": false
+   },
+   {
+    "string": "14:36",
+    "bbox": [
+     589.5,
+     878.5,
+     28.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.897,
+    "short": false
+   },
+   {
+    "string": "14:37",
+    "bbox": [
+     655.0,
+     878.5,
+     28.0,
+     9.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 400,
+    "px": 12,
+    "measuredPx": 13.3,
+    "score": 0.8116,
+    "short": false
+   },
+   {
+    "string": "Bisikletçi 6.3 m",
+    "bbox": [
+     975.0,
+     322.0,
+     84.0,
+     11.0
+    ],
+    "family": "Roboto Condensed",
+    "weight": 600,
+    "px": 12,
+    "measuredPx": 12.9,
+    "score": 0.0483,
+    "short": false
+   }
+  ],
+  "bundledWeights": {
+   "Roboto Condensed": [
+    300,
+    400,
+    500,
+    600,
+    700,
+    900
+   ]
+  },
+  "outsideCatalog": false,
+  "note": "proprietary faces (SF Pro, Segoe UI, Helvetica) come back as their closest open family: say so in the README"
+ },
+ "icons": [
+  {
+   "id": "i0",
+   "bbox": [
+    36.0,
+    857.0,
+    15.0,
+    14.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:octagon-plus",
+     "score": 0.9315,
+     "coarse": 0.8637,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:rosette-discount-check",
+     "score": 0.884,
+     "coarse": 0.8566,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:rosette-asterisk",
+     "score": 0.8678,
+     "coarse": 0.8701,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    }
+   ]
+  },
+  {
+   "id": "i1",
+   "bbox": [
+    1297.0,
+    319.0,
+    11.5,
+    12.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:percentage-100",
+     "score": 0.9101,
+     "coarse": 0.9523,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler-filled:player-record",
+     "score": 0.9027,
+     "coarse": 0.9521,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:circle",
+     "score": 0.8998,
+     "coarse": 0.9514,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i2",
+   "bbox": [
+    1297.0,
+    469.5,
+    11.5,
+    11.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:percentage-100",
+     "score": 0.9332,
+     "coarse": 0.9253,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.931,
+     "coarse": 0.9289,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler-filled:blob",
+     "score": 0.952,
+     "coarse": 0.9292,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i3",
+   "bbox": [
+    1326.5,
+    737.0,
+    20.5,
+    21.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:steering-wheel",
+     "score": 0.7745,
+     "coarse": 0.81,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:ad-circle",
+     "score": 0.748,
+     "coarse": 0.7553,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:brand-letterboxd",
+     "score": 0.7376,
+     "coarse": 0.7779,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i4",
+   "bbox": [
+    309.5,
+    94.5,
+    14.5,
+    15.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:percentage-100",
+     "score": 0.9968,
+     "coarse": 0.9703,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.9866,
+     "coarse": 0.955,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "lucide:dot",
+     "score": 0.9859,
+     "coarse": 0.9722,
+     "strokeWidth": 1.75,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i5",
+   "bbox": [
+    515.5,
+    692.0,
+    9.0,
+    9.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:percentage-100",
+     "score": 0.9492,
+     "coarse": 0.8781,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.9447,
+     "coarse": 0.9189,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:hexagon",
+     "score": 0.9579,
+     "coarse": 0.9513,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i6",
+   "bbox": [
+    322.5,
+    618.0,
+    9.0,
+    9.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:percentage-100",
+     "score": 0.9475,
+     "coarse": 0.8629,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.9355,
+     "coarse": 0.8899,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:hexagon",
+     "score": 0.9737,
+     "coarse": 0.9283,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i7",
+   "bbox": [
+    1001.0,
+    21.5,
+    22.0,
+    21.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:clock-hour-4",
+     "score": 0.9878,
+     "coarse": 0.9784,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:clock",
+     "score": 0.9738,
+     "coarse": 0.9691,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:clock-hour-5",
+     "score": 0.9561,
+     "coarse": 0.9522,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    }
+   ]
+  },
+  {
+   "id": "i8",
+   "bbox": [
+    1201.0,
+    35.0,
+    5.5,
+    7.5
+   ],
+   "candidates": [
+    {
+     "id": "fa-solid:child-dress",
+     "score": 0.9029,
+     "coarse": 0.801,
+     "setBonus": 0.0
+    },
+    {
+     "id": "heroicons-solid:hand-raised",
+     "score": 0.8948,
+     "coarse": 0.7241,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler-filled:flame",
+     "score": 0.8896,
+     "coarse": 0.7909,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i9",
+   "bbox": [
+    950.5,
+    732.0,
+    11.5,
+    9.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.8755,
+     "coarse": 0.8579,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler-filled:rectangle",
+     "score": 0.9168,
+     "coarse": 0.9361,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler-filled:message-circle",
+     "score": 0.8966,
+     "coarse": 0.9165,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i10",
+   "bbox": [
+    1487.5,
+    21.5,
+    20.5,
+    20.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:settings-automation",
+     "score": 0.8231,
+     "coarse": 0.8531,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:brightness-auto",
+     "score": 0.8229,
+     "coarse": 0.8166,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:settings-ai",
+     "score": 0.7827,
+     "coarse": 0.8309,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i11",
+   "bbox": [
+    1628.5,
+    321.0,
+    8.5,
+    8.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:x",
+     "score": 0.9008,
+     "coarse": 0.8217,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:currency-xrp",
+     "score": 0.8428,
+     "coarse": 0.7035,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:topology-star",
+     "score": 0.8273,
+     "coarse": 0.6651,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    }
+   ]
+  },
+  {
+   "id": "i12",
+   "bbox": [
+    844.0,
+    175.0,
+    43.0,
+    59.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:brackets-contain-end",
+     "score": 0.7084,
+     "coarse": 0.7062,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "lucide:signal-low",
+     "score": 0.6817,
+     "coarse": 0.4792,
+     "strokeWidth": 1.25,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:chevron-down-right",
+     "score": 0.5935,
+     "coarse": 0.4809,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i13",
+   "bbox": [
+    1046.5,
+    721.5,
+    21.0,
+    17.5
+   ],
+   "candidates": [
+    {
+     "id": "fa-solid:automobile",
+     "score": 0.8949,
+     "coarse": 0.931,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:car",
+     "score": 0.8949,
+     "coarse": 0.931,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:car-rear",
+     "score": 0.7957,
+     "coarse": 0.8589,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i14",
+   "bbox": [
+    31.0,
+    288.5,
+    24.0,
+    21.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:lungs",
+     "score": 0.6674,
+     "coarse": 0.7432,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:brand-nord-vpn",
+     "score": 0.6451,
+     "coarse": 0.698,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:michelin-bib-gourmand",
+     "score": 0.6346,
+     "coarse": 0.7112,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i15",
+   "bbox": [
+    1445.0,
+    720.0,
+    11.5,
+    11.0
+   ],
+   "candidates": [
+    {
+     "id": "heroicons-solid:swatch",
+     "score": 0.7397,
+     "coarse": 0.8276,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:file-circle-exclamation",
+     "score": 0.7017,
+     "coarse": 0.7754,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:file-circle-minus",
+     "score": 0.7,
+     "coarse": 0.7738,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i16",
+   "bbox": [
+    625.5,
+    692.0,
+    8.5,
+    8.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.9631,
+     "coarse": 0.9479,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:percentage-100",
+     "score": 0.9604,
+     "coarse": 0.9565,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "lucide:signal-zero",
+     "score": 0.9764,
+     "coarse": 0.917,
+     "strokeWidth": 2.25,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i17",
+   "bbox": [
+    1433.5,
+    21.5,
+    18.5,
+    20.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:bell",
+     "score": 0.9167,
+     "coarse": 0.9383,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:bell-exclamation",
+     "score": 0.8218,
+     "coarse": 0.8244,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-regular:bell",
+     "score": 0.901,
+     "coarse": 0.9135,
+     "setBonus": 0.0
+    }
+   ]
+  },
+  {
+   "id": "i18",
+   "bbox": [
+    458.0,
+    609.0,
+    11.0,
+    14.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:password-mobile-phone",
+     "score": 0.6747,
+     "coarse": 0.6752,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:user-nurse",
+     "score": 0.578,
+     "coarse": 0.5724,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:file-type-bmp",
+     "score": 0.4948,
+     "coarse": 0.5728,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i19",
+   "bbox": [
+    986.5,
+    121.5,
+    6.5,
+    7.0
+   ],
+   "candidates": [
+    {
+     "id": "fa-solid:cart-plus",
+     "score": 0.6268,
+     "coarse": 0.655,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:cart-arrow-down",
+     "score": 0.6207,
+     "coarse": 0.6456,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:shopping-cart",
+     "score": 0.5753,
+     "coarse": 0.6248,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i20",
+   "bbox": [
+    333.5,
+    217.5,
+    6.0,
+    8.5
+   ],
+   "candidates": [
+    {
+     "id": "lucide:music-2",
+     "score": 0.652,
+     "coarse": 0.6566,
+     "strokeWidth": 1.25,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:arrow-merge-both",
+     "score": 0.5709,
+     "coarse": 0.6235,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:italic",
+     "score": 0.5615,
+     "coarse": 0.5796,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i21",
+   "bbox": [
+    677.0,
+    609.0,
+    8.0,
+    8.0
+   ],
+   "candidates": [
+    {
+     "id": "heroicons-solid:radio",
+     "score": 0.7936,
+     "coarse": 0.806,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:font-awesome-logo-full",
+     "score": 0.7706,
+     "coarse": 0.8356,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:font-awesome",
+     "score": 0.7706,
+     "coarse": 0.8356,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i22",
+   "bbox": [
+    730.0,
+    811.0,
+    12.0,
+    7.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:quotes",
+     "score": 0.5184,
+     "coarse": 0.5254,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:number-54-small",
+     "score": 0.4725,
+     "coarse": 0.5438,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:number-53-small",
+     "score": 0.4347,
+     "coarse": 0.534,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i23",
+   "bbox": [
+    840.0,
+    367.0,
+    4.5,
+    4.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.8406,
+     "coarse": 0.779,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "heroicons-solid:chat-bubble-bottom-center",
+     "score": 0.8543,
+     "coarse": 0.7537,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler-filled:bubble",
+     "score": 0.8353,
+     "coarse": 0.763,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i24",
+   "bbox": [
+    1431.0,
+    505.5,
+    16.0,
+    24.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:gender-genderless",
+     "score": 0.7596,
+     "coarse": 0.801,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler-filled:droplet",
+     "score": 0.8231,
+     "coarse": 0.8471,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-brands:obsidian",
+     "score": 0.8188,
+     "coarse": 0.8836,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i25",
+   "bbox": [
+    1023.5,
+    331.0,
+    7.0,
+    5.5
+   ],
+   "candidates": [
+    {
+     "id": "fa-brands:maxcdn",
+     "score": 0.8189,
+     "coarse": 0.794,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:brand-meetup",
+     "score": 0.7305,
+     "coarse": 0.697,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-brands:mix",
+     "score": 0.5803,
+     "coarse": 0.6515,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i26",
+   "bbox": [
+    998.0,
+    436.5,
+    20.0,
+    27.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:chevron-down-right",
+     "score": 0.6125,
+     "coarse": 0.5892,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:chevron-down-left",
+     "score": 0.6055,
+     "coarse": 0.5793,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:chart-line",
+     "score": 0.5782,
+     "coarse": 0.603,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i27",
+   "bbox": [
+    1248.0,
+    558.5,
+    15.5,
+    11.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:brand-wix",
+     "score": 0.7656,
+     "coarse": 0.704,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:abc",
+     "score": 0.6975,
+     "coarse": 0.6898,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "lucide:line-dot-left-horizontal",
+     "score": 0.6776,
+     "coarse": 0.6484,
+     "strokeWidth": 2.75,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i28",
+   "bbox": [
+    1505.5,
+    737.5,
+    20.5,
+    20.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:circle-caret-down",
+     "score": 0.9152,
+     "coarse": 0.9303,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:circle-asterisk",
+     "score": 0.889,
+     "coarse": 0.91,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:circle-plus",
+     "score": 0.8863,
+     "coarse": 0.9017,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    }
+   ]
+  },
+  {
+   "id": "i29",
+   "bbox": [
+    890.0,
+    28.0,
+    5.0,
+    5.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:bong",
+     "score": 0.6323,
+     "coarse": 0.665,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:schema",
+     "score": 0.6132,
+     "coarse": 0.6372,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:caret-right",
+     "score": 0.5987,
+     "coarse": 0.6227,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i30",
+   "bbox": [
+    929.5,
+    552.5,
+    14.0,
+    12.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:devices-pc-off",
+     "score": 0.5945,
+     "coarse": 0.6628,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:signature-off",
+     "score": 0.5944,
+     "coarse": 0.7243,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:shoe-off",
+     "score": 0.5741,
+     "coarse": 0.6191,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i31",
+   "bbox": [
+    480.5,
+    397.5,
+    22.5,
+    10.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:code-variable",
+     "score": 0.4895,
+     "coarse": 0.5528,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:crop-16-9",
+     "score": 0.4895,
+     "coarse": 0.5528,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "lucide:equal",
+     "score": 0.5588,
+     "coarse": 0.6945,
+     "strokeWidth": 1.25,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i32",
+   "bbox": [
+    572.0,
+    322.5,
+    10.5,
+    10.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:chart-cohort",
+     "score": 0.5591,
+     "coarse": 0.558,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:feather-off",
+     "score": 0.4811,
+     "coarse": 0.552,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:brand-threejs",
+     "score": 0.4727,
+     "coarse": 0.5839,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i33",
+   "bbox": [
+    1055.5,
+    464.5,
+    14.0,
+    9.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:http-connect",
+     "score": 0.4444,
+     "coarse": 0.7588,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:json",
+     "score": 0.3921,
+     "coarse": 0.7033,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:jpg",
+     "score": 0.3822,
+     "coarse": 0.6916,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i34",
+   "bbox": [
+    616.5,
+    243.0,
+    7.5,
+    10.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:letter-l-small",
+     "score": 0.663,
+     "coarse": 0.64,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:schema",
+     "score": 0.6428,
+     "coarse": 0.7121,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler-filled:temperature-minus",
+     "score": 0.5977,
+     "coarse": 0.665,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i35",
+   "bbox": [
+    472.0,
+    315.5,
+    2.5,
+    4.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:arrow-bar-to-down-dashed",
+     "score": 0.6989,
+     "coarse": 0.54,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:arrow-bar-to-down",
+     "score": 0.6906,
+     "coarse": 0.5464,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:download",
+     "score": 0.6628,
+     "coarse": 0.5266,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i36",
+   "bbox": [
+    392.0,
+    787.0,
+    24.0,
+    7.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:brand-citymapper",
+     "score": 0.5756,
+     "coarse": 0.7141,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:chevron-compact-up",
+     "score": 0.5322,
+     "coarse": 0.698,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:circuit-inductor",
+     "score": 0.3865,
+     "coarse": 0.7029,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i37",
+   "bbox": [
+    1051.0,
+    768.5,
+    12.0,
+    18.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:trekking",
+     "score": 0.5862,
+     "coarse": 0.7373,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-brands:ethereum",
+     "score": 0.651,
+     "coarse": 0.8327,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-brands:tumblr",
+     "score": 0.6323,
+     "coarse": 0.8588,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i38",
+   "bbox": [
+    799.5,
+    264.0,
+    6.5,
+    7.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:chevron-up-left",
+     "score": 0.778,
+     "coarse": 0.7105,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:border-corner-rounded",
+     "score": 0.7352,
+     "coarse": 0.6242,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:border-corner-square",
+     "score": 0.7337,
+     "coarse": 0.635,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i39",
+   "bbox": [
+    763.0,
+    583.0,
+    9.0,
+    4.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:bmp",
+     "score": 0.6194,
+     "coarse": 0.727,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:arrow-right-square",
+     "score": 0.5965,
+     "coarse": 0.7429,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:brand-mixpanel",
+     "score": 0.5757,
+     "coarse": 0.7146,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i40",
+   "bbox": [
+    445.0,
+    271.5,
+    22.5,
+    21.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:brand-torchain",
+     "score": 0.5513,
+     "coarse": 0.5735,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:thermometer",
+     "score": 0.5143,
+     "coarse": 0.5804,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:carrot",
+     "score": 0.5653,
+     "coarse": 0.6044,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i41",
+   "bbox": [
+    1093.5,
+    611.0,
+    33.5,
+    28.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:wash",
+     "score": 0.3894,
+     "coarse": 0.5892,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:wash-temperature-1",
+     "score": 0.3551,
+     "coarse": 0.5777,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-brands:opencart",
+     "score": 0.4349,
+     "coarse": 0.6057,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i42",
+   "bbox": [
+    883.5,
+    156.5,
+    12.5,
+    22.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:letter-t-small",
+     "score": 0.5227,
+     "coarse": 0.6413,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:monument",
+     "score": 0.5777,
+     "coarse": 0.7413,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:chess-pawn",
+     "score": 0.5653,
+     "coarse": 0.7364,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i43",
+   "bbox": [
+    889.0,
+    195.0,
+    6.5,
+    13.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:info-small",
+     "score": 0.5462,
+     "coarse": 0.6814,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:number-1-small",
+     "score": 0.4472,
+     "coarse": 0.6615,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:person-pregnant",
+     "score": 0.473,
+     "coarse": 0.6396,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i44",
+   "bbox": [
+    951.5,
+    870.5,
+    8.0,
+    9.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:wifi-0",
+     "score": 0.8523,
+     "coarse": 0.8603,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:septagon",
+     "score": 0.8808,
+     "coarse": 0.9065,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:heptagon",
+     "score": 0.8808,
+     "coarse": 0.9065,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i45",
+   "bbox": [
+    1305.0,
+    612.5,
+    17.0,
+    23.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:ice-cream-2",
+     "score": 0.7159,
+     "coarse": 0.7479,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:tree",
+     "score": 0.6989,
+     "coarse": 0.7852,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:parking-meter",
+     "score": 0.6884,
+     "coarse": 0.7476,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i46",
+   "bbox": [
+    1575.5,
+    814.5,
+    22.0,
+    22.0
+   ],
+   "candidates": [
+    {
+     "id": "fa-solid:parking",
+     "score": 0.8871,
+     "coarse": 0.9459,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:square-parking",
+     "score": 0.8871,
+     "coarse": 0.9459,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:square-h",
+     "score": 0.737,
+     "coarse": 0.8935,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i47",
+   "bbox": [
+    411.0,
+    571.0,
+    7.5,
+    6.5
+   ],
+   "candidates": [
+    {
+     "id": "lucide:signal",
+     "score": 0.898,
+     "coarse": 0.7124,
+     "strokeWidth": 2.25,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:signal-perfect",
+     "score": 0.8606,
+     "coarse": 0.6257,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:signal-5",
+     "score": 0.8606,
+     "coarse": 0.6257,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i48",
+   "bbox": [
+    904.0,
+    887.0,
+    5.0,
+    7.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:border-bottom",
+     "score": 0.7593,
+     "coarse": 0.5976,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:building-monument",
+     "score": 0.7186,
+     "coarse": 0.555,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:baseline-density-large",
+     "score": 0.6874,
+     "coarse": 0.6101,
+     "strokeWidth": 1.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i49",
+   "bbox": [
+    1298.0,
+    764.0,
+    10.5,
+    10.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler-filled:device-imac",
+     "score": 0.6368,
+     "coarse": 0.8676,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler-filled:device-desktop",
+     "score": 0.6149,
+     "coarse": 0.8014,
+     "setBonus": 0.0
+    },
+    {
+     "id": "heroicons-solid:chat-bubble-bottom-center",
+     "score": 0.6121,
+     "coarse": 0.7906,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i50",
+   "bbox": [
+    296.5,
+    212.0,
+    34.0,
+    32.0
+   ],
+   "candidates": [
+    {
+     "id": "fa-brands:canadian-maple-leaf",
+     "score": 0.5431,
+     "coarse": 0.7041,
+     "setBonus": 0.0
+    },
+    {
+     "id": "heroicons-solid:megaphone",
+     "score": 0.5145,
+     "coarse": 0.7276,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:cannabis",
+     "score": 0.4868,
+     "coarse": 0.703,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i51",
+   "bbox": [
+    1205.0,
+    370.5,
+    8.0,
+    3.5
+   ],
+   "candidates": [
+    {
+     "id": "fa-solid:horse",
+     "score": 0.6448,
+     "coarse": 0.6576,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:volume-up",
+     "score": 0.6352,
+     "coarse": 0.6069,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:volume-high",
+     "score": 0.6352,
+     "coarse": 0.6069,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i52",
+   "bbox": [
+    986.0,
+    207.5,
+    7.5,
+    11.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:caret-right",
+     "score": 0.7361,
+     "coarse": 0.7843,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler-filled:caret-right",
+     "score": 0.7597,
+     "coarse": 0.8326,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:schema",
+     "score": 0.6778,
+     "coarse": 0.6323,
+     "strokeWidth": 2.5,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i53",
+   "bbox": [
+    1216.0,
+    311.5,
+    9.0,
+    6.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:brand-mcdonalds",
+     "score": 0.7589,
+     "coarse": 0.6748,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-brands:maxcdn",
+     "score": 0.7315,
+     "coarse": 0.6476,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:ai",
+     "score": 0.6445,
+     "coarse": 0.6633,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i54",
+   "bbox": [
+    725.5,
+    725.0,
+    13.5,
+    14.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:shovel-pitchforks",
+     "score": 0.5182,
+     "coarse": 0.6162,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:arrows-down",
+     "score": 0.5181,
+     "coarse": 0.6121,
+     "strokeWidth": 2.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:arrows-down-to-line",
+     "score": 0.5311,
+     "coarse": 0.6561,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i55",
+   "bbox": [
+    818.5,
+    277.0,
+    7.0,
+    5.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler-filled:search",
+     "score": 0.8161,
+     "coarse": 0.7461,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:comment-nodes",
+     "score": 0.7963,
+     "coarse": 0.7882,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:truck-moving",
+     "score": 0.7943,
+     "coarse": 0.8241,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i56",
+   "bbox": [
+    497.5,
+    613.0,
+    10.0,
+    7.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:app-window-bottom",
+     "score": 0.4594,
+     "coarse": 0.5347,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-solid:leaf",
+     "score": 0.4821,
+     "coarse": 0.5995,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:brand-ao3",
+     "score": 0.3996,
+     "coarse": 0.527,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i57",
+   "bbox": [
+    589.0,
+    283.5,
+    5.0,
+    11.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:pennant",
+     "score": 0.4528,
+     "coarse": 0.6008,
+     "strokeWidth": 2.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:letter-u-small",
+     "score": 0.3844,
+     "coarse": 0.6502,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:tie",
+     "score": 0.3297,
+     "coarse": 0.633,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    }
+   ],
+   "check": "no confident match: pick from the candidates or draw it (icons-vectors.md)"
+  },
+  {
+   "id": "i58",
+   "bbox": [
+    800.5,
+    775.5,
+    8.5,
+    7.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler-filled:zoom",
+     "score": 0.732,
+     "coarse": 0.7909,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler-filled:search",
+     "score": 0.7243,
+     "coarse": 0.7933,
+     "setBonus": 0.0
+    },
+    {
+     "id": "fa-solid:tags",
+     "score": 0.7193,
+     "coarse": 0.7473,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i59",
+   "bbox": [
+    443.5,
+    376.5,
+    5.5,
+    5.5
+   ],
+   "candidates": [
+    {
+     "id": "tabler:north-star",
+     "score": 0.7626,
+     "coarse": 0.7305,
+     "strokeWidth": 2.0,
+     "setBonus": 0.08
+    },
+    {
+     "id": "fa-brands:first-order-alt",
+     "score": 0.8172,
+     "coarse": 0.8158,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler-filled:brand-signal",
+     "score": 0.815,
+     "coarse": 0.7734,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i60",
+   "bbox": [
+    909.0,
+    368.0,
+    16.5,
+    15.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler-filled:box-align-right",
+     "score": 0.7057,
+     "coarse": 0.737,
+     "setBonus": 0.0
+    },
+    {
+     "id": "tabler:percentage-50",
+     "score": 0.5823,
+     "coarse": 0.5751,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "heroicons:arrow-turn-right-up",
+     "score": 0.6002,
+     "coarse": 0.503,
+     "strokeWidth": 2.5,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  },
+  {
+   "id": "i61",
+   "bbox": [
+    917.0,
+    887.0,
+    6.5,
+    8.0
+   ],
+   "candidates": [
+    {
+     "id": "tabler:password-user",
+     "score": 0.7758,
+     "coarse": 0.5801,
+     "strokeWidth": 1.25,
+     "setBonus": 0.08
+    },
+    {
+     "id": "tabler:building-monument",
+     "score": 0.7729,
+     "coarse": 0.6488,
+     "strokeWidth": 1.75,
+     "setBonus": 0.08
+    },
+    {
+     "id": "lucide:tent",
+     "score": 0.755,
+     "coarse": 0.5082,
+     "strokeWidth": 1.25,
+     "setBonus": 0.0
+    }
+   ],
+   "check": "low score: compare with the alternatives at zoom 8"
+  }
+ ],
+ "shadows": [
+  {
+   "id": "s4",
+   "css": "0.18px -29.5px 2.08px 16px rgba(0, 7, 16, 0.86)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 14.92,
+   "rawResidual": 18.08
+  },
+  {
+   "id": "s5",
+   "css": "10.5px -32px 1.05px 13.78px rgba(0, 6, 15, 0.81)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 14.44,
+   "rawResidual": 17.66
+  },
+  {
+   "id": "s6",
+   "css": "0.02px -29.35px 2.44px 16px rgba(0, 7, 16, 0.87)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 13.99,
+   "rawResidual": 17.26
+  },
+  {
+   "id": "s9",
+   "css": "0px -0.01px 0.52px 0px rgba(0, 0, 0, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.62,
+   "rawResidual": 0.87
+  },
+  {
+   "id": "s10",
+   "css": "-8.55px -7.64px 0px 8.56px rgba(1, 0, 7, 0.05)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.89,
+   "rawResidual": 0.89
+  },
+  {
+   "id": "s11",
+   "css": "0px 1.93px 1.36px 0px rgba(0, 0, 0, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 0.61,
+   "rawResidual": 1.35
+  },
+  {
+   "id": "s12",
+   "css": "0px 1.93px 1.34px 0px rgba(0, 0, 0, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 0.61,
+   "rawResidual": 1.35
+  },
+  {
+   "id": "s13",
+   "css": "-0.91px -16.82px 4.76px 16px rgba(0, 8, 21, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 19.96,
+   "rawResidual": 24.85
+  },
+  {
+   "id": "s14",
+   "css": "-0.58px -15.48px 6.41px 16px rgba(0, 7, 21, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 20.87,
+   "rawResidual": 26.14
+  },
+  {
+   "id": "s15",
+   "css": "-15.26px -31.04px 0.5px 15.36px rgba(0, 7, 16, 0.76)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 24.8,
+   "rawResidual": 28.3
+  },
+  {
+   "id": "s16",
+   "css": "-14px -32px 0.05px 14.39px rgba(0, 6, 16, 0.79)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 21.99,
+   "rawResidual": 25.67
+  },
+  {
+   "id": "s17",
+   "css": "0.01px -1.03px 0.03px -0px rgba(0, 0, 0, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.62,
+   "rawResidual": 0.7
+  },
+  {
+   "id": "s18",
+   "css": "0.01px -0.51px 0.89px 0px rgba(255, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.57,
+   "rawResidual": 0.58
+  },
+  {
+   "id": "s19",
+   "css": "2.13px -0.09px 0.01px 3.76px rgba(19, 115, 255, 0.01)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.56,
+   "rawResidual": 0.59
+  },
+  {
+   "id": "s20",
+   "css": "2.67px -0.62px 5.98px 0.92px rgba(9, 102, 255, 0.02)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.57,
+   "rawResidual": 0.59
+  },
+  {
+   "id": "s21",
+   "css": "-0.03px -28.35px 0px -0.01px rgba(0, 9, 20, 0.95)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 6.99,
+   "rawResidual": 10.27
+  },
+  {
+   "id": "s22",
+   "css": "-0.03px -31.64px 0px -0.04px rgba(0, 8, 18, 0.92)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 9.62,
+   "rawResidual": 12.63
+  },
+  {
+   "id": "s23",
+   "css": "0.02px -28.51px 0px -0px rgba(0, 9, 20, 0.94)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 8.31,
+   "rawResidual": 11.34
+  },
+  {
+   "id": "s24",
+   "css": "0.02px -29.53px 0px -0px rgba(0, 9, 19, 0.93)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 8.59,
+   "rawResidual": 11.46
+  },
+  {
+   "id": "s25",
+   "css": "-0.36px -1.2px 2.24px 16px rgba(0, 10, 22, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 6.02,
+   "rawResidual": 8.65
+  },
+  {
+   "id": "s26",
+   "css": "0.5px -12.9px 22.59px 16px rgba(0, 6, 18, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 8.73,
+   "rawResidual": 10.35
+  },
+  {
+   "id": "s27",
+   "css": "-0.77px 30.23px 2.31px 16px rgba(0, 10, 22, 0.99)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 7.25,
+   "rawResidual": 14.22
+  },
+  {
+   "id": "s28",
+   "css": "-0.15px -28.37px 9.52px 16px rgba(0, 7, 19, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 10.83,
+   "rawResidual": 17.92
+  },
+  {
+   "id": "s29",
+   "css": "-0px 2.47px 69.03px 0px rgba(0, 0, 0, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 21.82,
+   "rawResidual": 21.96
+  },
+  {
+   "id": "s30",
+   "css": "-0.4px -31.09px 5.2px 16px rgba(0, 9, 21, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 8.82,
+   "rawResidual": 16.4
+  },
+  {
+   "id": "s31",
+   "css": "-8.48px -5.52px 0px 9.14px rgba(0, 10, 22, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 4.52,
+   "rawResidual": 17.19
+  },
+  {
+   "id": "s32",
+   "css": "-14.51px 1.97px 0px 4.09px rgba(0, 10, 23, 0.99)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 6.59,
+   "rawResidual": 17.45
+  },
+  {
+   "id": "s33",
+   "css": "-1.61px 0.37px 0.01px 16px rgba(0, 10, 22, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 1.76,
+   "rawResidual": 16.82
+  },
+  {
+   "id": "s34",
+   "css": "-8.21px 7.14px 0px 10.35px rgba(0, 10, 23, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 12.41,
+   "rawResidual": 19.61
+  },
+  {
+   "id": "s36",
+   "css": "0.01px 28.65px 0.02px -0.04px rgba(0, 12, 26, 0.78)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 1.95,
+   "rawResidual": 1.97
+  },
+  {
+   "id": "s37",
+   "css": "-0.02px 10.25px 58.12px 0px rgba(0, 29, 54, 0.23)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.7,
+   "rawResidual": 0.73
+  },
+  {
+   "id": "s38",
+   "css": "0px 24.07px 88.76px 0px rgba(4, 230, 255, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.72,
+   "rawResidual": 0.75
+  },
+  {
+   "id": "s39",
+   "css": "0px -13.88px 16.11px -0px rgba(0, 0, 4, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 29.63,
+   "rawResidual": 31.48
+  },
+  {
+   "id": "s40",
+   "css": "0px 22.79px 88.44px 0px rgba(0, 132, 157, 0.06)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.72,
+   "rawResidual": 0.75
+  },
+  {
+   "id": "s41",
+   "css": "0px -4.02px 0px 0.01px rgba(66, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 7.97,
+   "rawResidual": 9.31
+  },
+  {
+   "id": "s42",
+   "css": "0px -31.98px 11.15px 0.07px rgba(226, 228, 0, 0.05)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 6.01,
+   "rawResidual": 6.24
+  },
+  {
+   "id": "s43",
+   "css": "0.01px 7.56px 9.03px 0.01px rgba(40, 0, 166, 0.01)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.79,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s44",
+   "css": "0px 6.46px 8.91px 0px rgba(129, 125, 255, 0.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.73,
+   "rawResidual": 1.17
+  },
+  {
+   "id": "s45",
+   "css": "-7.2px 14.42px 5.95px -0.6px rgba(62, 255, 184, 0.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.77,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s46",
+   "css": "0px 8.49px 8.41px 0px rgba(115, 143, 255, 0.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.72,
+   "rawResidual": 1.18
+  },
+  {
+   "id": "s47",
+   "css": "0px 7.43px 8.85px 0px rgba(98, 143, 255, 0.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.74,
+   "rawResidual": 1.19
+  },
+  {
+   "id": "s48",
+   "css": "0px 7.42px 9.45px 0px rgba(137, 104, 255, 0.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.73,
+   "rawResidual": 1.17
+  },
+  {
+   "id": "s49",
+   "css": "0px 25.86px 0.01px -0px rgba(8, 0, 55, 0.02)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.74,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s50",
+   "css": "0px 25.9px 0.01px 0px rgba(79, 98, 255, 0.01)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.66,
+   "rawResidual": 0.91
+  },
+  {
+   "id": "s51",
+   "css": "0px 7.53px 9.56px 0px rgba(14, 0, 74, 0.02)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.79,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s52",
+   "css": "3.5px 12.34px 6.02px 4.48px rgba(1, 1, 0, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.6,
+   "rawResidual": 0.76
+  },
+  {
+   "id": "s53",
+   "css": "0px 25.91px 0.06px -0px rgba(93, 70, 255, 0.01)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.65,
+   "rawResidual": 0.9
+  },
+  {
+   "id": "s54",
+   "css": "0px 26.85px 0.03px -0px rgba(13, 0, 48, 0.02)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.74,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s55",
+   "css": "0px 26.9px 0.04px 0px rgba(58, 9, 255, 0.01)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.66,
+   "rawResidual": 0.91
+  },
+  {
+   "id": "s56",
+   "css": "0px 26.85px 0.02px -0px rgba(8, 0, 29, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.75,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s57",
+   "css": "1.65px 12.5px 8.42px 1.9px rgba(3, 0, 0, 0.04)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.58,
+   "rawResidual": 0.68
+  },
+  {
+   "id": "s58",
+   "css": "0px 26.9px 0.05px -0px rgba(97, 62, 255, 0.01)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.65,
+   "rawResidual": 0.9
+  },
+  {
+   "id": "s59",
+   "css": "0px 26.92px 0.06px 0px rgba(49, 91, 255, 0.01)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.66,
+   "rawResidual": 0.91
+  },
+  {
+   "id": "s60",
+   "css": "-0px 6.6px 10.47px 0px rgba(11, 0, 69, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.8,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s61",
+   "css": "0px 8.38px 9.93px 0px rgba(120, 100, 255, 0.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.74,
+   "rawResidual": 1.17
+  },
+  {
+   "id": "s62",
+   "css": "2.03px 12.4px 7.92px 2.4px rgba(2, 0, 0, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.59,
+   "rawResidual": 0.7
+  },
+  {
+   "id": "s63",
+   "css": "-0.23px 0.49px 0.17px 1.09px rgba(251, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.9,
+   "rawResidual": 2.74
+  },
+  {
+   "id": "s64",
+   "css": "2.54px 11.95px 7.82px 3.01px rgba(2, 0, 0, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.59,
+   "rawResidual": 0.72
+  },
+  {
+   "id": "s65",
+   "css": "0px 27.84px 0px -0px rgba(5, 0, 19, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.75,
+   "rawResidual": 0.95
+  },
+  {
+   "id": "s66",
+   "css": "3.27px 9.77px 6.89px 4.03px rgba(4, 1, 0, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.6,
+   "rawResidual": 0.75
+  },
+  {
+   "id": "s67",
+   "css": "3.31px 9.92px 7.31px 4.14px rgba(4, 1, 0, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.6,
+   "rawResidual": 0.75
+  },
+  {
+   "id": "s68",
+   "css": "0px 0.04px 2.04px 0px rgba(123, 255, 255, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 2.48,
+   "rawResidual": 5.92
+  },
+  {
+   "id": "s69",
+   "css": "-0px 10.27px 67.62px -0.05px rgba(255, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 11.58,
+   "rawResidual": 13.63
+  },
+  {
+   "id": "s70",
+   "css": "-0px -9.74px 26.62px -0px rgba(29, 255, 137, 0.03)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 5.66,
+   "rawResidual": 5.87
+  },
+  {
+   "id": "s71",
+   "css": "0.09px -25.87px 90.22px -0.01px rgba(255, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 21.04,
+   "rawResidual": 23.02
+  },
+  {
+   "id": "s72",
+   "css": "-0.01px -25px 89.4px 0.03px rgba(255, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 21.12,
+   "rawResidual": 23.08
+  },
+  {
+   "id": "s73",
+   "css": "-0.01px -28.51px 32.84px 0px rgba(210, 221, 255, 0.33)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 20.9,
+   "rawResidual": 22.3
+  },
+  {
+   "id": "s74",
+   "css": "-0.01px -27.79px 33.17px 0px rgba(211, 221, 255, 0.34)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 20.64,
+   "rawResidual": 22.05
+  },
+  {
+   "id": "s75",
+   "css": "-0.01px -27.98px 32.86px 0px rgba(211, 221, 255, 0.34)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 20.77,
+   "rawResidual": 22.17
+  },
+  {
+   "id": "s76",
+   "css": "0.01px -10.55px 4.29px 0.01px rgba(231, 255, 255, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 5.19,
+   "rawResidual": 30.96
+  },
+  {
+   "id": "s77",
+   "css": "-0px -3.38px 24.62px 0px rgba(255, 241, 220, 0.46)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 34.81,
+   "rawResidual": 35.21
+  },
+  {
+   "id": "s78",
+   "css": "-0px 13.96px 96px -0px rgba(255, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 38.02,
+   "rawResidual": 39.18
+  },
+  {
+   "id": "s79",
+   "css": "-0px 30.97px 83.47px 0px rgba(0, 0, 21, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 3.62,
+   "rawResidual": 3.7
+  },
+  {
+   "id": "s80",
+   "css": "0px 2.35px 96px -0.01px rgba(0, 9, 23, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 1.48,
+   "rawResidual": 1.48
+  },
+  {
+   "id": "s81",
+   "css": "-0.01px -10.05px 4.3px 0px rgba(251, 255, 255, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 5.49,
+   "rawResidual": 19.75
+  },
+  {
+   "id": "s82",
+   "css": "0.49px -6.76px 95.99px -0.13px rgba(0, 10, 22, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 1.49,
+   "rawResidual": 1.49
+  },
+  {
+   "id": "s83",
+   "css": "-0.01px 1.77px 96px -0.02px rgba(0, 9, 24, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 1.49,
+   "rawResidual": 1.49
+  },
+  {
+   "id": "s84",
+   "css": "-0.01px -9.12px 4.53px 0px rgba(248, 255, 255, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 5.59,
+   "rawResidual": 34.63
+  },
+  {
+   "id": "s85",
+   "css": "0px 22.2px 3.77px -0px rgba(0, 20, 45, 0.93)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 5.55,
+   "rawResidual": 5.67
+  },
+  {
+   "id": "s86",
+   "css": "-4.24px -8.95px 96px 16px rgba(255, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 89.53,
+   "rawResidual": 165.86
+  },
+  {
+   "id": "s87",
+   "css": "0.02px -30.32px 96px 14.82px rgba(0, 0, 17, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 4.48,
+   "rawResidual": 5.58
+  },
+  {
+   "id": "s88",
+   "css": "0px 27.97px 85.33px 0.08px rgba(0, 0, 0, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 3.0,
+   "rawResidual": 3.17
+  },
+  {
+   "id": "s89",
+   "css": "-0.02px -29.7px 10.71px -0.01px rgba(111, 57, 0, 0.04)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 1.01,
+   "rawResidual": 1.03
+  },
+  {
+   "id": "s90",
+   "css": "0px -1.56px 8.96px 0.01px rgba(0, 11, 32, 0.31)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.63,
+   "rawResidual": 0.67
+  },
+  {
+   "id": "s91",
+   "css": "0px 0.01px 9.98px 0.01px rgba(0, 16, 36, 0.52)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.62,
+   "rawResidual": 0.65
+  },
+  {
+   "id": "s92",
+   "css": "0px 13.97px 5.92px -0px rgba(255, 255, 255, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 6.17,
+   "rawResidual": 34.39
+  },
+  {
+   "id": "s93",
+   "css": "0px -0.58px 9.99px 0.01px rgba(0, 16, 35, 0.67)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 0.61,
+   "rawResidual": 0.65
+  },
+  {
+   "id": "s94",
+   "css": "-0px -17.2px 18.61px -0px rgba(0, 0, 0, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 41.4,
+   "rawResidual": 43.68
+  },
+  {
+   "id": "s95",
+   "css": "0px 20.93px 17.4px 0px rgba(255, 255, 255, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 6.68,
+   "rawResidual": 53.4
+  },
+  {
+   "id": "s96",
+   "css": "-0.01px 19.3px 17.1px -0px rgba(255, 255, 255, 1.00)",
+   "hasShadow": true,
+   "atBound": false,
+   "residual": 6.73,
+   "rawResidual": 54.36
+  },
+  {
+   "id": "s97",
+   "css": "0.01px 31.63px 10.93px -0.02px rgba(244, 255, 39, 0.22)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 35.37,
+   "rawResidual": 35.6
+  },
+  {
+   "id": "s98",
+   "css": "-0.01px -31.96px 65.14px -0.01px rgba(255, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 40.93,
+   "rawResidual": 42.08
+  },
+  {
+   "id": "s99",
+   "css": "-0px 25.04px 21.17px 0px rgba(0, 255, 255, 1.00)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 31.63,
+   "rawResidual": 33.69
+  },
+  {
+   "id": "s100",
+   "css": "-0px -14.13px 7.88px -0px rgba(245, 110, 0, 0.11)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 5.76,
+   "rawResidual": 5.94
+  },
+  {
+   "id": "s101",
+   "css": "-0px -17.25px 1.5px -0px rgba(204, 98, 0, 0.13)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 5.8,
+   "rawResidual": 6.03
+  },
+  {
+   "id": "g0",
+   "css": "-16px 4.43px 96px -19.5px rgba(0, 0, 0, 1.00)",
+   "hasShadow": false,
+   "atBound": true,
+   "residual": 49.41,
+   "rawResidual": 52.32
+  },
+  {
+   "id": "g1",
+   "css": "0.98px -3.47px 4.84px -0.07px rgba(255, 166, 14, 0.38)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 6.96,
+   "rawResidual": 7.97
+  },
+  {
+   "id": "g2",
+   "css": "15.24px 25.04px 8.08px -0.71px rgba(0, 23, 61, 0.54)",
+   "hasShadow": false,
+   "atBound": false,
+   "residual": 4.25,
+   "rawResidual": 4.71
+  }
+ ],
+ "gradients": [
+  {
+   "id": "g0",
+   "css": "linear-gradient(62.6deg, #122337 0%, #091727 100%)",
+   "accepted": true,
+   "residual": 2.62,
+   "flatResidual": 13.34,
+   "outliers": 0.339,
+   "qt": {
+    "x1": 94.23,
+    "y1": 222.79,
+    "x2": 874.77,
+    "y2": -181.79
+   }
+  },
+  {
+   "id": "g1",
+   "css": "linear-gradient(177.9deg, #061E26 0%, #031B24 100%)",
+   "accepted": false,
+   "residual": 0.99,
+   "flatResidual": 12.92,
+   "outliers": 0.051,
+   "qt": {
+    "x1": 64.33,
+    "y1": -2.36,
+    "x2": 65.67,
+    "y2": 34.36
+   },
+   "check": "declared gradient not confirmed (solid fill, or content covers it)"
+  },
+  {
+   "id": "g2",
+   "css": "linear-gradient(163deg, #010F1F 0%, #000F1F 100%)",
+   "accepted": false,
+   "residual": 0.65,
+   "flatResidual": 1.42,
+   "outliers": 0.013,
+   "qt": {
+    "x1": 85.43,
+    "y1": -26.12,
+    "x2": 110.57,
+    "y2": 56.12
+   },
+   "check": "declared gradient not confirmed (solid fill, or content covers it)"
+  }
+ ]
+}

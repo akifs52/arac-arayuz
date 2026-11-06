@@ -1,0 +1,10176 @@
+{
+ "meta": {
+  "source": "input.png",
+  "designSize": [
+   1672,
+   941
+  ],
+  "dpr": 1.0,
+  "captureSize": [
+   1672,
+   941
+  ],
+  "profile": "desktop",
+  "mode": "production",
+  "target": "pyside6",
+  "layout": "responsive",
+  "minQt": "6.8",
+  "draft": true,
+  "fonts": []
+ },
+ "tokens": {
+  "color": {
+   "c1": {
+    "hex": "#000F1F",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.20444,
+    "samples": [
+     [
+      81.0,
+      28.0
+     ],
+     [
+      1458.0,
+      492.0
+     ]
+    ]
+   },
+   "c2": {
+    "hex": "#000C1A",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.18452,
+    "samples": [
+     [
+      6.0,
+      0.0
+     ],
+     [
+      1412.0,
+      55.0
+     ]
+    ]
+   },
+   "c3": {
+    "hex": "#000B17",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.05777,
+    "samples": [
+     [
+      85.0,
+      24.0
+     ],
+     [
+      1405.0,
+      300.0
+     ]
+    ]
+   },
+   "c4": {
+    "hex": "#010F21",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.01299,
+    "samples": [
+     [
+      902.0,
+      24.0
+     ],
+     [
+      1320.0,
+      549.0
+     ]
+    ]
+   },
+   "c5": {
+    "hex": "#091729",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00944,
+    "samples": [
+     [
+      1514.0,
+      81.0
+     ],
+     [
+      1542.0,
+      810.0
+     ]
+    ]
+   },
+   "c6": {
+    "hex": "#0A1B2E",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00944,
+    "samples": [
+     [
+      913.0,
+      107.0
+     ],
+     [
+      1530.0,
+      735.0
+     ]
+    ]
+   },
+   "c7": {
+    "hex": "#072F60",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00701,
+    "samples": [
+     [
+      263.0,
+      89.0
+     ],
+     [
+      27.0,
+      107.0
+     ]
+    ]
+   },
+   "c8": {
+    "hex": "#000813",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00642,
+    "samples": [
+     [
+      1340.0,
+      28.0
+     ],
+     [
+      1446.0,
+      658.0
+     ]
+    ]
+   },
+   "c9": {
+    "hex": "#112031",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00554,
+    "samples": [
+     [
+      396.0,
+      82.0
+     ],
+     [
+      815.0,
+      92.0
+     ]
+    ]
+   },
+   "c10": {
+    "hex": "#0A1828",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00505,
+    "samples": [
+     [
+      389.0,
+      83.0
+     ],
+     [
+      1234.0,
+      93.0
+     ]
+    ]
+   },
+   "c11": {
+    "hex": "#051D29",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00395,
+    "samples": [
+     [
+      1349.0,
+      798.0
+     ],
+     [
+      1375.0,
+      828.0
+     ]
+    ]
+   },
+   "c12": {
+    "hex": "#000000",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00389,
+    "samples": [
+     [
+      52.0,
+      21.0
+     ],
+     [
+      672.0,
+      427.0
+     ]
+    ]
+   },
+   "c13": {
+    "hex": "#0D2235",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00331,
+    "samples": [
+     [
+      279.0,
+      66.0
+     ],
+     [
+      1455.0,
+      66.0
+     ]
+    ]
+   },
+   "c14": {
+    "hex": "#000003",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00322,
+    "samples": [
+     [
+      157.0,
+      28.0
+     ],
+     [
+      759.0,
+      719.0
+     ]
+    ]
+   },
+   "c15": {
+    "hex": "#0C76FC",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00317,
+    "samples": [
+     [
+      51.0,
+      34.0
+     ],
+     [
+      1318.0,
+      735.0
+     ]
+    ]
+   },
+   "c16": {
+    "hex": "#00101E",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00307,
+    "samples": [
+     [
+      1296.0,
+      89.0
+     ],
+     [
+      1475.0,
+      383.0
+     ]
+    ]
+   },
+   "c17": {
+    "hex": "#12CD7B",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00304,
+    "samples": [
+     [
+      1390.0,
+      349.0
+     ],
+     [
+      1361.0,
+      361.0
+     ]
+    ]
+   },
+   "c18": {
+    "hex": "#061422",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00297,
+    "samples": [
+     [
+      356.0,
+      81.0
+     ],
+     [
+      1132.0,
+      93.0
+     ]
+    ]
+   },
+   "c19": {
+    "hex": "#010309",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00282,
+    "samples": [
+     [
+      863.0,
+      309.0
+     ],
+     [
+      941.0,
+      634.0
+     ]
+    ]
+   },
+   "c20": {
+    "hex": "#021923",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00273,
+    "samples": [
+     [
+      590.0,
+      824.0
+     ],
+     [
+      621.0,
+      835.0
+     ]
+    ]
+   },
+   "c21": {
+    "hex": "#102237",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00269,
+    "samples": [
+     [
+      295.0,
+      116.0
+     ],
+     [
+      1572.0,
+      356.0
+     ]
+    ]
+   },
+   "c22": {
+    "hex": "#000A1A",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00255,
+    "samples": [
+     [
+      275.0,
+      2.0
+     ],
+     [
+      1262.0,
+      857.0
+     ]
+    ]
+   },
+   "c23": {
+    "hex": "#051C25",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00252,
+    "samples": [
+     [
+      617.0,
+      798.0
+     ],
+     [
+      646.0,
+      809.0
+     ]
+    ]
+   },
+   "c24": {
+    "hex": "#051425",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00248,
+    "samples": [
+     [
+      1388.0,
+      18.0
+     ],
+     [
+      1280.0,
+      516.0
+     ]
+    ]
+   },
+   "c25": {
+    "hex": "#101F32",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00239,
+    "samples": [
+     [
+      1224.0,
+      82.0
+     ],
+     [
+      737.0,
+      93.0
+     ]
+    ]
+   },
+   "c26": {
+    "hex": "#7EABD4",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00236,
+    "samples": [
+     [
+      706.0,
+      130.0
+     ],
+     [
+      664.0,
+      164.0
+     ]
+    ]
+   },
+   "c27": {
+    "hex": "#30425A",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00232,
+    "samples": [
+     [
+      488.0,
+      451.0
+     ],
+     [
+      405.0,
+      502.0
+     ]
+    ]
+   },
+   "c28": {
+    "hex": "#8AB3D8",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00229,
+    "samples": [
+     [
+      778.0,
+      147.0
+     ],
+     [
+      543.0,
+      188.0
+     ]
+    ]
+   },
+   "c29": {
+    "hex": "#091C2E",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00219,
+    "samples": [
+     [
+      276.0,
+      25.0
+     ],
+     [
+      1567.0,
+      551.0
+     ]
+    ]
+   },
+   "c30": {
+    "hex": "#92B8DA",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00217,
+    "samples": [
+     [
+      794.0,
+      148.0
+     ],
+     [
+      678.0,
+      205.0
+     ]
+    ]
+   },
+   "c31": {
+    "hex": "#000816",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00204,
+    "samples": [
+     [
+      275.0,
+      18.0
+     ],
+     [
+      748.0,
+      80.0
+     ]
+    ]
+   },
+   "c32": {
+    "hex": "#A1C2DF",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00201,
+    "samples": [
+     [
+      796.0,
+      179.0
+     ],
+     [
+      800.0,
+      205.0
+     ]
+    ]
+   },
+   "c33": {
+    "hex": "#00142E",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00187,
+    "samples": [
+     [
+      539.0,
+      767.0
+     ],
+     [
+      1367.0,
+      775.0
+     ]
+    ]
+   },
+   "c34": {
+    "hex": "#011226",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00182,
+    "samples": [
+     [
+      128.0,
+      41.0
+     ],
+     [
+      1345.0,
+      594.0
+     ]
+    ]
+   },
+   "c35": {
+    "hex": "#35475F",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00179,
+    "samples": [
+     [
+      526.0,
+      436.0
+     ],
+     [
+      317.0,
+      496.0
+     ]
+    ]
+   },
+   "c36": {
+    "hex": "#98BCDC",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00155,
+    "samples": [
+     [
+      768.0,
+      167.0
+     ],
+     [
+      743.0,
+      205.0
+     ]
+    ]
+   },
+   "c37": {
+    "hex": "#00060F",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00146,
+    "samples": [
+     [
+      179.0,
+      36.0
+     ],
+     [
+      838.0,
+      628.0
+     ]
+    ]
+   },
+   "c38": {
+    "hex": "#11263A",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00145,
+    "samples": [
+     [
+      524.0,
+      66.0
+     ],
+     [
+      818.0,
+      66.0
+     ]
+    ]
+   },
+   "c39": {
+    "hex": "#2D3E56",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00141,
+    "samples": [
+     [
+      508.0,
+      437.0
+     ],
+     [
+      406.0,
+      479.0
+     ]
+    ]
+   },
+   "c40": {
+    "hex": "#84AFD6",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00135,
+    "samples": [
+     [
+      716.0,
+      149.0
+     ],
+     [
+      704.0,
+      173.0
+     ]
+    ]
+   },
+   "c41": {
+    "hex": "#394B63",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00132,
+    "samples": [
+     [
+      507.0,
+      432.0
+     ],
+     [
+      1228.0,
+      514.0
+     ]
+    ]
+   },
+   "c42": {
+    "hex": "#011622",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00131,
+    "samples": [
+     [
+      604.0,
+      840.0
+     ],
+     [
+      658.0,
+      846.0
+     ]
+    ]
+   },
+   "c43": {
+    "hex": "#79A7D2",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00128,
+    "samples": [
+     [
+      489.0,
+      127.0
+     ],
+     [
+      507.0,
+      151.0
+     ]
+    ]
+   },
+   "c44": {
+    "hex": "#011421",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00117,
+    "samples": [
+     [
+      1321.0,
+      33.0
+     ],
+     [
+      556.0,
+      852.0
+     ]
+    ]
+   },
+   "c45": {
+    "hex": "#091F34",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00106,
+    "samples": [
+     [
+      1310.0,
+      456.0
+     ],
+     [
+      1542.0,
+      456.0
+     ]
+    ]
+   },
+   "c46": {
+    "hex": "#000512",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00099,
+    "samples": [
+     [
+      138.0,
+      17.0
+     ],
+     [
+      1654.0,
+      396.0
+     ]
+    ]
+   },
+   "c47": {
+    "hex": "#0B1927",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00085,
+    "samples": [
+     [
+      1195.0,
+      87.0
+     ],
+     [
+      1190.0,
+      98.0
+     ]
+    ]
+   },
+   "c48": {
+    "hex": "#041D25",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00084,
+    "samples": [
+     [
+      566.0,
+      799.0
+     ],
+     [
+      544.0,
+      813.0
+     ]
+    ]
+   },
+   "c49": {
+    "hex": "#01152B",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00079,
+    "samples": [
+     [
+      1310.0,
+      223.0
+     ],
+     [
+      1332.0,
+      781.0
+     ]
+    ]
+   },
+   "c50": {
+    "hex": "#ADC9E0",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00076,
+    "samples": [
+     [
+      869.0,
+      202.0
+     ],
+     [
+      799.0,
+      232.0
+     ]
+    ]
+   },
+   "c51": {
+    "hex": "#07192E",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00073,
+    "samples": [
+     [
+      1471.0,
+      306.0
+     ],
+     [
+      728.0,
+      671.0
+     ]
+    ]
+   },
+   "c52": {
+    "hex": "#0A1A23",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00066,
+    "samples": [
+     [
+      314.0,
+      120.0
+     ],
+     [
+      382.0,
+      809.0
+     ]
+    ]
+   },
+   "c53": {
+    "hex": "#0D1D32",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00046,
+    "samples": [
+     [
+      515.0,
+      108.0
+     ],
+     [
+      620.0,
+      112.0
+     ]
+    ]
+   },
+   "c54": {
+    "hex": "#011833",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 0.00042,
+    "samples": [
+     [
+      878.0,
+      370.0
+     ],
+     [
+      1344.0,
+      779.0
+     ]
+    ]
+   },
+   "c55": {
+    "hex": "#0A2531",
+    "alpha": 1.0,
+    "src": "measured",
+    "conf": 0.95,
+    "coverage": 4e-05,
+    "samples": [
+     [
+      1308.0,
+      796.0
+     ],
+     [
+      1299.0,
+      837.0
+     ]
+    ]
+   },
+   "text1": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text2": {
+    "hex": "#0BD57E",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text3": {
+    "hex": "#0979F7",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text4": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text5": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text6": {
+    "hex": "#8495A9",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text7": {
+    "hex": "#0DC779",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text8": {
+    "hex": "#C8D1DC",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text9": {
+    "hex": "#859B9F",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text10": {
+    "hex": "#648C97",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text11": {
+    "hex": "#80959D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text12": {
+    "hex": "#C4CDDA",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text13": {
+    "hex": "#D4C8CE",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text14": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text15": {
+    "hex": "#0B1F30",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text16": {
+    "hex": "#9CA3B0",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text17": {
+    "hex": "#91A0A8",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text18": {
+    "hex": "#8B99A1",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text19": {
+    "hex": "#01CAFC",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text20": {
+    "hex": "#98AB81",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text21": {
+    "hex": "#8E9A9D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text22": {
+    "hex": "#40546E",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text23": {
+    "hex": "#9CBEDA",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text24": {
+    "hex": "#788341",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text25": {
+    "hex": "#DCE1E9",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text26": {
+    "hex": "#050F18",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text27": {
+    "hex": "#899397",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text28": {
+    "hex": "#646C46",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text29": {
+    "hex": "#8A959D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text30": {
+    "hex": "#9DA85C",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text31": {
+    "hex": "#5B7A86",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text32": {
+    "hex": "#62788F",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text33": {
+    "hex": "#D5D9E1",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text34": {
+    "hex": "#A0A861",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text35": {
+    "hex": "#91A054",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text36": {
+    "hex": "#97A744",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text37": {
+    "hex": "#A6B444",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text38": {
+    "hex": "#738594",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text39": {
+    "hex": "#9FB043",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text40": {
+    "hex": "#1E3148",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text41": {
+    "hex": "#3F5169",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text42": {
+    "hex": "#8C9C40",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text43": {
+    "hex": "#BCCCDF",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text44": {
+    "hex": "#A0A788",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text45": {
+    "hex": "#858274",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text46": {
+    "hex": "#D0D7E3",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text47": {
+    "hex": "#010404",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text48": {
+    "hex": "#8C9F34",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text49": {
+    "hex": "#4B5A70",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text50": {
+    "hex": "#68788E",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text51": {
+    "hex": "#22446A",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text52": {
+    "hex": "#93AFB1",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text53": {
+    "hex": "#95A763",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text54": {
+    "hex": "#A9B6AB",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text55": {
+    "hex": "#9DA853",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text56": {
+    "hex": "#9FA19B",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text57": {
+    "hex": "#30445B",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text58": {
+    "hex": "#A4B079",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text59": {
+    "hex": "#7F8D4D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text60": {
+    "hex": "#81945D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text61": {
+    "hex": "#A6BA7F",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text62": {
+    "hex": "#ADB179",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text63": {
+    "hex": "#7D8186",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text64": {
+    "hex": "#ECFDF7",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text65": {
+    "hex": "#9CAD5F",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text66": {
+    "hex": "#D6DCE6",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text67": {
+    "hex": "#8C8F9E",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text68": {
+    "hex": "#64738D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text69": {
+    "hex": "#7A8182",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text70": {
+    "hex": "#748141",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text71": {
+    "hex": "#A0A2AC",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text72": {
+    "hex": "#FEFBFB",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text73": {
+    "hex": "#7E8975",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text74": {
+    "hex": "#676F45",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text75": {
+    "hex": "#A29C8A",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text76": {
+    "hex": "#8E9C37",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text77": {
+    "hex": "#B145FF",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text78": {
+    "hex": "#36495F",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text79": {
+    "hex": "#F3DEC1",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text80": {
+    "hex": "#828B4C",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text81": {
+    "hex": "#8D949E",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text82": {
+    "hex": "#D0BAC8",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text83": {
+    "hex": "#8C9194",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text84": {
+    "hex": "#7A877E",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text85": {
+    "hex": "#D5CBC7",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text86": {
+    "hex": "#8C8FA5",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text87": {
+    "hex": "#516E86",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text88": {
+    "hex": "#7E9298",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text89": {
+    "hex": "#455871",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text90": {
+    "hex": "#677C92",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text91": {
+    "hex": "#EC3D3C",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text92": {
+    "hex": "#A09590",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text93": {
+    "hex": "#70859D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text94": {
+    "hex": "#697D95",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text95": {
+    "hex": "#1190D4",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text96": {
+    "hex": "#394860",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text97": {
+    "hex": "#C4AEA8",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text98": {
+    "hex": "#3A465A",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text99": {
+    "hex": "#14273F",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text100": {
+    "hex": "#BFA89D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text101": {
+    "hex": "#BA3CEC",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text102": {
+    "hex": "#7A6F72",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text103": {
+    "hex": "#C8D1E0",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text104": {
+    "hex": "#979DAF",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text105": {
+    "hex": "#7D90A5",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text106": {
+    "hex": "#4F566A",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text107": {
+    "hex": "#8496AC",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text108": {
+    "hex": "#8493A8",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text109": {
+    "hex": "#29374C",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text110": {
+    "hex": "#4B5467",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text111": {
+    "hex": "#84838B",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text112": {
+    "hex": "#634C64",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text113": {
+    "hex": "#687F9D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text114": {
+    "hex": "#73A3CF",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text115": {
+    "hex": "#9F9FA2",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text116": {
+    "hex": "#6B8197",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text117": {
+    "hex": "#8F8FA0",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text118": {
+    "hex": "#7A8FA5",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text119": {
+    "hex": "#747B8B",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text120": {
+    "hex": "#8B9BB4",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text121": {
+    "hex": "#394F69",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text122": {
+    "hex": "#576D75",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text123": {
+    "hex": "#5B6E7D",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text124": {
+    "hex": "#191642",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text125": {
+    "hex": "#E9861C",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text126": {
+    "hex": "#21548B",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text127": {
+    "hex": "#9B9BA8",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text128": {
+    "hex": "#798EA4",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text129": {
+    "hex": "#68665C",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text130": {
+    "hex": "#B6CBDE",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text131": {
+    "hex": "#C0CCDA",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   },
+   "text132": {
+    "hex": "#BFCADD",
+    "alpha": 1.0,
+    "src": "inferred",
+    "conf": 0.6
+   }
+  },
+  "space": {
+   "1": 2,
+   "2": 4,
+   "3": 6,
+   "4": 7,
+   "5": 8,
+   "6": 14,
+   "7": 15,
+   "8": 16,
+   "9": 17,
+   "10": 18,
+   "11": 19,
+   "12": 20,
+   "13": 22,
+   "14": 34,
+   "15": 40,
+   "16": 41,
+   "17": 43,
+   "18": 61
+  },
+  "radius": {
+   "r2": 2,
+   "r4": 4,
+   "r6": 6,
+   "r7": 7,
+   "r8": 8,
+   "r9": 9,
+   "r10": 10,
+   "r11": 11,
+   "r12": 12,
+   "r13": 13,
+   "r14": 14,
+   "r15": 15,
+   "r16": 16,
+   "r17": 17,
+   "r18": 18,
+   "r19": 19,
+   "r20": 20,
+   "r21": 21,
+   "r23": 23,
+   "r24": 24,
+   "r25": 25,
+   "r26": 26,
+   "r28": 28,
+   "r29": 29,
+   "r32": 32,
+   "r36": 36,
+   "r41": 41,
+   "r45": 45,
+   "r47": 47,
+   "r91": 91,
+   "r97": 97
+  },
+  "typeScale": [
+   {
+    "family": "?",
+    "px": 49,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 46,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 40,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 35,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 34,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 33,
+    "weight": 400,
+    "count": 2
+   },
+   {
+    "family": "?",
+    "px": 32,
+    "weight": 400,
+    "count": 2
+   },
+   {
+    "family": "?",
+    "px": 31,
+    "weight": 400,
+    "count": 2
+   },
+   {
+    "family": "?",
+    "px": 30,
+    "weight": 400,
+    "count": 4
+   },
+   {
+    "family": "?",
+    "px": 29,
+    "weight": 400,
+    "count": 3
+   },
+   {
+    "family": "?",
+    "px": 28,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 27,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 26,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 24,
+    "weight": 400,
+    "count": 3
+   },
+   {
+    "family": "?",
+    "px": 23,
+    "weight": 400,
+    "count": 2
+   },
+   {
+    "family": "?",
+    "px": 22,
+    "weight": 400,
+    "count": 7
+   },
+   {
+    "family": "?",
+    "px": 21,
+    "weight": 400,
+    "count": 2
+   },
+   {
+    "family": "?",
+    "px": 20,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 19,
+    "weight": 400,
+    "count": 5
+   },
+   {
+    "family": "?",
+    "px": 18,
+    "weight": 400,
+    "count": 10
+   },
+   {
+    "family": "?",
+    "px": 17,
+    "weight": 400,
+    "count": 15
+   },
+   {
+    "family": "?",
+    "px": 16,
+    "weight": 400,
+    "count": 18
+   },
+   {
+    "family": "?",
+    "px": 15,
+    "weight": 400,
+    "count": 13
+   },
+   {
+    "family": "?",
+    "px": 14,
+    "weight": 400,
+    "count": 14
+   },
+   {
+    "family": "?",
+    "px": 13,
+    "weight": 400,
+    "count": 16
+   },
+   {
+    "family": "?",
+    "px": 12,
+    "weight": 400,
+    "count": 40
+   },
+   {
+    "family": "?",
+    "px": 11,
+    "weight": 400,
+    "count": 14
+   },
+   {
+    "family": "?",
+    "px": 10,
+    "weight": 400,
+    "count": 14
+   },
+   {
+    "family": "?",
+    "px": 9,
+    "weight": 400,
+    "count": 12
+   },
+   {
+    "family": "?",
+    "px": 8,
+    "weight": 400,
+    "count": 13
+   },
+   {
+    "family": "?",
+    "px": 7,
+    "weight": 400,
+    "count": 12
+   },
+   {
+    "family": "?",
+    "px": 6,
+    "weight": 400,
+    "count": 6
+   },
+   {
+    "family": "?",
+    "px": 5,
+    "weight": 400,
+    "count": 2
+   },
+   {
+    "family": "?",
+    "px": 4,
+    "weight": 400,
+    "count": 1
+   },
+   {
+    "family": "?",
+    "px": 3,
+    "weight": 400,
+    "count": 2
+   },
+   {
+    "family": "?",
+    "px": 2,
+    "weight": 400,
+    "count": 2
+   }
+  ]
+ },
+ "nodes": [
+  {
+   "id": "s0",
+   "role": null,
+   "parent": null,
+   "bbox": [
+    278,
+    67,
+    1394,
+    874
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 1.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s1",
+   "role": null,
+   "parent": "s0",
+   "bbox": [
+    278,
+    68,
+    1394,
+    873
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000813",
+     "alpha": 1.0
+    },
+    "radius": 14.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c8"
+  },
+  {
+   "id": "s2",
+   "role": null,
+   "parent": null,
+   "bbox": [
+    0,
+    67,
+    276,
+    874
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 97.0
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s3",
+   "role": null,
+   "parent": "s2",
+   "bbox": [
+    0,
+    67,
+    275,
+    874
+   ],
+   "style": {
+    "fill": {
+     "hex": "#00101E",
+     "alpha": 1.0
+    },
+    "radius": 90.7
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c16"
+  },
+  {
+   "id": "s4",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    296,
+    672,
+    401,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 10.1
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s5",
+   "role": null,
+   "parent": "s4",
+   "bbox": [
+    297,
+    672,
+    400,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 9.0
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s6",
+   "role": null,
+   "parent": "s5",
+   "bbox": [
+    297,
+    672,
+    400,
+    234
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 24.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s7",
+   "role": null,
+   "parent": null,
+   "bbox": [
+    277,
+    0,
+    1395,
+    66
+   ],
+   "style": {
+    "fill": {
+     "hex": "#00101E",
+     "alpha": 1.0
+    },
+    "radius": 6.1
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c16"
+  },
+  {
+   "id": "s8",
+   "role": null,
+   "parent": "s7",
+   "bbox": [
+    278,
+    0,
+    1394,
+    66
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s9",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1281,
+    671,
+    372,
+    238
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 45.0
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s10",
+   "role": null,
+   "parent": "s9",
+   "bbox": [
+    1282,
+    672,
+    370,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 10.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s11",
+   "role": null,
+   "parent": "s10",
+   "bbox": [
+    1282,
+    671,
+    370,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 32.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s12",
+   "role": null,
+   "parent": "s11",
+   "bbox": [
+    1282,
+    672,
+    370,
+    234
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 19.8
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s13",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1282,
+    82,
+    371,
+    209
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 35.8
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s14",
+   "role": null,
+   "parent": "s13",
+   "bbox": [
+    1282,
+    83,
+    370,
+    207
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 6.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s15",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    715,
+    672,
+    289,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 8.1
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s16",
+   "role": null,
+   "parent": "s15",
+   "bbox": [
+    716,
+    672,
+    288,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 6.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s17",
+   "role": null,
+   "parent": "s3",
+   "bbox": [
+    19,
+    662,
+    250,
+    236
+   ],
+   "style": {
+    "fill": {
+     "hex": "#010F21",
+     "alpha": 1.0
+    },
+    "radius": 29.0
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c4"
+  },
+  {
+   "id": "s18",
+   "role": null,
+   "parent": "s17",
+   "bbox": [
+    19,
+    662,
+    249,
+    236
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 32.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s19",
+   "role": null,
+   "parent": "s18",
+   "bbox": [
+    19,
+    663,
+    248,
+    233
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 7.8
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s20",
+   "role": null,
+   "parent": "s19",
+   "bbox": [
+    20,
+    663,
+    247,
+    233
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 7.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s21",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1022,
+    671,
+    241,
+    236
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 40.6
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s22",
+   "role": null,
+   "parent": "s21",
+   "bbox": [
+    1023,
+    672,
+    240,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 7.1
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s23",
+   "role": null,
+   "parent": "s22",
+   "bbox": [
+    1023,
+    671,
+    239,
+    235
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 29.4
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s24",
+   "role": null,
+   "parent": "s23",
+   "bbox": [
+    1023,
+    672,
+    239,
+    234
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 19.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s25",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1282,
+    307,
+    370,
+    134
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 21.2
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s26",
+   "role": null,
+   "parent": "s25",
+   "bbox": [
+    1282,
+    307,
+    370,
+    133
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 5.9
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s27",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1282,
+    457,
+    371,
+    94
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 20.6
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s28",
+   "role": null,
+   "parent": "s27",
+   "bbox": [
+    1282,
+    457,
+    370,
+    94
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 6.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s29",
+   "role": null,
+   "parent": "s28",
+   "bbox": [
+    1283,
+    457,
+    369,
+    94
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 47.0
+   },
+   "src": "measured",
+   "conf": 0.91,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s30",
+   "role": null,
+   "parent": "s29",
+   "bbox": [
+    1282,
+    457,
+    370,
+    93
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 12.0
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s31",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1281,
+    567,
+    371,
+    88
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 22.6
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s32",
+   "role": null,
+   "parent": "s31",
+   "bbox": [
+    1282,
+    567,
+    370,
+    87
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011226",
+     "alpha": 1.0
+    },
+    "radius": 20.0
+   },
+   "src": "measured",
+   "conf": 0.95,
+   "fillToken": "c34"
+  },
+  {
+   "id": "s33",
+   "role": null,
+   "parent": "s32",
+   "bbox": [
+    1282,
+    568,
+    371,
+    86
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 15.4
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s34",
+   "role": null,
+   "parent": "s33",
+   "bbox": [
+    1282,
+    568,
+    370,
+    86
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000F1F",
+     "alpha": 1.0
+    },
+    "radius": 7.2
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c1"
+  },
+  {
+   "id": "s35",
+   "role": null,
+   "parent": null,
+   "bbox": [
+    0,
+    0,
+    276,
+    66
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s36",
+   "role": null,
+   "parent": "s3",
+   "bbox": [
+    4,
+    87,
+    264,
+    51
+   ],
+   "style": {
+    "fill": {
+     "hex": "#072F60",
+     "alpha": 1.0
+    },
+    "radius": 10.7
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c7"
+  },
+  {
+   "id": "s37",
+   "role": null,
+   "parent": "s12",
+   "bbox": [
+    1290,
+    712,
+    176,
+    73
+   ],
+   "style": {
+    "fill": {
+     "hex": "#01152B",
+     "alpha": 1.0
+    },
+    "radius": 25.8
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c49"
+  },
+  {
+   "id": "s38",
+   "role": null,
+   "parent": "s37",
+   "bbox": [
+    1291,
+    713,
+    173,
+    70
+   ],
+   "style": {
+    "fill": {
+     "hex": "#00142E",
+     "alpha": 1.0
+    },
+    "radius": 23.4
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c33"
+  },
+  {
+   "id": "s39",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    431,
+    82,
+    297,
+    39
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091F34",
+     "alpha": 1.0
+    },
+    "radius": 19.5
+   },
+   "src": "measured",
+   "conf": 0.98,
+   "fillToken": "c45"
+  },
+  {
+   "id": "s40",
+   "role": null,
+   "parent": "s38",
+   "bbox": [
+    1293,
+    715,
+    170,
+    66
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011833",
+     "alpha": 1.0
+    },
+    "radius": 18.1
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c54"
+  },
+  {
+   "id": "s41",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    340,
+    826,
+    263,
+    40
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011622",
+     "alpha": 1.0
+    },
+    "radius": 13.6
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c42"
+  },
+  {
+   "id": "s42",
+   "role": null,
+   "parent": "s41",
+   "bbox": [
+    340,
+    827,
+    263,
+    38
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011421",
+     "alpha": 1.0
+    },
+    "radius": 13.3
+   },
+   "src": "measured",
+   "conf": 0.96,
+   "fillToken": "c44"
+  },
+  {
+   "id": "s43",
+   "role": null,
+   "parent": "s12",
+   "bbox": [
+    1298,
+    794,
+    103,
+    91
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051C25",
+     "alpha": 1.0
+    },
+    "radius": 17.3,
+    "border": {
+     "width": 2,
+     "color": {
+      "hex": "#0A2531",
+      "alpha": 1.0
+     }
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c23"
+  },
+  {
+   "id": "s44",
+   "role": null,
+   "parent": "s12",
+   "bbox": [
+    1534,
+    795,
+    103,
+    91
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091729",
+     "alpha": 1.0
+    },
+    "radius": 17.6,
+    "border": {
+     "width": 2,
+     "color": {
+      "hex": "#0C1D31",
+      "alpha": 1.0
+     }
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c5"
+  },
+  {
+   "id": "s45",
+   "role": null,
+   "parent": "s43",
+   "bbox": [
+    1298,
+    795,
+    103,
+    90
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051C25",
+     "alpha": 1.0
+    },
+    "radius": 11.1,
+    "border": {
+     "width": 2,
+     "color": {
+      "hex": "#0A2632",
+      "alpha": 1.0
+     }
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c23"
+  },
+  {
+   "id": "s46",
+   "role": null,
+   "parent": "s44",
+   "bbox": [
+    1535,
+    795,
+    103,
+    90
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1B2E",
+     "alpha": 1.0
+    },
+    "radius": 16.0,
+    "border": {
+     "width": 2,
+     "color": {
+      "hex": "#0F2036",
+      "alpha": 1.0
+     }
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c6"
+  },
+  {
+   "id": "s47",
+   "role": null,
+   "parent": "s46",
+   "bbox": [
+    1535,
+    795,
+    102,
+    90
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091729",
+     "alpha": 1.0
+    },
+    "radius": 8.7,
+    "border": {
+     "width": 2,
+     "color": {
+      "hex": "#0F2036",
+      "alpha": 1.0
+     }
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c5"
+  },
+  {
+   "id": "s48",
+   "role": null,
+   "parent": "s47",
+   "bbox": [
+    1535,
+    796,
+    101,
+    88
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1B2E",
+     "alpha": 1.0
+    },
+    "radius": 21.4
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c6"
+  },
+  {
+   "id": "s49",
+   "role": null,
+   "parent": "s45",
+   "bbox": [
+    1299,
+    796,
+    101,
+    88
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091C2E",
+     "alpha": 1.0
+    },
+    "radius": 24.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c29"
+  },
+  {
+   "id": "s50",
+   "role": null,
+   "parent": "s12",
+   "bbox": [
+    1417,
+    796,
+    101,
+    88
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1B2E",
+     "alpha": 1.0
+    },
+    "radius": 24.9
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c6"
+  },
+  {
+   "id": "s51",
+   "role": null,
+   "parent": "s49",
+   "bbox": [
+    1299,
+    796,
+    100,
+    88
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051D29",
+     "alpha": 1.0
+    },
+    "radius": 18.2
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c11"
+  },
+  {
+   "id": "s52",
+   "role": null,
+   "parent": "s12",
+   "bbox": [
+    1476,
+    720,
+    159,
+    55
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091729",
+     "alpha": 1.0
+    },
+    "radius": 8.5,
+    "border": {
+     "width": 2,
+     "color": {
+      "hex": "#102337",
+      "alpha": 1.0
+     }
+    }
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c5"
+  },
+  {
+   "id": "s53",
+   "role": null,
+   "parent": "s50",
+   "bbox": [
+    1418,
+    796,
+    99,
+    88
+   ],
+   "style": {
+    "fill": {
+     "hex": "#07192E",
+     "alpha": 1.0
+    },
+    "radius": 24.4
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c51"
+  },
+  {
+   "id": "s54",
+   "role": null,
+   "parent": "s51",
+   "bbox": [
+    1299,
+    796,
+    100,
+    87
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1B2E",
+     "alpha": 1.0
+    },
+    "radius": 20.9
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c6"
+  },
+  {
+   "id": "s55",
+   "role": null,
+   "parent": "s53",
+   "bbox": [
+    1418,
+    796,
+    99,
+    87
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091729",
+     "alpha": 1.0
+    },
+    "radius": 15.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c5"
+  },
+  {
+   "id": "s56",
+   "role": null,
+   "parent": "s54",
+   "bbox": [
+    1299,
+    797,
+    100,
+    86
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091C2E",
+     "alpha": 1.0
+    },
+    "radius": 17.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c29"
+  },
+  {
+   "id": "s57",
+   "role": null,
+   "parent": "s52",
+   "bbox": [
+    1476,
+    720,
+    159,
+    54
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0D1D32",
+     "alpha": 1.0
+    },
+    "radius": 17.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c53"
+  },
+  {
+   "id": "s58",
+   "role": null,
+   "parent": "s55",
+   "bbox": [
+    1419,
+    796,
+    98,
+    87
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1B2E",
+     "alpha": 1.0
+    },
+    "radius": 19.7
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c6"
+  },
+  {
+   "id": "s59",
+   "role": null,
+   "parent": "s58",
+   "bbox": [
+    1419,
+    797,
+    98,
+    86
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091729",
+     "alpha": 1.0
+    },
+    "radius": 6.6
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c5"
+  },
+  {
+   "id": "s60",
+   "role": null,
+   "parent": "s56",
+   "bbox": [
+    1301,
+    797,
+    98,
+    86
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1828",
+     "alpha": 1.0
+    },
+    "radius": 13.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c10"
+  },
+  {
+   "id": "s61",
+   "role": null,
+   "parent": "s48",
+   "bbox": [
+    1537,
+    797,
+    98,
+    85
+   ],
+   "style": {
+    "fill": {
+     "hex": "#041D25",
+     "alpha": 1.0
+    },
+    "radius": 18.6
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c48"
+  },
+  {
+   "id": "s62",
+   "role": null,
+   "parent": "s57",
+   "bbox": [
+    1478,
+    721,
+    157,
+    53
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091C2E",
+     "alpha": 1.0
+    },
+    "radius": 14.3
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c29"
+  },
+  {
+   "id": "s63",
+   "role": null,
+   "parent": "s40",
+   "bbox": [
+    1299,
+    721,
+    156,
+    53
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0C76FC",
+     "alpha": 1.0
+    },
+    "radius": 8.2
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c15"
+  },
+  {
+   "id": "s64",
+   "role": null,
+   "parent": "s62",
+   "bbox": [
+    1478,
+    721,
+    156,
+    53
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1B2E",
+     "alpha": 1.0
+    },
+    "radius": 12.1
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c6"
+  },
+  {
+   "id": "s65",
+   "role": null,
+   "parent": "s60",
+   "bbox": [
+    1301,
+    798,
+    98,
+    84
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0B1927",
+     "alpha": 1.0
+    },
+    "radius": 13.0
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c47"
+  },
+  {
+   "id": "s66",
+   "role": null,
+   "parent": "s64",
+   "bbox": [
+    1478,
+    721,
+    156,
+    52
+   ],
+   "style": {
+    "fill": {
+     "hex": "#091C2E",
+     "alpha": 1.0
+    },
+    "radius": 7.2
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c29"
+  },
+  {
+   "id": "s67",
+   "role": null,
+   "parent": "s66",
+   "bbox": [
+    1478,
+    721,
+    155,
+    52
+   ],
+   "style": {
+    "fill": {
+     "hex": "#07192E",
+     "alpha": 1.0
+    },
+    "radius": 7.2
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c51"
+  },
+  {
+   "id": "s68",
+   "role": null,
+   "parent": "s26",
+   "bbox": [
+    1298,
+    346,
+    214,
+    29
+   ],
+   "style": {
+    "fill": {
+     "hex": "#12CD7B",
+     "alpha": 1.0
+    },
+    "radius": 12.6
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c17"
+  },
+  {
+   "id": "s69",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1288,
+    655,
+    362,
+    16
+   ],
+   "style": {
+    "fill": {
+     "hex": "#00060F",
+     "alpha": 1.0
+    },
+    "radius": 8.0
+   },
+   "src": "measured",
+   "conf": 0.95,
+   "fillToken": "c37"
+  },
+  {
+   "id": "s70",
+   "role": null,
+   "parent": "s42",
+   "bbox": [
+    469,
+    834,
+    134,
+    32
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011226",
+     "alpha": 1.0
+    },
+    "radius": 16.0
+   },
+   "src": "measured",
+   "conf": 0.91,
+   "fillToken": "c34"
+  },
+  {
+   "id": "s71",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1172,
+    582,
+    73,
+    56
+   ],
+   "style": {
+    "fill": {
+     "hex": "#010F21",
+     "alpha": 1.0
+    },
+    "radius": 28.0
+   },
+   "src": "measured",
+   "conf": 0.91,
+   "fillToken": "c4"
+  },
+  {
+   "id": "s72",
+   "role": null,
+   "parent": "s71",
+   "bbox": [
+    1172,
+    582,
+    73,
+    55
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011421",
+     "alpha": 1.0
+    },
+    "radius": 27.5
+   },
+   "src": "measured",
+   "conf": 0.9,
+   "fillToken": "c44"
+  },
+  {
+   "id": "s73",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    313,
+    608,
+    117,
+    30
+   ],
+   "style": {
+    "fill": {
+     "hex": "#010F21",
+     "alpha": 1.0
+    },
+    "radius": 13.6
+   },
+   "src": "measured",
+   "conf": 0.97,
+   "fillToken": "c4"
+  },
+  {
+   "id": "s74",
+   "role": null,
+   "parent": "s73",
+   "bbox": [
+    313,
+    608,
+    118,
+    29
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 13.0
+   },
+   "src": "measured",
+   "conf": 0.98,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s75",
+   "role": null,
+   "parent": "s74",
+   "bbox": [
+    313,
+    608,
+    117,
+    29
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011421",
+     "alpha": 1.0
+    },
+    "radius": 13.2
+   },
+   "src": "measured",
+   "conf": 0.99,
+   "fillToken": "c44"
+  },
+  {
+   "id": "s76",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    338,
+    825,
+    69,
+    40
+   ],
+   "style": {
+    "fill": {
+     "hex": "#021923",
+     "alpha": 1.0
+    },
+    "radius": 20.0
+   },
+   "src": "measured",
+   "conf": 0.89,
+   "fillToken": "c20"
+  },
+  {
+   "id": "s77",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    278,
+    441,
+    17,
+    158
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000512",
+     "alpha": 1.0
+    },
+    "radius": 8.5
+   },
+   "src": "measured",
+   "conf": 0.9,
+   "fillToken": "c46"
+  },
+  {
+   "id": "s78",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    278,
+    69,
+    18,
+    146
+   ],
+   "style": {
+    "fill": {
+     "hex": "#00101E",
+     "alpha": 1.0
+    },
+    "radius": 9.0
+   },
+   "src": "measured",
+   "conf": 0.88,
+   "fillToken": "c16"
+  },
+  {
+   "id": "s79",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    603,
+    837,
+    88,
+    28
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011226",
+     "alpha": 1.0
+    },
+    "radius": 14.0
+   },
+   "src": "measured",
+   "conf": 0.92,
+   "fillToken": "c34"
+  },
+  {
+   "id": "s80",
+   "role": null,
+   "parent": "s26",
+   "bbox": [
+    1509,
+    344,
+    67,
+    33
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0D2235",
+     "alpha": 1.0
+    },
+    "radius": 13.2
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c13"
+  },
+  {
+   "id": "s81",
+   "role": null,
+   "parent": "s76",
+   "bbox": [
+    338,
+    825,
+    68,
+    32
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051C25",
+     "alpha": 1.0
+    },
+    "radius": 16.0
+   },
+   "src": "measured",
+   "conf": 0.9,
+   "fillToken": "c23"
+  },
+  {
+   "id": "s82",
+   "role": null,
+   "parent": "s80",
+   "bbox": [
+    1510,
+    345,
+    66,
+    32
+   ],
+   "style": {
+    "fill": {
+     "hex": "#11263A",
+     "alpha": 1.0
+    },
+    "radius": 12.1
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c38"
+  },
+  {
+   "id": "s83",
+   "role": null,
+   "parent": "s82",
+   "bbox": [
+    1510,
+    346,
+    66,
+    31
+   ],
+   "style": {
+    "fill": {
+     "hex": "#112031",
+     "alpha": 1.0
+    },
+    "radius": 15.5
+   },
+   "src": "measured",
+   "conf": 0.94,
+   "fillToken": "c9"
+  },
+  {
+   "id": "s84",
+   "role": null,
+   "parent": "s81",
+   "bbox": [
+    338,
+    825,
+    68,
+    30
+   ],
+   "style": {
+    "fill": {
+     "hex": "#041D25",
+     "alpha": 1.0
+    },
+    "radius": 15.0
+   },
+   "src": "measured",
+   "conf": 0.87,
+   "fillToken": "c48"
+  },
+  {
+   "id": "s85",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    537,
+    733,
+    65,
+    31
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 11.0
+   },
+   "src": "measured",
+   "conf": 0.99,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s86",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    340,
+    733,
+    65,
+    29
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 8.5
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s87",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    406,
+    733,
+    64,
+    29
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000C1A",
+     "alpha": 1.0
+    },
+    "radius": 3.7
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c2"
+  },
+  {
+   "id": "s88",
+   "role": null,
+   "parent": "s79",
+   "bbox": [
+    603,
+    842,
+    65,
+    23
+   ],
+   "style": {
+    "fill": {
+     "hex": "#00101E",
+     "alpha": 1.0
+    },
+    "radius": 10.4
+   },
+   "src": "measured",
+   "conf": 0.89,
+   "fillToken": "c16"
+  },
+  {
+   "id": "s89",
+   "role": null,
+   "parent": "s24",
+   "bbox": [
+    1040,
+    851,
+    34,
+    35
+   ],
+   "style": {
+    "fill": {
+     "hex": "#11263A",
+     "alpha": 1.0
+    },
+    "radius": 16.5
+   },
+   "src": "measured",
+   "conf": 0.9,
+   "fillToken": "c38"
+  },
+  {
+   "id": "s90",
+   "role": null,
+   "parent": "s34",
+   "bbox": [
+    1603,
+    606,
+    34,
+    34
+   ],
+   "style": {
+    "fill": {
+     "hex": "#102237",
+     "alpha": 1.0
+    },
+    "radius": 7.0
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c21"
+  },
+  {
+   "id": "s91",
+   "role": null,
+   "parent": "s90",
+   "bbox": [
+    1604,
+    607,
+    31,
+    32
+   ],
+   "style": {
+    "fill": {
+     "hex": "#011226",
+     "alpha": 1.0
+    },
+    "radius": 5.9
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c34"
+  },
+  {
+   "id": "s92",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    339,
+    806,
+    66,
+    15
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051C25",
+     "alpha": 1.0
+    },
+    "radius": 7.3
+   },
+   "src": "measured",
+   "conf": 0.97,
+   "fillToken": "c23"
+  },
+  {
+   "id": "s93",
+   "role": null,
+   "parent": "s91",
+   "bbox": [
+    1604,
+    608,
+    31,
+    31
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 5.7
+   },
+   "src": "measured",
+   "conf": 1.0,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s94",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    444,
+    401,
+    68,
+    13
+   ],
+   "style": {
+    "fill": {
+     "hex": "#000003",
+     "alpha": 1.0
+    },
+    "radius": 6.5
+   },
+   "src": "measured",
+   "conf": 0.92,
+   "fillToken": "c14"
+  },
+  {
+   "id": "s95",
+   "role": null,
+   "parent": "s92",
+   "bbox": [
+    353,
+    805,
+    52,
+    15
+   ],
+   "style": {
+    "fill": {
+     "hex": "#061422",
+     "alpha": 1.0
+    },
+    "radius": 7.5
+   },
+   "src": "measured",
+   "conf": 0.88,
+   "fillToken": "c18"
+  },
+  {
+   "id": "s96",
+   "role": null,
+   "parent": "s95",
+   "bbox": [
+    353,
+    806,
+    52,
+    14
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 7.0
+   },
+   "src": "measured",
+   "conf": 0.89,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s97",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    1077,
+    335,
+    20,
+    28
+   ],
+   "style": {
+    "fill": {
+     "hex": "#00060F",
+     "alpha": 1.0
+    },
+    "radius": 9.8
+   },
+   "src": "measured",
+   "conf": 0.86,
+   "fillToken": "c37"
+  },
+  {
+   "id": "s98",
+   "role": null,
+   "parent": "s1",
+   "bbox": [
+    857,
+    188,
+    13,
+    31
+   ],
+   "style": {
+    "fill": {
+     "hex": "#ADC9E0",
+     "alpha": 1.0
+    },
+    "radius": 6.5
+   },
+   "src": "measured",
+   "conf": 0.89,
+   "fillToken": "c50"
+  },
+  {
+   "id": "s99",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    406,
+    808,
+    31,
+    12
+   ],
+   "style": {
+    "fill": {
+     "hex": "#051425",
+     "alpha": 1.0
+    },
+    "radius": 6.0
+   },
+   "src": "measured",
+   "conf": 0.89,
+   "fillToken": "c24"
+  },
+  {
+   "id": "s100",
+   "role": null,
+   "parent": "s6",
+   "bbox": [
+    669,
+    804,
+    14,
+    23
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1A23",
+     "alpha": 1.0
+    },
+    "radius": 7.0
+   },
+   "src": "measured",
+   "conf": 0.88,
+   "fillToken": "c52"
+  },
+  {
+   "id": "s101",
+   "role": null,
+   "parent": "s100",
+   "bbox": [
+    669,
+    808,
+    14,
+    18
+   ],
+   "style": {
+    "fill": {
+     "hex": "#0A1828",
+     "alpha": 1.0
+    },
+    "radius": 7.0
+   },
+   "src": "measured",
+   "conf": 0.87,
+   "fillToken": "c10"
+  },
+  {
+   "id": "g0",
+   "role": "Gradient?",
+   "parent": "s1",
+   "bbox": [
+    296,
+    82,
+    969,
+    41
+   ],
+   "style": {
+    "fillImage": "linear-gradient(180deg, #102237 0%, #051D29 100%)"
+   },
+   "src": "inferred",
+   "conf": 0.6
+  },
+  {
+   "id": "g1",
+   "role": "Gradient?",
+   "parent": "s6",
+   "bbox": [
+    538,
+    796,
+    130,
+    32
+   ],
+   "style": {
+    "fillImage": "linear-gradient(90deg, #091729 0%, #0A1828 100%)"
+   },
+   "src": "inferred",
+   "conf": 0.6
+  },
+  {
+   "id": "g2",
+   "role": "Gradient?",
+   "parent": "s85",
+   "bbox": [
+    472,
+    733,
+    196,
+    30
+   ],
+   "style": {
+    "fillImage": "linear-gradient(90deg, #000C1A 0%, #000C1A 100%)"
+   },
+   "src": "inferred",
+   "conf": 0.6
+  }
+ ],
+ "text": [
+  {
+   "id": "t0",
+   "string": "AutoPilot Pro",
+   "owner": "s35",
+   "bbox": [
+    89.0,
+    18.0,
+    126.0,
+    16.5
+   ],
+   "font": {
+    "px": 22
+   },
+   "ocrConf": 89.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t1",
+   "string": "Sistem Aktif",
+   "owner": "s8",
+   "bbox": [
+    342.5,
+    18.0,
+    86.5,
+    12.5
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t2",
+   "string": "18°C",
+   "owner": "s8",
+   "bbox": [
+    909.0,
+    18.5,
+    31.5,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 93.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t3",
+   "string": "14:37",
+   "owner": "s8",
+   "bbox": [
+    1038.5,
+    18.5,
+    37.5,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t4",
+   "string": "GPS",
+   "owner": "s8",
+   "bbox": [
+    1228.0,
+    18.5,
+    25.5,
+    10.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t5",
+   "string": "all",
+   "owner": "s8",
+   "bbox": [
+    1319.5,
+    20.0,
+    27.5,
+    24.0
+   ],
+   "font": {
+    "px": 32
+   },
+   "ocrConf": 71.0,
+   "verify": true,
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t6",
+   "string": "Sms",
+   "owner": "s35",
+   "bbox": [
+    22.0,
+    22.5,
+    53.0,
+    24.5
+   ],
+   "font": {
+    "px": 34
+   },
+   "ocrConf": 55.0,
+   "verify": true,
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t7",
+   "string": "fe)",
+   "owner": "s8",
+   "bbox": [
+    310.0,
+    24.5,
+    14.5,
+    15.5
+   ],
+   "font": {
+    "px": 21
+   },
+   "ocrConf": 71.0,
+   "verify": true,
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t8",
+   "string": "O",
+   "owner": "s8",
+   "bbox": [
+    1596.0,
+    25.0,
+    14.0,
+    14.0
+   ],
+   "font": {
+    "px": 19
+   },
+   "ocrConf": 91.0,
+   "verify": false,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t9",
+   "string": "xX",
+   "owner": "s8",
+   "bbox": [
+    1638.5,
+    25.5,
+    12.5,
+    13.0
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 83.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t10",
+   "string": "Otonom Sürüş Sistemi",
+   "owner": "s35",
+   "bbox": [
+    89.5,
+    41.5,
+    134.5,
+    13.5
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 95.0,
+   "verify": false,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t11",
+   "string": "Otonom Sürüş Modu",
+   "owner": "s8",
+   "bbox": [
+    342.0,
+    39.0,
+    108.0,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 95.7,
+   "verify": false,
+   "color": {
+    "hex": "#8495A9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t12",
+   "string": "İstanbul",
+   "owner": "s8",
+   "bbox": [
+    909.0,
+    37.5,
+    42.0,
+    10.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#7EABD4",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t13",
+   "string": "25 Nisan 2025",
+   "owner": "s8",
+   "bbox": [
+    1038.0,
+    39.0,
+    77.5,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#79A7D2",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t14",
+   "string": "10/10",
+   "owner": "s8",
+   "bbox": [
+    1228.0,
+    39.0,
+    31.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#0DC779",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t15",
+   "string": "N",
+   "owner": "s36",
+   "bbox": [
+    260.5,
+    87.0,
+    7.5,
+    7.5
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 90.0,
+   "verify": false,
+   "color": {
+    "hex": "#072F60",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t16",
+   "string": "Ön Kamera - Canlı Görüntü",
+   "owner": "g0",
+   "bbox": [
+    335.5,
+    93.5,
+    172.5,
+    14.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 94.4,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t17",
+   "string": "@Hiz",
+   "owner": "s14",
+   "bbox": [
+    1297.5,
+    95.5,
+    34.5,
+    11.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 87.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t18",
+   "string": "ft",
+   "owner": "s36",
+   "bbox": [
+    31.5,
+    102.5,
+    23.5,
+    22.0
+   ],
+   "font": {
+    "px": 30
+   },
+   "ocrConf": 88.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t19",
+   "string": "Ana Panel",
+   "owner": "s36",
+   "bbox": [
+    79.5,
+    107.0,
+    69.5,
+    12.5
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t20",
+   "string": "rete KANI",
+   "owner": "s1",
+   "bbox": [
+    379.5,
+    121.5,
+    33.0,
+    12.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#C8D1DC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t21",
+   "string": "ye",
+   "owner": "s1",
+   "bbox": [
+    1160.0,
+    122.0,
+    19.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 51.0,
+   "verify": true,
+   "color": {
+    "hex": "#859B9F",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t22",
+   "string": "Ni",
+   "owner": "s1",
+   "bbox": [
+    325.0,
+    125.0,
+    15.0,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 59.0,
+   "verify": true,
+   "color": {
+    "hex": "#C8D1DC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t23",
+   "string": "4“,",
+   "owner": "s1",
+   "bbox": [
+    1030.0,
+    129.5,
+    15.5,
+    4.5
+   ],
+   "font": {
+    "px": 5
+   },
+   "ocrConf": 44.0,
+   "verify": true,
+   "color": {
+    "hex": "#648C97",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t24",
+   "string": "Fi",
+   "owner": "s1",
+   "bbox": [
+    1090.5,
+    126.5,
+    19.5,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 50.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t25",
+   "string": "4",
+   "owner": "s1",
+   "bbox": [
+    1127.0,
+    124.0,
+    7.5,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 92.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t26",
+   "string": "VA",
+   "owner": "s1",
+   "bbox": [
+    1141.0,
+    132.0,
+    7.0,
+    4.5
+   ],
+   "font": {
+    "px": 6
+   },
+   "ocrConf": 71.0,
+   "verify": true,
+   "color": {
+    "hex": "#80959D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t27",
+   "string": "SS",
+   "owner": "s1",
+   "bbox": [
+    325.0,
+    135.0,
+    19.5,
+    10.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 50.0,
+   "verify": true,
+   "color": {
+    "hex": "#C4CDDA",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t28",
+   "string": "\\g",
+   "owner": "s1",
+   "bbox": [
+    423.5,
+    134.0,
+    21.0,
+    22.5
+   ],
+   "font": {
+    "px": 31
+   },
+   "ocrConf": 64.0,
+   "verify": true,
+   "color": {
+    "hex": "#D4C8CE",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t29",
+   "string": "Wi",
+   "owner": "s1",
+   "bbox": [
+    870.0,
+    138.0,
+    25.0,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 92.0,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t30",
+   "string": "“iv",
+   "owner": "s1",
+   "bbox": [
+    918.0,
+    146.0,
+    7.5,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 66.0,
+   "verify": true,
+   "color": {
+    "hex": "#0B1F30",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t31",
+   "string": "CAĞ",
+   "owner": "s1",
+   "bbox": [
+    301.0,
+    154.5,
+    22.5,
+    12.5
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 57.0,
+   "verify": true,
+   "color": {
+    "hex": "#9CA3B0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t32",
+   "string": "4",
+   "owner": "s1",
+   "bbox": [
+    865.0,
+    154.5,
+    15.0,
+    33.0
+   ],
+   "font": {
+    "px": 46
+   },
+   "ocrConf": 50.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t33",
+   "string": "VE DA",
+   "owner": "s1",
+   "bbox": [
+    1102.0,
+    148.5,
+    22.5,
+    10.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 57.0,
+   "verify": true,
+   "color": {
+    "hex": "#91A0A8",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t34",
+   "string": "4",
+   "owner": "s1",
+   "bbox": [
+    1151.0,
+    152.0,
+    21.0,
+    19.5
+   ],
+   "font": {
+    "px": 27
+   },
+   "ocrConf": 63.0,
+   "verify": true,
+   "color": {
+    "hex": "#8B99A1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t35",
+   "string": "is",
+   "owner": "s14",
+   "bbox": [
+    1340.0,
+    151.0,
+    14.5,
+    14.5
+   ],
+   "font": {
+    "px": 20
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#01CAFC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t36",
+   "string": "SN",
+   "owner": "s1",
+   "bbox": [
+    386.5,
+    156.5,
+    12.5,
+    11.0
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 64.0,
+   "verify": true,
+   "color": {
+    "hex": "#98AB81",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t37",
+   "string": "YE",
+   "owner": "s1",
+   "bbox": [
+    1092.0,
+    156.5,
+    27.0,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 69.0,
+   "verify": true,
+   "color": {
+    "hex": "#8E9A9D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t38",
+   "string": "Kamera Görüntüsü",
+   "owner": "s3",
+   "bbox": [
+    80.0,
+    170.0,
+    129.5,
+    12.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t39",
+   "string": "Aa",
+   "owner": "s1",
+   "bbox": [
+    343.5,
+    170.5,
+    12.5,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 70.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t40",
+   "string": "e",
+   "owner": "s1",
+   "bbox": [
+    456.0,
+    171.5,
+    3.5,
+    5.5
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 69.0,
+   "verify": true,
+   "color": {
+    "hex": "#40546E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t41",
+   "string": "A",
+   "owner": "s1",
+   "bbox": [
+    1010.0,
+    164.5,
+    9.0,
+    8.0
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 46.0,
+   "verify": true,
+   "color": {
+    "hex": "#9CBEDA",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t42",
+   "string": "ağ",
+   "owner": "s1",
+   "bbox": [
+    1235.5,
+    170.5,
+    11.0,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 45.0,
+   "verify": true,
+   "color": {
+    "hex": "#788341",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t43",
+   "string": "fs",
+   "owner": "s14",
+   "bbox": [
+    1332.0,
+    171.5,
+    10.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 60.0,
+   "verify": true,
+   "color": {
+    "hex": "#01CAFC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t44",
+   "string": "RA",
+   "owner": "s1",
+   "bbox": [
+    319.5,
+    178.0,
+    12.0,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t45",
+   "string": "KA",
+   "owner": "s1",
+   "bbox": [
+    416.0,
+    174.0,
+    19.5,
+    8.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 53.0,
+   "verify": true,
+   "color": {
+    "hex": "#DCE1E9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t46",
+   "string": "La",
+   "owner": "s1",
+   "bbox": [
+    876.5,
+    173.5,
+    19.0,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 73.0,
+   "verify": true,
+   "color": {
+    "hex": "#050F18",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t47",
+   "string": "/9",
+   "owner": "s1",
+   "bbox": [
+    1102.5,
+    179.0,
+    8.5,
+    7.5
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 77.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t48",
+   "string": "Le",
+   "owner": "s1",
+   "bbox": [
+    1146.5,
+    179.5,
+    23.5,
+    16.0
+   ],
+   "font": {
+    "px": 22
+   },
+   "ocrConf": 70.0,
+   "verify": true,
+   "color": {
+    "hex": "#899397",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t49",
+   "string": "VA",
+   "owner": "s1",
+   "bbox": [
+    1226.5,
+    173.0,
+    10.0,
+    5.5
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 56.0,
+   "verify": true,
+   "color": {
+    "hex": "#646C46",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t50",
+   "string": "68",
+   "owner": "s14",
+   "bbox": [
+    1379.5,
+    176.0,
+    50.0,
+    35.5
+   ],
+   "font": {
+    "px": 49
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t51",
+   "string": "BAS",
+   "owner": "s1",
+   "bbox": [
+    348.0,
+    181.0,
+    25.5,
+    7.5
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#8A959D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t52",
+   "string": "YA",
+   "owner": "s1",
+   "bbox": [
+    1239.0,
+    180.5,
+    19.0,
+    15.0
+   ],
+   "font": {
+    "px": 21
+   },
+   "ocrConf": 92.0,
+   "verify": false,
+   "color": {
+    "hex": "#9DA85C",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t53",
+   "string": "re.",
+   "owner": "s1",
+   "bbox": [
+    1052.5,
+    194.0,
+    8.0,
+    3.0
+   ],
+   "font": {
+    "px": 6
+   },
+   "ocrConf": 69.0,
+   "verify": true,
+   "color": {
+    "hex": "#5B7A86",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t54",
+   "string": "Güncel Hız",
+   "owner": "s14",
+   "bbox": [
+    1525.0,
+    195.5,
+    57.5,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#62788F",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t55",
+   "string": "Ke",
+   "owner": "s1",
+   "bbox": [
+    304.0,
+    199.5,
+    4.5,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 44.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t56",
+   "string": "İN",
+   "owner": "s1",
+   "bbox": [
+    490.0,
+    201.0,
+    10.5,
+    16.5
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 55.0,
+   "verify": true,
+   "color": {
+    "hex": "#D5D9E1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t57",
+   "string": "p> J Ae",
+   "owner": "s1",
+   "bbox": [
+    939.0,
+    200.5,
+    46.0,
+    32.5
+   ],
+   "font": {
+    "px": 35
+   },
+   "ocrConf": 46.3,
+   "verify": true,
+   "color": {
+    "hex": "#A0A861",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t58",
+   "string": "Oe",
+   "owner": "s1",
+   "bbox": [
+    1059.0,
+    203.5,
+    9.5,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#91A054",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t59",
+   "string": "a>",
+   "owner": "s1",
+   "bbox": [
+    1104.5,
+    206.5,
+    10.0,
+    5.5
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 59.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t60",
+   "string": "68 km/s",
+   "owner": "s14",
+   "bbox": [
+    1525.0,
+    212.0,
+    58.5,
+    13.5
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 95.5,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t61",
+   "string": "ve",
+   "owner": "s1",
+   "bbox": [
+    1184.5,
+    217.0,
+    10.0,
+    4.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 57.0,
+   "verify": true,
+   "color": {
+    "hex": "#97A744",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t62",
+   "string": "Gi,",
+   "owner": "s1",
+   "bbox": [
+    1238.0,
+    216.5,
+    12.5,
+    8.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 50.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6B444",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t63",
+   "string": "Pee",
+   "owner": "s1",
+   "bbox": [
+    1078.5,
+    227.5,
+    16.5,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 57.0,
+   "verify": true,
+   "color": {
+    "hex": "#738594",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t64",
+   "string": "Sx",
+   "owner": "s1",
+   "bbox": [
+    1235.5,
+    221.5,
+    17.5,
+    7.0
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 45.0,
+   "verify": true,
+   "color": {
+    "hex": "#9FB043",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t65",
+   "string": "Harita ve Navigasyon",
+   "owner": "s3",
+   "bbox": [
+    80.0,
+    232.0,
+    146.0,
+    15.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#DCE1E9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t66",
+   "string": "ae can",
+   "owner": "s1",
+   "bbox": [
+    572.0,
+    234.5,
+    41.0,
+    7.5
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 41.5,
+   "verify": true,
+   "color": {
+    "hex": "#1E3148",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t67",
+   "string": "öm",
+   "owner": "s1",
+   "bbox": [
+    828.5,
+    229.5,
+    13.5,
+    3.5
+   ],
+   "font": {
+    "px": 5
+   },
+   "ocrConf": 67.0,
+   "verify": true,
+   "color": {
+    "hex": "#3F5169",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t68",
+   "string": "i",
+   "owner": "s1",
+   "bbox": [
+    860.0,
+    235.5,
+    14.0,
+    29.0
+   ],
+   "font": {
+    "px": 40
+   },
+   "ocrConf": 47.0,
+   "verify": true,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t69",
+   "string": "YAŞA",
+   "owner": "s1",
+   "bbox": [
+    1205.5,
+    231.5,
+    22.5,
+    8.0
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 87.0,
+   "verify": true,
+   "color": {
+    "hex": "#8C9C40",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t70",
+   "string": "km/s",
+   "owner": "s14",
+   "bbox": [
+    1386.5,
+    231.0,
+    34.5,
+    12.5
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 95.0,
+   "verify": false,
+   "color": {
+    "hex": "#BCCCDF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t71",
+   "string": "“3S",
+   "owner": "s1",
+   "bbox": [
+    340.0,
+    236.0,
+    17.0,
+    8.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 59.0,
+   "verify": true,
+   "color": {
+    "hex": "#A0A788",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t72",
+   "string": "it",
+   "owner": "s1",
+   "bbox": [
+    458.0,
+    243.0,
+    3.0,
+    5.5
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 55.0,
+   "verify": true,
+   "color": {
+    "hex": "#858274",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t73",
+   "string": "|",
+   "owner": "s1",
+   "bbox": [
+    814.0,
+    237.0,
+    7.0,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 78.0,
+   "verify": true,
+   "color": {
+    "hex": "#D0D7E3",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t74",
+   "string": "om",
+   "owner": "s1",
+   "bbox": [
+    833.0,
+    239.0,
+    9.0,
+    5.0
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#07192E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t75",
+   "string": "eye",
+   "owner": "s1",
+   "bbox": [
+    874.5,
+    243.0,
+    30.0,
+    12.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 54.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t76",
+   "string": "NA",
+   "owner": "s1",
+   "bbox": [
+    1045.0,
+    239.5,
+    19.5,
+    13.0
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 82.0,
+   "verify": true,
+   "color": {
+    "hex": "#010404",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t77",
+   "string": "5",
+   "owner": "s1",
+   "bbox": [
+    1247.5,
+    240.5,
+    9.5,
+    6.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 60.0,
+   "verify": true,
+   "color": {
+    "hex": "#8C9F34",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t78",
+   "string": "Py",
+   "owner": "s14",
+   "bbox": [
+    1464.0,
+    238.0,
+    4.0,
+    2.5
+   ],
+   "font": {
+    "px": 3
+   },
+   "ocrConf": 43.0,
+   "verify": true,
+   "color": {
+    "hex": "#4B5A70",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t79",
+   "string": "Hedef Hız",
+   "owner": "s14",
+   "bbox": [
+    1525.0,
+    243.0,
+    53.0,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 95.5,
+   "verify": false,
+   "color": {
+    "hex": "#68788E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t80",
+   "string": "9",
+   "owner": "s1",
+   "bbox": [
+    663.0,
+    249.5,
+    10.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 73.0,
+   "verify": true,
+   "color": {
+    "hex": "#22446A",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t81",
+   "string": "A",
+   "owner": "s1",
+   "bbox": [
+    874.5,
+    251.5,
+    6.0,
+    8.0
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 58.0,
+   "verify": true,
+   "color": {
+    "hex": "#79A7D2",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t82",
+   "string": "ye,",
+   "owner": "s1",
+   "bbox": [
+    885.5,
+    250.5,
+    12.0,
+    13.0
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 54.0,
+   "verify": true,
+   "color": {
+    "hex": "#93AFB1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t83",
+   "string": "hee",
+   "owner": "s1",
+   "bbox": [
+    913.5,
+    249.5,
+    17.5,
+    5.5
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 63.0,
+   "verify": true,
+   "color": {
+    "hex": "#95A763",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t84",
+   "string": "KN",
+   "owner": "s1",
+   "bbox": [
+    364.5,
+    253.0,
+    10.0,
+    7.0
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 44.0,
+   "verify": true,
+   "color": {
+    "hex": "#A9B6AB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t85",
+   "string": "KAN",
+   "owner": "s1",
+   "bbox": [
+    999.0,
+    253.5,
+    15.5,
+    11.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 54.0,
+   "verify": true,
+   "color": {
+    "hex": "#9DA853",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t86",
+   "string": "70 km/s",
+   "owner": "s14",
+   "bbox": [
+    1525.0,
+    260.0,
+    58.5,
+    14.0
+   ],
+   "font": {
+    "px": 19
+   },
+   "ocrConf": 95.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t87",
+   "string": "feu",
+   "owner": "s1",
+   "bbox": [
+    299.0,
+    267.0,
+    58.0,
+    22.5
+   ],
+   "font": {
+    "px": 30
+   },
+   "ocrConf": 41.0,
+   "verify": true,
+   "color": {
+    "hex": "#9FA19B",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t88",
+   "string": "jh",
+   "owner": "s1",
+   "bbox": [
+    661.5,
+    260.5,
+    7.5,
+    6.0
+   ],
+   "font": {
+    "px": 6
+   },
+   "ocrConf": 64.0,
+   "verify": true,
+   "color": {
+    "hex": "#30445B",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t89",
+   "string": "Ça",
+   "owner": "s1",
+   "bbox": [
+    903.5,
+    265.0,
+    10.0,
+    9.5
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 57.0,
+   "verify": true,
+   "color": {
+    "hex": "#A4B079",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t90",
+   "string": "Ix",
+   "owner": "s1",
+   "bbox": [
+    992.0,
+    267.5,
+    8.5,
+    10.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 47.0,
+   "verify": true,
+   "color": {
+    "hex": "#7F8D4D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t91",
+   "string": "TL",
+   "owner": "s1",
+   "bbox": [
+    1014.5,
+    264.5,
+    22.0,
+    13.0
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 42.0,
+   "verify": true,
+   "color": {
+    "hex": "#010404",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t92",
+   "string": "W",
+   "owner": "s1",
+   "bbox": [
+    800.5,
+    269.5,
+    10.0,
+    11.0
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 90.0,
+   "verify": false,
+   "color": {
+    "hex": "#1E3148",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t93",
+   "string": "ae",
+   "owner": "s1",
+   "bbox": [
+    818.5,
+    268.5,
+    14.0,
+    4.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 86.0,
+   "verify": true,
+   "color": {
+    "hex": "#0B1F30",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t94",
+   "string": "an",
+   "owner": "s1",
+   "bbox": [
+    860.0,
+    270.5,
+    12.5,
+    6.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 55.0,
+   "verify": true,
+   "color": {
+    "hex": "#81945D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t95",
+   "string": "4",
+   "owner": "s1",
+   "bbox": [
+    1169.5,
+    271.5,
+    11.0,
+    5.5
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 54.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BA7F",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t96",
+   "string": "Ba",
+   "owner": "s1",
+   "bbox": [
+    1163.0,
+    280.5,
+    38.0,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 47.0,
+   "verify": true,
+   "color": {
+    "hex": "#ADB179",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t97",
+   "string": "be",
+   "owner": "s1",
+   "bbox": [
+    1198.5,
+    280.0,
+    10.5,
+    4.5
+   ],
+   "font": {
+    "px": 6
+   },
+   "ocrConf": 61.0,
+   "verify": true,
+   "color": {
+    "hex": "#7D8186",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t98",
+   "string": "Re",
+   "owner": "s1",
+   "bbox": [
+    619.0,
+    287.0,
+    10.5,
+    7.5
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 67.0,
+   "verify": true,
+   "color": {
+    "hex": "#D0D7E3",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t99",
+   "string": "Otobüs 32.6 m",
+   "owner": "s1",
+   "bbox": [
+    814.0,
+    288.0,
+    77.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 92.0,
+   "verify": true,
+   "color": {
+    "hex": "#ECFDF7",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t100",
+   "string": "fi,",
+   "owner": "s1",
+   "bbox": [
+    973.5,
+    288.5,
+    10.5,
+    8.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 57.0,
+   "verify": true,
+   "color": {
+    "hex": "#9CAD5F",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t101",
+   "string": "Sürüş Asistanı",
+   "owner": "s3",
+   "bbox": [
+    80.0,
+    294.0,
+    98.0,
+    15.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#D6DCE6",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t102",
+   "string": "NY",
+   "owner": "s1",
+   "bbox": [
+    320.5,
+    306.0,
+    15.5,
+    8.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 86.0,
+   "verify": true,
+   "color": {
+    "hex": "#8C8F9E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t103",
+   "string": "at",
+   "owner": "s1",
+   "bbox": [
+    318.5,
+    313.0,
+    24.0,
+    8.5
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 66.0,
+   "verify": true,
+   "color": {
+    "hex": "#64738D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t104",
+   "string": "'s",
+   "owner": "s1",
+   "bbox": [
+    402.5,
+    315.5,
+    12.0,
+    6.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 51.0,
+   "verify": true,
+   "color": {
+    "hex": "#7A8182",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t105",
+   "string": "7)",
+   "owner": "s1",
+   "bbox": [
+    598.5,
+    310.5,
+    15.5,
+    6.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 61.0,
+   "verify": true,
+   "color": {
+    "hex": "#748141",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t106",
+   "string": "ça",
+   "owner": "s1",
+   "bbox": [
+    652.0,
+    312.0,
+    14.5,
+    5.5
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#A0A2AC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t107",
+   "string": "Yaya 24.8",
+   "owner": "s1",
+   "bbox": [
+    1161.5,
+    309.0,
+    50.0,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 71.0,
+   "verify": true,
+   "color": {
+    "hex": "#FEFBFB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t108",
+   "string": "he",
+   "owner": "s1",
+   "bbox": [
+    295.0,
+    316.0,
+    24.5,
+    11.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#7E8975",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t109",
+   "string": "Araç 18.7",
+   "owner": "s1",
+   "bbox": [
+    449.5,
+    324.0,
+    51.0,
+    28.0
+   ],
+   "font": {
+    "px": 30
+   },
+   "ocrConf": 92.0,
+   "verify": true,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t110",
+   "string": "a.",
+   "owner": "s1",
+   "bbox": [
+    455.5,
+    316.0,
+    4.0,
+    3.5
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#676F45",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t111",
+   "string": "Dİ",
+   "owner": "s1",
+   "bbox": [
+    653.0,
+    316.5,
+    6.0,
+    10.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 50.0,
+   "verify": true,
+   "color": {
+    "hex": "#A29C8A",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t112",
+   "string": "ee",
+   "owner": "s1",
+   "bbox": [
+    1056.0,
+    317.0,
+    10.0,
+    9.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 44.0,
+   "verify": true,
+   "color": {
+    "hex": "#8E9C37",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t113",
+   "string": "A",
+   "owner": "s1",
+   "bbox": [
+    1192.0,
+    323.5,
+    39.5,
+    5.5
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 69.0,
+   "verify": true,
+   "color": {
+    "hex": "#B145FF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t114",
+   "string": "Batarya Durumu",
+   "owner": "s26",
+   "bbox": [
+    1312.0,
+    319.5,
+    102.5,
+    14.0
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t115",
+   "string": "Araç 12.4m",
+   "owner": "s1",
+   "bbox": [
+    631.0,
+    331.0,
+    70.0,
+    27.0
+   ],
+   "font": {
+    "px": 29
+   },
+   "ocrConf": 88.0,
+   "verify": true,
+   "color": {
+    "hex": "#DCE1E9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t116",
+   "string": "jue",
+   "owner": "s1",
+   "bbox": [
+    831.0,
+    325.5,
+    34.5,
+    31.0
+   ],
+   "font": {
+    "px": 33
+   },
+   "ocrConf": 46.0,
+   "verify": true,
+   "color": {
+    "hex": "#36495F",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t117",
+   "string": "a",
+   "owner": "s1",
+   "bbox": [
+    927.5,
+    324.5,
+    6.0,
+    7.5
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 46.0,
+   "verify": true,
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t118",
+   "string": "16.8",
+   "owner": "s1",
+   "bbox": [
+    1001.0,
+    328.5,
+    18.5,
+    8.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 74.0,
+   "verify": true,
+   "color": {
+    "hex": "#F3DEC1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t119",
+   "string": "Ve",
+   "owner": "s1",
+   "bbox": [
+    296.5,
+    334.5,
+    11.0,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 59.0,
+   "verify": true,
+   "color": {
+    "hex": "#828B4C",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t120",
+   "string": "WI",
+   "owner": "s1",
+   "bbox": [
+    339.0,
+    344.0,
+    14.5,
+    16.5
+   ],
+   "font": {
+    "px": 23
+   },
+   "ocrConf": 44.0,
+   "verify": true,
+   "color": {
+    "hex": "#8D949E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t121",
+   "string": "İL",
+   "owner": "s1",
+   "bbox": [
+    403.0,
+    347.5,
+    11.0,
+    7.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 62.0,
+   "verify": true,
+   "color": {
+    "hex": "#D0BAC8",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t122",
+   "string": "Hs",
+   "owner": "s1",
+   "bbox": [
+    519.5,
+    343.0,
+    22.0,
+    7.0
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t123",
+   "string": "Gi",
+   "owner": "s1",
+   "bbox": [
+    551.0,
+    341.5,
+    10.0,
+    15.5
+   ],
+   "font": {
+    "px": 22
+   },
+   "ocrConf": 54.0,
+   "verify": true,
+   "color": {
+    "hex": "#8C9194",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t124",
+   "string": "Araç Durumu",
+   "owner": "s3",
+   "bbox": [
+    79.5,
+    356.0,
+    88.0,
+    15.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#D6DCE6",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t125",
+   "string": "Li",
+   "owner": "s1",
+   "bbox": [
+    566.5,
+    349.0,
+    18.5,
+    14.0
+   ],
+   "font": {
+    "px": 19
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#7A877E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t126",
+   "string": "vo",
+   "owner": "s1",
+   "bbox": [
+    619.5,
+    353.5,
+    11.0,
+    17.0
+   ],
+   "font": {
+    "px": 33
+   },
+   "ocrConf": 61.0,
+   "verify": true,
+   "color": {
+    "hex": "#D5D9E1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t127",
+   "string": "78%",
+   "owner": "s26",
+   "bbox": [
+    1601.5,
+    351.5,
+    34.0,
+    14.0
+   ],
+   "font": {
+    "px": 19
+   },
+   "ocrConf": 95.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t128",
+   "string": "vaz",
+   "owner": "s1",
+   "bbox": [
+    341.5,
+    359.0,
+    12.0,
+    5.5
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 46.0,
+   "verify": true,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t129",
+   "string": "BİZ",
+   "owner": "s1",
+   "bbox": [
+    546.5,
+    359.5,
+    35.5,
+    21.0
+   ],
+   "font": {
+    "px": 23
+   },
+   "ocrConf": 60.0,
+   "verify": true,
+   "color": {
+    "hex": "#D5CBC7",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t130",
+   "string": "NE",
+   "owner": "s1",
+   "bbox": [
+    711.0,
+    363.5,
+    18.0,
+    21.0
+   ],
+   "font": {
+    "px": 29
+   },
+   "ocrConf": 83.0,
+   "verify": true,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t131",
+   "string": "ore |",
+   "owner": "s1",
+   "bbox": [
+    827.0,
+    361.5,
+    8.0,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 63.0,
+   "verify": true,
+   "color": {
+    "hex": "#8C8FA5",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t132",
+   "string": "cone",
+   "owner": "s1",
+   "bbox": [
+    901.5,
+    358.5,
+    13.5,
+    4.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 68.0,
+   "verify": true,
+   "color": {
+    "hex": "#516E86",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t133",
+   "string": "ba",
+   "owner": "s1",
+   "bbox": [
+    827.0,
+    371.5,
+    18.5,
+    13.5
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 75.0,
+   "verify": true,
+   "color": {
+    "hex": "#7E9298",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t134",
+   "string": "ASS",
+   "owner": "s1",
+   "bbox": [
+    1087.5,
+    372.0,
+    10.0,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 51.0,
+   "verify": true,
+   "color": {
+    "hex": "#010404",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t135",
+   "string": "şa",
+   "owner": "s1",
+   "bbox": [
+    1251.0,
+    374.0,
+    11.0,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 60.0,
+   "verify": true,
+   "color": {
+    "hex": "#455871",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t136",
+   "string": "hi",
+   "owner": "s1",
+   "bbox": [
+    825.0,
+    382.5,
+    11.5,
+    16.0
+   ],
+   "font": {
+    "px": 22
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#677C92",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t137",
+   "string": "uh",
+   "owner": "s1",
+   "bbox": [
+    973.0,
+    385.0,
+    13.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 55.0,
+   "verify": true,
+   "color": {
+    "hex": "#4B5A70",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t138",
+   "string": "-3",
+   "owner": "s1",
+   "bbox": [
+    706.5,
+    388.5,
+    17.5,
+    7.5
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 80.0,
+   "verify": true,
+   "color": {
+    "hex": "#EC3D3C",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t139",
+   "string": "we",
+   "owner": "s1",
+   "bbox": [
+    1126.0,
+    389.0,
+    15.0,
+    5.5
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 51.0,
+   "verify": true,
+   "color": {
+    "hex": "#A09590",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t140",
+   "string": "Kalan Menzil",
+   "owner": "s26",
+   "bbox": [
+    1298.0,
+    395.0,
+    68.5,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#70859D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t141",
+   "string": "Tahmini Süre",
+   "owner": "s26",
+   "bbox": [
+    1551.5,
+    395.0,
+    70.5,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 95.5,
+   "verify": false,
+   "color": {
+    "hex": "#697D95",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t142",
+   "string": "Zo",
+   "owner": "s1",
+   "bbox": [
+    609.0,
+    403.0,
+    24.5,
+    17.0
+   ],
+   "font": {
+    "px": 24
+   },
+   "ocrConf": 45.0,
+   "verify": true,
+   "color": {
+    "hex": "#1190D4",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t143",
+   "string": "e",
+   "owner": "s1",
+   "bbox": [
+    780.5,
+    396.5,
+    26.0,
+    7.0
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 78.0,
+   "verify": true,
+   "color": {
+    "hex": "#394860",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t144",
+   "string": "jae",
+   "owner": "s1",
+   "bbox": [
+    963.0,
+    400.5,
+    20.5,
+    13.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 41.0,
+   "verify": true,
+   "color": {
+    "hex": "#C4AEA8",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t145",
+   "string": "2",
+   "owner": "s1",
+   "bbox": [
+    299.0,
+    411.5,
+    15.5,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 61.0,
+   "verify": true,
+   "color": {
+    "hex": "#3A465A",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t146",
+   "string": "=a",
+   "owner": "s1",
+   "bbox": [
+    422.5,
+    406.0,
+    13.0,
+    4.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 47.0,
+   "verify": true,
+   "color": {
+    "hex": "#14273F",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t147",
+   "string": "Ce",
+   "owner": "s1",
+   "bbox": [
+    755.5,
+    405.0,
+    9.0,
+    5.5
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 51.0,
+   "verify": true,
+   "color": {
+    "hex": "#D5D9E1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t148",
+   "string": "YA",
+   "owner": "s1",
+   "bbox": [
+    963.5,
+    410.0,
+    22.0,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 57.0,
+   "verify": true,
+   "color": {
+    "hex": "#BFA89D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t149",
+   "string": "Enerji Yönetimi",
+   "owner": "s3",
+   "bbox": [
+    80.0,
+    418.0,
+    104.0,
+    15.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 95.5,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t150",
+   "string": "ke",
+   "owner": "s1",
+   "bbox": [
+    1228.5,
+    417.5,
+    3.0,
+    21.0
+   ],
+   "font": {
+    "px": 28
+   },
+   "ocrConf": 43.0,
+   "verify": true,
+   "color": {
+    "hex": "#BA3CEC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t151",
+   "string": "362 km",
+   "owner": "s26",
+   "bbox": [
+    1298.0,
+    412.5,
+    52.0,
+    12.5
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 94.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t152",
+   "string": "2 dk",
+   "owner": "s26",
+   "bbox": [
+    1619.5,
+    412.0,
+    16.5,
+    13.0
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 92.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t153",
+   "string": "AE",
+   "owner": "s1",
+   "bbox": [
+    775.5,
+    420.5,
+    41.0,
+    22.5
+   ],
+   "font": {
+    "px": 31
+   },
+   "ocrConf": 67.0,
+   "verify": true,
+   "color": {
+    "hex": "#C4CDDA",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t154",
+   "string": "gr",
+   "owner": "s1",
+   "bbox": [
+    1070.0,
+    420.5,
+    38.0,
+    12.5
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 64.0,
+   "verify": true,
+   "color": {
+    "hex": "#D5D9E1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t155",
+   "string": "A",
+   "owner": "s1",
+   "bbox": [
+    891.5,
+    431.5,
+    19.0,
+    7.0
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 53.0,
+   "verify": true,
+   "color": {
+    "hex": "#D5D9E1",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t156",
+   "string": "EK",
+   "owner": "s1",
+   "bbox": [
+    968.0,
+    433.5,
+    31.0,
+    18.5
+   ],
+   "font": {
+    "px": 26
+   },
+   "ocrConf": 64.0,
+   "verify": true,
+   "color": {
+    "hex": "#010309",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t157",
+   "string": "eee",
+   "owner": "s1",
+   "bbox": [
+    298.0,
+    440.5,
+    99.5,
+    16.5
+   ],
+   "font": {
+    "px": 32
+   },
+   "ocrConf": 41.0,
+   "verify": true,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t158",
+   "string": "A",
+   "owner": "s1",
+   "bbox": [
+    978.5,
+    449.5,
+    12.0,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 56.0,
+   "verify": true,
+   "color": {
+    "hex": "#7A6F72",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t159",
+   "string": "|—",
+   "owner": "s1",
+   "bbox": [
+    1239.0,
+    449.5,
+    25.5,
+    16.0
+   ],
+   "font": {
+    "px": 22
+   },
+   "ocrConf": 42.0,
+   "verify": true,
+   "color": {
+    "hex": "#C4CDDA",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t160",
+   "string": "Motor Sıcaklıkları",
+   "owner": "s30",
+   "bbox": [
+    1312.0,
+    469.5,
+    111.5,
+    11.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t161",
+   "string": "Veri Kayıtları",
+   "owner": "s3",
+   "bbox": [
+    79.5,
+    480.0,
+    85.5,
+    15.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#C8D1E0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t162",
+   "string": "=S",
+   "owner": "s1",
+   "bbox": [
+    1235.5,
+    478.0,
+    27.5,
+    8.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 79.0,
+   "verify": true,
+   "color": {
+    "hex": "#979DAF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t163",
+   "string": "Ön Motor",
+   "owner": "s30",
+   "bbox": [
+    1341.5,
+    500.0,
+    49.5,
+    10.0
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 95.5,
+   "verify": false,
+   "color": {
+    "hex": "#7D90A5",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t164",
+   "string": "ar",
+   "owner": "s1",
+   "bbox": [
+    908.5,
+    506.5,
+    23.5,
+    8.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 53.0,
+   "verify": true,
+   "color": {
+    "hex": "#4F566A",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t165",
+   "string": "Arka Motor",
+   "owner": "s30",
+   "bbox": [
+    1465.0,
+    501.0,
+    59.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#8496AC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t166",
+   "string": "Batarya",
+   "owner": "s30",
+   "bbox": [
+    1588.5,
+    501.5,
+    40.0,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#8493A8",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t167",
+   "string": "42°C",
+   "owner": "s30",
+   "bbox": [
+    1341.0,
+    521.5,
+    33.0,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t168",
+   "string": "38°C",
+   "owner": "s30",
+   "bbox": [
+    1465.0,
+    521.5,
+    32.5,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t169",
+   "string": "35°C",
+   "owner": "s30",
+   "bbox": [
+    1588.5,
+    521.5,
+    32.5,
+    12.0
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t170",
+   "string": "I",
+   "owner": "s1",
+   "bbox": [
+    825.0,
+    527.5,
+    13.5,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 47.0,
+   "verify": true,
+   "color": {
+    "hex": "#29374C",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t171",
+   "string": "Ayarlar",
+   "owner": "s3",
+   "bbox": [
+    79.5,
+    541.5,
+    49.0,
+    15.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t172",
+   "string": "CE",
+   "owner": "s1",
+   "bbox": [
+    986.5,
+    544.0,
+    29.5,
+    8.0
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 69.0,
+   "verify": true,
+   "color": {
+    "hex": "#4B5467",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t173",
+   "string": "Sa",
+   "owner": "s1",
+   "bbox": [
+    916.0,
+    554.5,
+    1.5,
+    1.5
+   ],
+   "font": {
+    "px": 2
+   },
+   "ocrConf": 43.0,
+   "verify": true,
+   "color": {
+    "hex": "#4B5A70",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t174",
+   "string": "Sees",
+   "owner": "s1",
+   "bbox": [
+    956.5,
+    550.0,
+    14.0,
+    4.0
+   ],
+   "font": {
+    "px": 6
+   },
+   "ocrConf": 45.0,
+   "verify": true,
+   "color": {
+    "hex": "#4B5A70",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t175",
+   "string": "çep",
+   "owner": "s1",
+   "bbox": [
+    327.5,
+    568.0,
+    25.0,
+    8.0
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 44.0,
+   "verify": true,
+   "color": {
+    "hex": "#4F566A",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t176",
+   "string": "YAN",
+   "owner": "s1",
+   "bbox": [
+    930.5,
+    567.5,
+    7.0,
+    7.0
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 75.0,
+   "verify": true,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t177",
+   "string": "SA",
+   "owner": "s1",
+   "bbox": [
+    940.5,
+    574.0,
+    23.0,
+    8.0
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t178",
+   "string": "yar",
+   "owner": "s1",
+   "bbox": [
+    361.5,
+    585.5,
+    13.5,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 66.0,
+   "verify": true,
+   "color": {
+    "hex": "#84838B",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t179",
+   "string": "AM",
+   "owner": "s1",
+   "bbox": [
+    527.0,
+    581.5,
+    22.5,
+    8.0
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t180",
+   "string": "=e",
+   "owner": "s1",
+   "bbox": [
+    710.5,
+    581.0,
+    15.0,
+    1.0
+   ],
+   "font": {
+    "px": 2
+   },
+   "ocrConf": 68.0,
+   "verify": true,
+   "color": {
+    "hex": "#22446A",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t181",
+   "string": "Krag Konumu",
+   "owner": "s34",
+   "bbox": [
+    1298.0,
+    581.0,
+    92.0,
+    13.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 79.5,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t182",
+   "string": "RM",
+   "owner": "s1",
+   "bbox": [
+    815.0,
+    592.0,
+    5.0,
+    2.0
+   ],
+   "font": {
+    "px": 3
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#40546E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t183",
+   "string": "ır",
+   "owner": "s1",
+   "bbox": [
+    631.0,
+    598.5,
+    11.0,
+    3.0
+   ],
+   "font": {
+    "px": 4
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#634C64",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t184",
+   "string": "aA",
+   "owner": "s1",
+   "bbox": [
+    520.0,
+    606.0,
+    11.5,
+    7.5
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 43.0,
+   "verify": true,
+   "color": {
+    "hex": "#687F9D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t185",
+   "string": "eT",
+   "owner": "s1",
+   "bbox": [
+    740.0,
+    608.5,
+    55.5,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t186",
+   "string": "41.0082°N 28.9784°E",
+   "owner": "s34",
+   "bbox": [
+    1341.0,
+    609.0,
+    140.5,
+    10.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 83.0,
+   "verify": true,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t187",
+   "string": "| 1080p - 30 FPS",
+   "owner": "s75",
+   "bbox": [
+    339.0,
+    617.5,
+    80.5,
+    11.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 86.2,
+   "verify": true,
+   "color": {
+    "hex": "#73A3CF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t188",
+   "string": "wr 7",
+   "owner": "s1",
+   "bbox": [
+    488.0,
+    618.0,
+    23.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 56.0,
+   "verify": true,
+   "color": {
+    "hex": "#9F9FA2",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t189",
+   "string": "re",
+   "owner": "s1",
+   "bbox": [
+    908.0,
+    617.0,
+    57.0,
+    6.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 41.0,
+   "verify": true,
+   "color": {
+    "hex": "#6B8197",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t190",
+   "string": "_—_*",
+   "owner": "s1",
+   "bbox": [
+    502.5,
+    622.5,
+    4.5,
+    5.0
+   ],
+   "font": {
+    "px": 10
+   },
+   "ocrConf": 48.0,
+   "verify": true,
+   "color": {
+    "hex": "#8F8FA0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t191",
+   "string": "İstanbul, Türkiye",
+   "owner": "s34",
+   "bbox": [
+    1341.5,
+    627.0,
+    94.0,
+    15.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#7A8FA5",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t192",
+   "string": "ee — — — —",
+   "owner": "s1",
+   "bbox": [
+    829.5,
+    646.5,
+    111.0,
+    6.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 55.2,
+   "verify": true,
+   "color": {
+    "hex": "#747B8B",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t193",
+   "string": "Sürüş Verileri",
+   "owner": "s6",
+   "bbox": [
+    308.5,
+    689.0,
+    86.0,
+    15.0
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t194",
+   "string": "Hiz",
+   "owner": "s6",
+   "bbox": [
+    530.5,
+    692.0,
+    16.5,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 95.0,
+   "verify": false,
+   "color": {
+    "hex": "#8B9BB4",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t195",
+   "string": "© RPM",
+   "owner": "s6",
+   "bbox": [
+    568.0,
+    692.0,
+    37.5,
+    8.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 93.0,
+   "verify": false,
+   "color": {
+    "hex": "#C8D1DC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t196",
+   "string": ") Batarya",
+   "owner": "s6",
+   "bbox": [
+    640.0,
+    692.0,
+    39.5,
+    11.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 92.0,
+   "verify": false,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t197",
+   "string": "Kamera Derinlik Haritası",
+   "owner": "s16",
+   "bbox": [
+    731.0,
+    687.0,
+    130.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t198",
+   "string": "x",
+   "owner": "s16",
+   "bbox": [
+    981.0,
+    687.5,
+    8.5,
+    8.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 90.0,
+   "verify": false,
+   "color": {
+    "hex": "#394F69",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t199",
+   "string": "Nesne Sayıları",
+   "owner": "s24",
+   "bbox": [
+    1038.5,
+    687.5,
+    75.0,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 95.5,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t200",
+   "string": "Sürüş Kontrolleri",
+   "owner": "s12",
+   "bbox": [
+    1298.0,
+    687.5,
+    89.5,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 95.5,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t201",
+   "string": "A",
+   "owner": "s20",
+   "bbox": [
+    148.5,
+    706.0,
+    19.5,
+    15.5
+   ],
+   "font": {
+    "px": 22
+   },
+   "ocrConf": 95.0,
+   "verify": false,
+   "color": {
+    "hex": "#73A3CF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t202",
+   "string": "Araç",
+   "owner": "s24",
+   "bbox": [
+    1084.0,
+    721.5,
+    24.5,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t203",
+   "string": "12",
+   "owner": "s24",
+   "bbox": [
+    1226.0,
+    722.0,
+    17.5,
+    13.0
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t204",
+   "string": "Va",
+   "owner": "s63",
+   "bbox": [
+    1297.5,
+    720.0,
+    11.5,
+    11.0
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 66.0,
+   "verify": true,
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t205",
+   "string": "Fy",
+   "owner": "s20",
+   "bbox": [
+    97.5,
+    727.0,
+    22.5,
+    10.5
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 90.0,
+   "verify": false,
+   "color": {
+    "hex": "#C8D1DC",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t206",
+   "string": "see",
+   "owner": "s20",
+   "bbox": [
+    163.5,
+    731.5,
+    33.5,
+    11.5
+   ],
+   "font": {
+    "px": 22
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#455871",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t207",
+   "string": "120",
+   "owner": "s6",
+   "bbox": [
+    307.5,
+    725.5,
+    18.5,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#D6DCE6",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t208",
+   "string": "Uzak",
+   "owner": "s16",
+   "bbox": [
+    967.0,
+    732.0,
+    24.0,
+    8.5
+   ],
+   "font": {
+    "px": 11
+   },
+   "ocrConf": 94.0,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t209",
+   "string": "be",
+   "owner": "s20",
+   "bbox": [
+    135.0,
+    742.5,
+    6.5,
+    6.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 46.0,
+   "verify": true,
+   "color": {
+    "hex": "#576D75",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t210",
+   "string": "Otonom Mod",
+   "owner": "s63",
+   "bbox": [
+    1358.5,
+    743.0,
+    68.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 95.5,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t211",
+   "string": "Manuel Mod",
+   "owner": "s67",
+   "bbox": [
+    1537.0,
+    743.0,
+    65.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 95.0,
+   "verify": false,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t212",
+   "string": "“7",
+   "owner": "s20",
+   "bbox": [
+    127.0,
+    750.5,
+    15.0,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 49.0,
+   "verify": true,
+   "color": {
+    "hex": "#5B6E7D",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t213",
+   "string": "90",
+   "owner": "s6",
+   "bbox": [
+    313.5,
+    757.0,
+    12.5,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#D6DCE6",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t214",
+   "string": "id",
+   "owner": "s16",
+   "bbox": [
+    723.0,
+    762.5,
+    12.0,
+    11.0
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 51.0,
+   "verify": true,
+   "color": {
+    "hex": "#191642",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t215",
+   "string": "be",
+   "owner": "s16",
+   "bbox": [
+    912.5,
+    757.5,
+    12.0,
+    9.5
+   ],
+   "font": {
+    "px": 13
+   },
+   "ocrConf": 60.0,
+   "verify": true,
+   "color": {
+    "hex": "#191642",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t216",
+   "string": "Yaya",
+   "owner": "s24",
+   "bbox": [
+    1084.0,
+    767.5,
+    25.0,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t217",
+   "string": "|",
+   "owner": "s63",
+   "bbox": [
+    1445.5,
+    764.0,
+    11.0,
+    10.5
+   ],
+   "font": {
+    "px": 15
+   },
+   "ocrConf": 70.0,
+   "verify": true,
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t218",
+   "string": "A=",
+   "owner": "s6",
+   "bbox": [
+    459.5,
+    783.0,
+    23.0,
+    17.0
+   ],
+   "font": {
+    "px": 24
+   },
+   "ocrConf": 73.0,
+   "verify": true,
+   "color": {
+    "hex": "#E9861C",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t219",
+   "string": "60 ©",
+   "owner": "s6",
+   "bbox": [
+    313.5,
+    789.0,
+    12.5,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 89.5,
+   "verify": true,
+   "color": {
+    "hex": "#D0D7E3",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t220",
+   "string": "Bt",
+   "owner": "s16",
+   "bbox": [
+    888.0,
+    789.5,
+    10.5,
+    6.5
+   ],
+   "font": {
+    "px": 9
+   },
+   "ocrConf": 62.0,
+   "verify": true,
+   "color": {
+    "hex": "#21548B",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t221",
+   "string": "Tesla Model 3",
+   "owner": "s20",
+   "bbox": [
+    35.5,
+    799.5,
+    97.0,
+    12.5
+   ],
+   "font": {
+    "px": 17
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t222",
+   "string": "RS Bisiklet",
+   "owner": "s24",
+   "bbox": [
+    1045.5,
+    813.0,
+    77.5,
+    18.0
+   ],
+   "font": {
+    "px": 24
+   },
+   "ocrConf": 78.5,
+   "verify": true,
+   "color": {
+    "hex": "#9B9BA8",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t223",
+   "string": "2",
+   "owner": "s24",
+   "bbox": [
+    1235.5,
+    814.5,
+    8.0,
+    13.0
+   ],
+   "font": {
+    "px": 18
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t224",
+   "string": "FAY",
+   "owner": "s65",
+   "bbox": [
+    1337.0,
+    815.0,
+    26.0,
+    21.5
+   ],
+   "font": {
+    "px": 30
+   },
+   "ocrConf": 61.0,
+   "verify": true,
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t225",
+   "string": "A",
+   "owner": "s59",
+   "bbox": [
+    1457.0,
+    815.5,
+    24.0,
+    21.0
+   ],
+   "font": {
+    "px": 29
+   },
+   "ocrConf": 93.0,
+   "verify": false,
+   "color": {
+    "hex": "#73A3CF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t226",
+   "string": "VIN: SYJ3ETEA7NF123456",
+   "owner": "s20",
+   "bbox": [
+    36.0,
+    824.0,
+    156.0,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 89.5,
+   "verify": true,
+   "color": {
+    "hex": "#798EA4",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t227",
+   "string": "30",
+   "owner": "s6",
+   "bbox": [
+    314.0,
+    821.0,
+    12.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#D0D7E3",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t228",
+   "string": "MA",
+   "owner": "s16",
+   "bbox": [
+    753.5,
+    847.0,
+    15.0,
+    6.0
+   ],
+   "font": {
+    "px": 8
+   },
+   "ocrConf": 60.0,
+   "verify": true,
+   "color": {
+    "hex": "#68665C",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t229",
+   "string": "Şerit Takip",
+   "owner": "s65",
+   "bbox": [
+    1322.5,
+    850.5,
+    54.5,
+    11.5
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#12CD7B",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t230",
+   "string": "Trafik Asistanı",
+   "owner": "s59",
+   "bbox": [
+    1431.5,
+    850.0,
+    73.5,
+    10.0
+   ],
+   "font": {
+    "px": 14
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t231",
+   "string": "Park Asistanı",
+   "owner": "s61",
+   "bbox": [
+    1553.0,
+    851.0,
+    67.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#B6CBDE",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t232",
+   "string": ") Bağlı",
+   "owner": "s20",
+   "bbox": [
+    58.5,
+    858.5,
+    30.0,
+    14.0
+   ],
+   "font": {
+    "px": 19
+   },
+   "ocrConf": 94.0,
+   "verify": false,
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t233",
+   "string": "0",
+   "owner": "s6",
+   "bbox": [
+    320.5,
+    853.0,
+    5.5,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 93.0,
+   "verify": true,
+   "color": {
+    "hex": "#C0CCDA",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t234",
+   "string": "i",
+   "owner": "s6",
+   "bbox": [
+    338.5,
+    865.5,
+    1.5,
+    4.5
+   ],
+   "font": {
+    "px": 6
+   },
+   "ocrConf": 69.0,
+   "verify": true,
+   "color": {
+    "hex": "#455871",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t235",
+   "string": "i",
+   "owner": "s6",
+   "bbox": [
+    667.5,
+    865.5,
+    1.5,
+    5.0
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 47.0,
+   "verify": true,
+   "color": {
+    "hex": "#4B5A70",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t236",
+   "string": "ene",
+   "owner": "s89",
+   "bbox": [
+    1048.5,
+    867.0,
+    17.0,
+    3.5
+   ],
+   "font": {
+    "px": 7
+   },
+   "ocrConf": 70.0,
+   "verify": true,
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t237",
+   "string": "Diğer",
+   "owner": "s24",
+   "bbox": [
+    1084.5,
+    860.0,
+    28.0,
+    11.5
+   ],
+   "font": {
+    "px": 16
+   },
+   "ocrConf": 96.0,
+   "verify": false,
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t238",
+   "string": "| Yakın",
+   "owner": "s16",
+   "bbox": [
+    967.0,
+    870.5,
+    26.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 94.5,
+   "verify": false,
+   "color": {
+    "hex": "#DCE1E9",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t239",
+   "string": "14:32",
+   "owner": "s6",
+   "bbox": [
+    326.5,
+    878.5,
+    28.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#BFCADD",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t240",
+   "string": "14:33",
+   "owner": "s6",
+   "bbox": [
+    392.0,
+    878.5,
+    28.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#BCCCDF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t241",
+   "string": "14:34",
+   "owner": "s6",
+   "bbox": [
+    457.5,
+    878.5,
+    28.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#BFCADD",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t242",
+   "string": "14:35",
+   "owner": "s6",
+   "bbox": [
+    523.5,
+    878.5,
+    28.5,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#BCCCDF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t243",
+   "string": "14:36",
+   "owner": "s6",
+   "bbox": [
+    589.5,
+    878.5,
+    28.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#BCCCDF",
+    "alpha": 1.0
+   }
+  },
+  {
+   "id": "t244",
+   "string": "14:37",
+   "owner": "s6",
+   "bbox": [
+    655.0,
+    878.5,
+    28.0,
+    9.0
+   ],
+   "font": {
+    "px": 12
+   },
+   "ocrConf": 96.0,
+   "verify": true,
+   "color": {
+    "hex": "#C0CCDA",
+    "alpha": 1.0
+   }
+  }
+ ],
+ "icons": [
+  {
+   "bbox": [
+    36.0,
+    857.0,
+    15.0,
+    14.5
+   ],
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i0",
+   "owner": "s20"
+  },
+  {
+   "bbox": [
+    1297.0,
+    319.0,
+    11.5,
+    12.0
+   ],
+   "color": {
+    "hex": "#07FFE0",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i1",
+   "owner": "s26"
+  },
+  {
+   "bbox": [
+    1297.0,
+    469.5,
+    11.5,
+    11.5
+   ],
+   "color": {
+    "hex": "#07EBE5",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i2",
+   "owner": "s30"
+  },
+  {
+   "bbox": [
+    1326.5,
+    737.0,
+    20.5,
+    21.0
+   ],
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i3",
+   "owner": "s63"
+  },
+  {
+   "bbox": [
+    309.5,
+    94.5,
+    14.5,
+    15.0
+   ],
+   "color": {
+    "hex": "#FF403F",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i4",
+   "owner": "g0"
+  },
+  {
+   "bbox": [
+    515.5,
+    692.0,
+    9.0,
+    9.0
+   ],
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i5",
+   "owner": "s6"
+  },
+  {
+   "bbox": [
+    322.5,
+    618.0,
+    9.0,
+    9.0
+   ],
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i6",
+   "owner": "s75"
+  },
+  {
+   "bbox": [
+    1001.0,
+    21.5,
+    22.0,
+    21.5
+   ],
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i7",
+   "owner": "s8"
+  },
+  {
+   "bbox": [
+    1201.0,
+    35.0,
+    5.5,
+    7.5
+   ],
+   "color": {
+    "hex": "#49FFCA",
+    "alpha": 1.0
+   },
+   "ocrGuess": "*",
+   "match": null,
+   "id": "i8",
+   "owner": "s8"
+  },
+  {
+   "bbox": [
+    950.5,
+    732.0,
+    11.5,
+    9.0
+   ],
+   "color": {
+    "hex": "#0B53EA",
+    "alpha": 1.0
+   },
+   "ocrGuess": "@",
+   "match": null,
+   "id": "i9",
+   "owner": "s16"
+  },
+  {
+   "bbox": [
+    1487.5,
+    21.5,
+    20.5,
+    20.5
+   ],
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i10",
+   "owner": "s8"
+  },
+  {
+   "bbox": [
+    1628.5,
+    321.0,
+    8.5,
+    8.5
+   ],
+   "color": {
+    "hex": "#36495F",
+    "alpha": 1.0
+   },
+   "ocrGuess": "x",
+   "match": null,
+   "id": "i11",
+   "owner": "s26"
+  },
+  {
+   "bbox": [
+    844.0,
+    175.0,
+    43.0,
+    59.5
+   ],
+   "color": {
+    "hex": "#132437",
+    "alpha": 1.0
+   },
+   "ocrGuess": "|",
+   "match": null,
+   "id": "i12",
+   "owner": "s98"
+  },
+  {
+   "bbox": [
+    1046.5,
+    721.5,
+    21.0,
+    17.5
+   ],
+   "color": {
+    "hex": "#02ACFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "&",
+   "match": null,
+   "id": "i13",
+   "owner": "s24"
+  },
+  {
+   "bbox": [
+    31.0,
+    288.5,
+    24.0,
+    21.5
+   ],
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i14",
+   "owner": "s3"
+  },
+  {
+   "bbox": [
+    1445.0,
+    720.0,
+    11.5,
+    11.0
+   ],
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   },
+   "ocrGuess": "\\",
+   "match": null,
+   "id": "i15",
+   "owner": "s63"
+  },
+  {
+   "bbox": [
+    625.5,
+    692.0,
+    8.5,
+    8.5
+   ],
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   },
+   "ocrGuess": "©",
+   "match": null,
+   "id": "i16",
+   "owner": "s6"
+  },
+  {
+   "bbox": [
+    1433.5,
+    21.5,
+    18.5,
+    20.5
+   ],
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "A",
+   "match": null,
+   "id": "i17",
+   "owner": "s8"
+  },
+  {
+   "bbox": [
+    458.0,
+    609.0,
+    11.0,
+    14.0
+   ],
+   "color": {
+    "hex": "#606F7D",
+    "alpha": 1.0
+   },
+   "ocrGuess": "=",
+   "match": null,
+   "id": "i18",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    986.5,
+    121.5,
+    6.5,
+    7.0
+   ],
+   "color": {
+    "hex": "#73A3CF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "N",
+   "match": null,
+   "id": "i19",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    333.5,
+    217.5,
+    6.0,
+    8.5
+   ],
+   "color": {
+    "hex": "#C8D1DC",
+    "alpha": 1.0
+   },
+   "ocrGuess": "&",
+   "match": null,
+   "id": "i20",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    677.0,
+    609.0,
+    8.0,
+    8.0
+   ],
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   },
+   "ocrGuess": "£",
+   "match": null,
+   "id": "i21",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    730.0,
+    811.0,
+    12.0,
+    7.5
+   ],
+   "color": {
+    "hex": "#072F60",
+    "alpha": 1.0
+   },
+   "ocrGuess": "A",
+   "match": null,
+   "id": "i22",
+   "owner": "s16"
+  },
+  {
+   "bbox": [
+    840.0,
+    367.0,
+    4.5,
+    4.5
+   ],
+   "color": {
+    "hex": "#FF4649",
+    "alpha": 1.0
+   },
+   "ocrGuess": "a",
+   "match": null,
+   "id": "i23",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    1431.0,
+    505.5,
+    16.0,
+    24.0
+   ],
+   "color": {
+    "hex": "#01CAFC",
+    "alpha": 1.0
+   },
+   "ocrGuess": "é",
+   "match": null,
+   "id": "i24",
+   "owner": "s30"
+  },
+  {
+   "bbox": [
+    1023.5,
+    331.0,
+    7.0,
+    5.5
+   ],
+   "color": {
+    "hex": "#F6EEDD",
+    "alpha": 1.0
+   },
+   "ocrGuess": "m",
+   "match": null,
+   "id": "i25",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    998.0,
+    436.5,
+    20.0,
+    27.5
+   ],
+   "color": {
+    "hex": "#EC9115",
+    "alpha": 1.0
+   },
+   "ocrGuess": "Ü",
+   "match": null,
+   "id": "i26",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    1248.0,
+    558.5,
+    15.5,
+    11.5
+   ],
+   "color": {
+    "hex": "#1E3148",
+    "alpha": 1.0
+   },
+   "ocrGuess": "A",
+   "match": null,
+   "id": "i27",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    1505.5,
+    737.5,
+    20.5,
+    20.0
+   ],
+   "color": {
+    "hex": "#A6BBD0",
+    "alpha": 1.0
+   },
+   "ocrGuess": "@)",
+   "match": null,
+   "id": "i28",
+   "owner": "s67"
+  },
+  {
+   "bbox": [
+    890.0,
+    28.0,
+    5.0,
+    5.0
+   ],
+   "color": {
+    "hex": "#FFFFFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "a",
+   "match": null,
+   "id": "i29",
+   "owner": "s8"
+  },
+  {
+   "bbox": [
+    929.5,
+    552.5,
+    14.0,
+    12.0
+   ],
+   "color": {
+    "hex": "#B8C4D9",
+    "alpha": 1.0
+   },
+   "ocrGuess": "S",
+   "match": null,
+   "id": "i30",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    480.5,
+    397.5,
+    22.5,
+    10.5
+   ],
+   "color": {
+    "hex": "#807679",
+    "alpha": 1.0
+   },
+   "ocrGuess": "——",
+   "match": null,
+   "id": "i31",
+   "owner": "s94"
+  },
+  {
+   "bbox": [
+    572.0,
+    322.5,
+    10.5,
+    10.0
+   ],
+   "color": {
+    "hex": "#5E703B",
+    "alpha": 1.0
+   },
+   "ocrGuess": ">>",
+   "match": null,
+   "id": "i32",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    1055.5,
+    464.5,
+    14.0,
+    9.0
+   ],
+   "color": {
+    "hex": "#8C8E9A",
+    "alpha": 1.0
+   },
+   "ocrGuess": "—",
+   "match": null,
+   "id": "i33",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    616.5,
+    243.0,
+    7.5,
+    10.0
+   ],
+   "color": {
+    "hex": "#1E3148",
+    "alpha": 1.0
+   },
+   "ocrGuess": "N",
+   "match": null,
+   "id": "i34",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    472.0,
+    315.5,
+    2.5,
+    4.0
+   ],
+   "color": {
+    "hex": "#6F7156",
+    "alpha": 1.0
+   },
+   "ocrGuess": "$",
+   "match": null,
+   "id": "i35",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    392.0,
+    787.0,
+    24.0,
+    7.0
+   ],
+   "color": {
+    "hex": "#F48713",
+    "alpha": 1.0
+   },
+   "ocrGuess": "-*",
+   "match": null,
+   "id": "i36",
+   "owner": "s6"
+  },
+  {
+   "bbox": [
+    1051.0,
+    768.5,
+    12.0,
+    18.0
+   ],
+   "color": {
+    "hex": "#BB5CFF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "a",
+   "match": null,
+   "id": "i37",
+   "owner": "s24"
+  },
+  {
+   "bbox": [
+    799.5,
+    264.0,
+    6.5,
+    7.0
+   ],
+   "color": {
+    "hex": "#D5D9E1",
+    "alpha": 1.0
+   },
+   "ocrGuess": "£",
+   "match": null,
+   "id": "i38",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    763.0,
+    583.0,
+    9.0,
+    4.5
+   ],
+   "color": {
+    "hex": "#21548B",
+    "alpha": 1.0
+   },
+   "ocrGuess": "—",
+   "match": null,
+   "id": "i39",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    445.0,
+    271.5,
+    22.5,
+    21.5
+   ],
+   "color": {
+    "hex": "#8F9F39",
+    "alpha": 1.0
+   },
+   "ocrGuess": "$",
+   "match": null,
+   "id": "i40",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    1093.5,
+    611.0,
+    33.5,
+    28.0
+   ],
+   "color": {
+    "hex": "#79A7D2",
+    "alpha": 1.0
+   },
+   "ocrGuess": "a",
+   "match": null,
+   "id": "i41",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    883.5,
+    156.5,
+    12.5,
+    22.5
+   ],
+   "color": {
+    "hex": "#06121E",
+    "alpha": 1.0
+   },
+   "ocrGuess": "y",
+   "match": null,
+   "id": "i42",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    889.0,
+    195.0,
+    6.5,
+    13.0
+   ],
+   "color": {
+    "hex": "#000B17",
+    "alpha": 1.0
+   },
+   "ocrGuess": "A",
+   "match": null,
+   "id": "i43",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    951.5,
+    870.5,
+    8.0,
+    9.0
+   ],
+   "color": {
+    "hex": "#2A30FE",
+    "alpha": 1.0
+   },
+   "ocrGuess": "@",
+   "match": null,
+   "id": "i44",
+   "owner": "s16"
+  },
+  {
+   "bbox": [
+    1305.0,
+    612.5,
+    17.0,
+    23.5
+   ],
+   "color": {
+    "hex": "#0BD57E",
+    "alpha": 1.0
+   },
+   "ocrGuess": "o",
+   "match": null,
+   "id": "i45",
+   "owner": "s34"
+  },
+  {
+   "bbox": [
+    1575.5,
+    814.5,
+    22.0,
+    22.0
+   ],
+   "color": {
+    "hex": "#84AFD6",
+    "alpha": 1.0
+   },
+   "ocrGuess": "®",
+   "match": null,
+   "id": "i46",
+   "owner": "s61"
+  },
+  {
+   "bbox": [
+    411.0,
+    571.0,
+    7.5,
+    6.5
+   ],
+   "color": {
+    "hex": "#354053",
+    "alpha": 1.0
+   },
+   "ocrGuess": "A",
+   "match": null,
+   "id": "i47",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    904.0,
+    887.0,
+    5.0,
+    7.0
+   ],
+   "color": {
+    "hex": "#6E101D",
+    "alpha": 1.0
+   },
+   "ocrGuess": "N",
+   "match": null,
+   "id": "i48",
+   "owner": "s16"
+  },
+  {
+   "bbox": [
+    1298.0,
+    764.0,
+    10.5,
+    10.5
+   ],
+   "color": {
+    "hex": "#0979F7",
+    "alpha": 1.0
+   },
+   "ocrGuess": "V",
+   "match": null,
+   "id": "i49",
+   "owner": "s63"
+  },
+  {
+   "bbox": [
+    296.5,
+    212.0,
+    34.0,
+    32.0
+   ],
+   "color": {
+    "hex": "#AEADA5",
+    "alpha": 1.0
+   },
+   "ocrGuess": "=",
+   "match": null,
+   "id": "i50",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    1205.0,
+    370.5,
+    8.0,
+    3.5
+   ],
+   "color": {
+    "hex": "#767792",
+    "alpha": 1.0
+   },
+   "ocrGuess": "+",
+   "match": null,
+   "id": "i51",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    986.0,
+    207.5,
+    7.5,
+    11.5
+   ],
+   "color": {
+    "hex": "#768F96",
+    "alpha": 1.0
+   },
+   "ocrGuess": "p",
+   "match": null,
+   "id": "i52",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    1216.0,
+    311.5,
+    9.0,
+    6.5
+   ],
+   "color": {
+    "hex": "#F8E8FF",
+    "alpha": 1.0
+   },
+   "ocrGuess": "m",
+   "match": null,
+   "id": "i53",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    725.5,
+    725.0,
+    13.5,
+    14.5
+   ],
+   "color": {
+    "hex": "#01107D",
+    "alpha": 1.0
+   },
+   "ocrGuess": "+}",
+   "match": null,
+   "id": "i54",
+   "owner": "s16"
+  },
+  {
+   "bbox": [
+    818.5,
+    277.0,
+    7.0,
+    5.5
+   ],
+   "color": {
+    "hex": "#212D3E",
+    "alpha": 1.0
+   },
+   "ocrGuess": "a",
+   "match": null,
+   "id": "i55",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    497.5,
+    613.0,
+    10.0,
+    7.5
+   ],
+   "color": {
+    "hex": "#9D9C9E",
+    "alpha": 1.0
+   },
+   "ocrGuess": "=",
+   "match": null,
+   "id": "i56",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    589.0,
+    283.5,
+    5.0,
+    11.5
+   ],
+   "color": {
+    "hex": "#E1E5EB",
+    "alpha": 1.0
+   },
+   "ocrGuess": "r",
+   "match": null,
+   "id": "i57",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    800.5,
+    775.5,
+    8.5,
+    7.0
+   ],
+   "color": {
+    "hex": "#41674C",
+    "alpha": 1.0
+   },
+   "ocrGuess": "~",
+   "match": null,
+   "id": "i58",
+   "owner": "s16"
+  },
+  {
+   "bbox": [
+    443.5,
+    376.5,
+    5.5,
+    5.5
+   ],
+   "color": {
+    "hex": "#B14D58",
+    "alpha": 1.0
+   },
+   "ocrGuess": "a",
+   "match": null,
+   "id": "i59",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    909.0,
+    368.0,
+    16.5,
+    15.0
+   ],
+   "color": {
+    "hex": "#EC3023",
+    "alpha": 1.0
+   },
+   "ocrGuess": "|",
+   "match": null,
+   "id": "i60",
+   "owner": "s1"
+  },
+  {
+   "bbox": [
+    917.0,
+    887.0,
+    6.5,
+    8.0
+   ],
+   "color": {
+    "hex": "#781216",
+    "alpha": 1.0
+   },
+   "ocrGuess": "*",
+   "match": null,
+   "id": "i61",
+   "owner": "s16"
+  }
+ ],
+ "hints": {
+  "repeats": [
+   {
+    "parent": "s6",
+    "fill": "#000C1A",
+    "size": [
+     64,
+     28
+    ],
+    "ids": [
+     "s86",
+     "s87"
+    ],
+    "count": 2
+   }
+  ],
+  "todo": [
+   "verify every text string (entries with verify=true first)",
+   "rename color tokens by role",
+   "set roles for surfaces; add missed surfaces; delete false ones",
+   "run match.py (fonts, icons, shadows, gradients) and confirm its report",
+   "add models for repeats"
+  ]
+ },
+ "states": {}
+}
